@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frosina Koceva | Alessio Miaschi</title>
+    <link>https://alemiaschi.github.io/authors/frosina-koceva/</link>
+      <atom:link href="https://alemiaschi.github.io/authors/frosina-koceva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Frosina Koceva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Dec 2020 00:00:01 +0000</lastBuildDate>
+    <image>
+      <url>https://alemiaschi.github.io/images/icon_hu1a7b7277aabff2c0ba5fa23eea98d9b0_107618_512x512_fill_lanczos_center_3.png</url>
+      <title>Frosina Koceva</title>
+      <link>https://alemiaschi.github.io/authors/frosina-koceva/</link>
+    </image>
+    
+    <item>
+      <title>PRELEARN @ EVALITA 2020: Overview of the Prerequisite Relation Learning Task for Italian</title>
+      <link>https://alemiaschi.github.io/publication/conference-paper/evalita_2020_2/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:01 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/publication/conference-paper/evalita_2020_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prerequisite or Not Prerequisite? That&#39;s the problem! An NLP-based Approach for Concept Prerequisite Learning</title>
+      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

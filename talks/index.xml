@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Alessio Miaschi</title>
+    <link>https://alemiaschi.github.io/talks/</link>
+      <atom:link href="https://alemiaschi.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alemiaschi.github.io/images/icon_hu1a7b7277aabff2c0ba5fa23eea98d9b0_107618_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://alemiaschi.github.io/talks/</link>
+    </image>
+    
+    <item>
+      <title>Science Web Festival Workshop</title>
+      <link>https://alemiaschi.github.io/talks/science_web_festival_2021/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/talks/science_web_festival_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAACL 2021 Workshop Papers</title>
+      <link>https://alemiaschi.github.io/talks/workshops_naacl_2021/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/talks/workshops_naacl_2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

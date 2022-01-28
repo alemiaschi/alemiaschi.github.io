@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucia Busso | Alessio Miaschi</title>
+    <link>https://alemiaschi.github.io/authors/lucia-busso/</link>
+      <atom:link href="https://alemiaschi.github.io/authors/lucia-busso/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lucia Busso</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alemiaschi.github.io/images/icon_hu1a7b7277aabff2c0ba5fa23eea98d9b0_107618_512x512_fill_lanczos_center_3.png</url>
+      <title>Lucia Busso</title>
+      <link>https://alemiaschi.github.io/authors/lucia-busso/</link>
+    </image>
+    
+    <item>
+      <title>A dissemination workshop for introducing young Italian students to NLP</title>
+      <link>https://alemiaschi.github.io/publication/conference-paper/teachingnlp2021_1/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/publication/conference-paper/teachingnlp2021_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching NLP with Bracelets and Restaurant Menus: An Interactive Workshop for Italian Students</title>
+      <link>https://alemiaschi.github.io/publication/conference-paper/teachingnlp2021_2/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/publication/conference-paper/teachingnlp2021_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
