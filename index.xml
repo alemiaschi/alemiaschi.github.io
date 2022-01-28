@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alessio Miaschi</title>
+    <link>http://pages.di.unipi.it/miaschi/</link>
+      <atom:link href="http://pages.di.unipi.it/miaschi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alessio Miaschi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:02 +0000</lastBuildDate>
+    <image>
+      <url>http://pages.di.unipi.it/miaschi/images/icon_hu1a7b7277aabff2c0ba5fa23eea98d9b0_107618_512x512_fill_lanczos_center_3.png</url>
+      <title>Alessio Miaschi</title>
+      <link>http://pages.di.unipi.it/miaschi/</link>
+    </image>
+    
+    <item>
+      <title>On the role of Textual Connectives in Sentence Comprehension: a new Dataset for Italian</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/clic_2021_2/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:02 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/clic_2021_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing Tasks Under Pressure</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/clic_2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:02 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/clic_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Transformer Models for Punctuation Restoration in Italian</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/nl4ai_2021/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:02 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/nl4ai_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NL4AI 2021 (AIxIA) Paper</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/nl4ai_2021/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/nl4ai_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLiC-it 2021 Papers</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/clic-it_2021/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/clic-it_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Do BERT Embeddings Organize Linguistic Knowledge?</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/deelio2021_2/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/deelio2021_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Makes My Model Perplexed? A Linguistic Investigation on Neural Language Models Perplexity</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/deelio2021_1/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/deelio2021_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A dissemination workshop for introducing young Italian students to NLP</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/teachingnlp2021_1/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/teachingnlp2021_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching NLP with Bracelets and Restaurant Menus: An Interactive Workshop for Italian Students</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/teachingnlp2021_2/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/teachingnlp2021_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science Web Festival Workshop</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/science_web_festival_2021/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/science_web_festival_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science Web Festival Workshop</title>
+      <link>http://pages.di.unipi.it/miaschi/talks/science_web_festival_2021/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talks/science_web_festival_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAACL 2021 Workshop Papers</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/workshops_naacl_2021/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/workshops_naacl_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAACL 2021 Workshop Papers</title>
+      <link>http://pages.di.unipi.it/miaschi/talks/workshops_naacl_2021/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talks/workshops_naacl_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A NLP-based stylometric approach for tracking the evolution of L1 written language compentece</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/journal-article/jowr/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/journal-article/jowr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journal of Writing Research (JoWR) Paper</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/jowr_paper/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/jowr_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Neural Language Model Perplexity Related to Readability?</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/clic_2020_2/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:02 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/clic_2020_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian Transformers Under the Linguistic Lens</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/clic_2020/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:02 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/clic_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRELEARN @ EVALITA 2020: Overview of the Prerequisite Relation Learning Task for Italian</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/evalita_2020_2/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:01 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/evalita_2020_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ATE_ABSITA @ EVALITA2020: Overview of the Aspect Term Extraction and Aspect-based Sentiment Analysis Task</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/evalita_2020/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/evalita_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COLING 2020 Outstanding Paper Award</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/coling_outstanding_2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/coling_outstanding_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLiC-it 2020 Papers</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/clic-it_2020/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/clic-it_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linguistic Profiling of a Neural Language Model</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/coling2020/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/coling2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COLING 2020 Paper</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/coling_2020/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/coling_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual and Non-Contextual Word Embeddings: an in-depth Linguistic Investigation</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/repl4nlp2020/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/repl4nlp2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking the Evolution of Written Language Competence in L2 Spanish Learners</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/bea2020/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/bea2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BEA-2020 Paper</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/bea_2020/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/bea_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RepL4NLP-2020 Paper</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/repl4nlp_2020/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/repl4nlp_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shared tasks at EVALITA 2020</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/evalita_2020/</link>
+      <pubDate>Mon, 16 Mar 2020 13:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/evalita_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD Giveback Event</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/giveback_event/</link>
+      <pubDate>Wed, 20 Nov 2019 13:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/giveback_event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prerequisite or Not Prerequisite? That&#39;s the problem! An NLP-based Approach for Concept Prerequisite Learning</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/clic_2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/clic_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linguistically-Driven Strategy for Concept Prerequisites Learning on Italian</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/bea2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/bea2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trattamento Automatico della Lingua per la creazione di percorsi didattici personalizzati</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/italia_2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/italia_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Il Codice Pelavicino tra edizione digitale e Public History</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/journal-article/pelavicino/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/journal-article/pelavicino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning for social sensing from tweets</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/clic_2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/clic_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codice Pelavicino. Edizione Digitale</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/book-article/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/book-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://pages.di.unipi.it/miaschi/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://pages.di.unipi.it/miaschi/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/terms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

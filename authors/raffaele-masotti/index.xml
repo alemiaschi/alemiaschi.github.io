@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raffaele Masotti | Alessio Miaschi</title>
+    <link>http://pages.di.unipi.it/miaschi/authors/raffaele-masotti/</link>
+      <atom:link href="http://pages.di.unipi.it/miaschi/authors/raffaele-masotti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raffaele Masotti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://pages.di.unipi.it/miaschi/images/icon_hu1a7b7277aabff2c0ba5fa23eea98d9b0_107618_512x512_fill_lanczos_center_3.png</url>
+      <title>Raffaele Masotti</title>
+      <link>http://pages.di.unipi.it/miaschi/authors/raffaele-masotti/</link>
+    </image>
+    
+    <item>
+      <title>Codice Pelavicino. Edizione Digitale</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/book-article/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/book-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

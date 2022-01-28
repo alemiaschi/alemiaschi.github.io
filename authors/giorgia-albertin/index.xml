@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giorgia Albertin | Alessio Miaschi</title>
+    <link>http://pages.di.unipi.it/miaschi/authors/giorgia-albertin/</link>
+      <atom:link href="http://pages.di.unipi.it/miaschi/authors/giorgia-albertin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giorgia Albertin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:02 +0000</lastBuildDate>
+    <image>
+      <url>http://pages.di.unipi.it/miaschi/images/icon_hu1a7b7277aabff2c0ba5fa23eea98d9b0_107618_512x512_fill_lanczos_center_3.png</url>
+      <title>Giorgia Albertin</title>
+      <link>http://pages.di.unipi.it/miaschi/authors/giorgia-albertin/</link>
+    </image>
+    
+    <item>
+      <title>On the role of Textual Connectives in Sentence Comprehension: a new Dataset for Italian</title>
+      <link>http://pages.di.unipi.it/miaschi/publication/conference-paper/clic_2021_2/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:02 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/publication/conference-paper/clic_2021_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

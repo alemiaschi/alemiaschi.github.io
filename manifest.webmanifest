@@ -1,0 +1,18 @@
+{
+  "name": "Alessio Miaschi",
+  "short_name": "Alessio Miaschi",
+  "lang": "en-us",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/miaschi/images/icon_hu1a7b7277aabff2c0ba5fa23eea98d9b0_107618_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/miaschi/images/icon_hu1a7b7277aabff2c0ba5fa23eea98d9b0_107618_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/miaschi/?utm_source=web_app_manifest"
+}

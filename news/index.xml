@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Alessio Miaschi</title>
+    <link>http://pages.di.unipi.it/miaschi/news/</link>
+      <atom:link href="http://pages.di.unipi.it/miaschi/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Nov 2020 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://pages.di.unipi.it/miaschi/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://pages.di.unipi.it/miaschi/news/</link>
+    </image>
+    
+    <item>
+      <title>Shared tasks at EVALITA 2020</title>
+      <link>http://pages.di.unipi.it/miaschi/news/evalita_2020/</link>
+      <pubDate>Mon, 30 Nov 2020 13:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/news/evalita_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD Giveback Event</title>
+      <link>http://pages.di.unipi.it/miaschi/news/giveback_event/</link>
+      <pubDate>Mon, 09 Dec 2019 13:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/news/giveback_event/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

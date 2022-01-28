@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Alessio Miaschi</title>
+    <link>http://pages.di.unipi.it/miaschi/talk/</link>
+      <atom:link href="http://pages.di.unipi.it/miaschi/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://pages.di.unipi.it/miaschi/images/icon_hu1a7b7277aabff2c0ba5fa23eea98d9b0_107618_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/</link>
+    </image>
+    
+    <item>
+      <title>NL4AI 2021 (AIxIA) Paper</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/nl4ai_2021/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/nl4ai_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLiC-it 2021 Papers</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/clic-it_2021/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/clic-it_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science Web Festival Workshop</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/science_web_festival_2021/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/science_web_festival_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAACL 2021 Workshop Papers</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/workshops_naacl_2021/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/workshops_naacl_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journal of Writing Research (JoWR) Paper</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/jowr_paper/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/jowr_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COLING 2020 Outstanding Paper Award</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/coling_outstanding_2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/coling_outstanding_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLiC-it 2020 Papers</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/clic-it_2020/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/clic-it_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COLING 2020 Paper</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/coling_2020/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/coling_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BEA-2020 Paper</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/bea_2020/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/bea_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RepL4NLP-2020 Paper</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/repl4nlp_2020/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/repl4nlp_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shared tasks at EVALITA 2020</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/evalita_2020/</link>
+      <pubDate>Mon, 16 Mar 2020 13:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/evalita_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD Giveback Event</title>
+      <link>http://pages.di.unipi.it/miaschi/talk/giveback_event/</link>
+      <pubDate>Wed, 20 Nov 2019 13:00:00 +0000</pubDate>
+      <guid>http://pages.di.unipi.it/miaschi/talk/giveback_event/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
