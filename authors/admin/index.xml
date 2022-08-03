@@ -5,12 +5,20 @@
     <link>https://alemiaschi.github.io/authors/admin/</link>
       <atom:link href="https://alemiaschi.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Alessio Miaschi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2022 00:00:02 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alemiaschi.github.io/authors/admin/avatar_hua73fbe25425f863536f0e81368f48086_70171_270x270_fill_q90_lanczos_center.jpeg</url>
       <title>Alessio Miaschi</title>
       <link>https://alemiaschi.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Probing Linguistic Knowledge in Italian Neural Language Models across Language Varieties</title>
+      <link>https://alemiaschi.github.io/publication/journal-article/ijcol_2022/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/publication/journal-article/ijcol_2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Punctuation Restoration in Spoken Italian Transcripts with Transformers</title>

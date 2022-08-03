@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="PostDoc in Natural Language Processing">
+  <meta name="description" content="In this paper, we present an in-depth investigation of the linguistic knowledge encoded by the transformer models currently available for the Italian language. In particular, we investigate how the complexity of two different architectures of probing models affects the performance of the Transformers in encoding a wide spectrum of linguistic features. Moreover, we explore how this implicit knowledge varies according to different textual genres and language varieties.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://alemiaschi.github.io/authors/felice-dellorletta/">
+  <link rel="alternate" hreflang="en-us" href="https://alemiaschi.github.io/publication/journal-article/ijcol_2022/">
 
   
 
@@ -212,14 +212,12 @@
   
 
   
-  <link rel="alternate" href="/authors/felice-dellorletta/index.xml" type="application/rss+xml" title="Alessio Miaschi">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu17af01e179191f389923d1b802f60b03_242678_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu17af01e179191f389923d1b802f60b03_242678_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://alemiaschi.github.io/authors/felice-dellorletta/">
+  <link rel="canonical" href="https://alemiaschi.github.io/publication/journal-article/ijcol_2022/">
 
   
   
@@ -235,18 +233,61 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Alessio Miaschi">
-  <meta property="og:url" content="https://alemiaschi.github.io/authors/felice-dellorletta/">
-  <meta property="og:title" content="Felice Dell&#39;Orletta | Alessio Miaschi">
-  <meta property="og:description" content="PostDoc in Natural Language Processing"><meta property="og:image" content="https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://alemiaschi.github.io/publication/journal-article/ijcol_2022/">
+  <meta property="og:title" content="Probing Linguistic Knowledge in Italian Neural Language Models across Language Varieties | Alessio Miaschi">
+  <meta property="og:description" content="In this paper, we present an in-depth investigation of the linguistic knowledge encoded by the transformer models currently available for the Italian language. In particular, we investigate how the complexity of two different architectures of probing models affects the performance of the Transformers in encoding a wide spectrum of linguistic features. Moreover, we explore how this implicit knowledge varies according to different textual genres and language varieties."><meta property="og:image" content="https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-07-28T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2022-07-28T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2022-07-28T00:00:00&#43;00:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://alemiaschi.github.io/publication/journal-article/ijcol_2022/"
+  },
+  "headline": "Probing Linguistic Knowledge in Italian Neural Language Models across Language Varieties",
+  
+  "datePublished": "2022-07-28T00:00:00Z",
+  "dateModified": "2022-07-28T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Alessio Miaschi"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Alessio Miaschi",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "In this paper, we present an in-depth investigation of the linguistic knowledge encoded by the transformer models currently available for the Italian language. In particular, we investigate how the complexity of two different architectures of probing models affects the performance of the Transformers in encoding a wide spectrum of linguistic features. Moreover, we explore how this implicit knowledge varies according to different textual genres and language varieties."
+}
+</script>
+
+  
 
   
 
@@ -254,10 +295,13 @@
   
 
 
+  
 
 
 
-  <title>Felice Dell&#39;Orletta | Alessio Miaschi</title>
+
+
+  <title>Probing Linguistic Knowledge in Italian Neural Language Models across Language Varieties | Alessio Miaschi</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="dark">
@@ -490,96 +534,472 @@
 </nav>
 
 
+  <div class="pub">
+
   
 
 
 
-<div class="universal-wrapper pt-3">
-  <h1>Felice Dell&#39;Orletta</h1>
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Probing Linguistic Knowledge in Italian Neural Language Models across Language Varieties</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span ><a href="/authors/admin/">Alessio Miaschi</a></span>, <span >Gabriele Sarti</span>, <span >Dominique Brunato</span>, <span >Felice Dell&#39;Orletta</span>, <span >Giulia Venturi</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    July 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="http://www.aaccademia.it/ita/scheda-libro?aaref=1518" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/journal-article/ijcol_2022/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
+  
+</div>
+
+
+
+  <div class="article-container">
+
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">In this paper, we present an in-depth investigation of the linguistic knowledge encoded by the transformer models currently available for the Italian language. In particular, we investigate how the complexity of two different architectures of probing models affects the performance of the Transformers in encoding a wide spectrum of linguistic features. Moreover, we explore how this implicit knowledge varies according to different textual genres and language varieties.</p>
     
 
     
-    
-    
-    <div class="article-widget content-widget-hr">
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/journal-article/ijcol_2022/">Probing Linguistic Knowledge in Italian Neural Language Models across Language Varieties</a>
-        </li>
-        
-        <li>
-          <a href="/publication/conference-paper/advance_ai_2022/">Punctuation Restoration in Spoken Italian Transcripts with Transformers</a>
-        </li>
-        
-        <li>
-          <a href="/publication/conference-paper/clic_2021/">Probing Tasks Under Pressure</a>
-        </li>
-        
-        <li>
-          <a href="/publication/conference-paper/nl4ai_2021/">Evaluating Transformer Models for Punctuation Restoration in Italian</a>
-        </li>
-        
-        <li>
-          <a href="/publication/conference-paper/deelio2021_2/">How Do BERT Embeddings Organize Linguistic Knowledge?</a>
-        </li>
-        
-        <li>
-          <a href="/publication/conference-paper/deelio2021_1/">What Makes My Model Perplexed? A Linguistic Investigation on Neural Language Models Perplexity</a>
-        </li>
-        
-        <li>
-          <a href="/publication/journal-article/jowr/">A NLP-based stylometric approach for tracking the evolution of L1 written language compentece</a>
-        </li>
-        
-        <li>
-          <a href="/publication/conference-paper/clic_2020_2/">Is Neural Language Model Perplexity Related to Readability?</a>
-        </li>
-        
-        <li>
-          <a href="/publication/conference-paper/clic_2020/">Italian Transformers Under the Linguistic Lens</a>
-        </li>
-        
-        <li>
-          <a href="/publication/conference-paper/evalita_2020_2/">PRELEARN @ EVALITA 2020: Overview of the Prerequisite Relation Learning Task for Italian</a>
-        </li>
-        
-        <li>
-          <a href="/publication/conference-paper/coling2020/">Linguistic Profiling of a Neural Language Model</a>
-        </li>
-        
-        <li>
-          <a href="/publication/conference-paper/repl4nlp2020/">Contextual and Non-Contextual Word Embeddings: an in-depth Linguistic Investigation</a>
-        </li>
-        
-        <li>
-          <a href="/publication/conference-paper/bea2020/">Tracking the Evolution of Written Language Competence in L2 Spanish Learners</a>
-        </li>
-        
-        <li>
-          <a href="/publication/conference-paper/clic_2019/">Prerequisite or Not Prerequisite? That&#39;s the problem! An NLP-based Approach for Concept Prerequisite Learning</a>
-        </li>
-        
-        <li>
-          <a href="/publication/conference-paper/bea2019/">Linguistically-Driven Strategy for Concept Prerequisites Learning on Italian</a>
-        </li>
-        
-        <li>
-          <a href="/publication/conference-paper/italia_2019/">Trattamento Automatico della Lingua per la creazione di percorsi didattici personalizzati</a>
-        </li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
     
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Italian Journal of Computational Linguistics (IJCoL), Vol. 8, N. 1, June 2022, pages 25-44</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/source-themes/">Source Themes</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://alemiaschi.github.io/publication/journal-article/ijcol_2022/&amp;text=Probing%20Linguistic%20Knowledge%20in%20Italian%20Neural%20Language%20Models%20across%20Language%20Varieties" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://alemiaschi.github.io/publication/journal-article/ijcol_2022/&amp;t=Probing%20Linguistic%20Knowledge%20in%20Italian%20Neural%20Language%20Models%20across%20Language%20Varieties" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Probing%20Linguistic%20Knowledge%20in%20Italian%20Neural%20Language%20Models%20across%20Language%20Varieties&amp;body=https://alemiaschi.github.io/publication/journal-article/ijcol_2022/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://alemiaschi.github.io/publication/journal-article/ijcol_2022/&amp;title=Probing%20Linguistic%20Knowledge%20in%20Italian%20Neural%20Language%20Models%20across%20Language%20Varieties" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Probing%20Linguistic%20Knowledge%20in%20Italian%20Neural%20Language%20Models%20across%20Language%20Varieties%20https://alemiaschi.github.io/publication/journal-article/ijcol_2022/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://alemiaschi.github.io/publication/journal-article/ijcol_2022/&amp;title=Probing%20Linguistic%20Knowledge%20in%20Italian%20Neural%20Language%20Models%20across%20Language%20Varieties" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hua73fbe25425f863536f0e81368f48086_70171_270x270_fill_q90_lanczos_center.jpeg" alt="Alessio Miaschi">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://alemiaschi.github.io/">Alessio Miaschi</a></h5>
+        <h6 class="card-subtitle">PostDoc in Natural Language Processing</h6>
+        
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.it/citations?user=BaL8eJ0AAAAJ&amp;hl=it" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/alessiomiaschi/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/AlessioMiaschi" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/files/cv.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   </div>
-</section>
+</div>
 
       
 
