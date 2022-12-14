@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alemiaschi.github.io/publication_types/2/</loc>
-    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://alemiaschi.github.io/</loc>
+    <lastmod>2022-12-14T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/talk/evalita_2022/</loc>
+    <lastmod>2022-12-14T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/talk/</loc>
+    <lastmod>2022-12-14T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/publication_types/2/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/authors/admin/</loc>
@@ -33,9 +39,6 @@
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/publication/</loc>
-    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talk/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/tags/source-themes/</loc>
