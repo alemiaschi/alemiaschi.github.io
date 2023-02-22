@@ -5,12 +5,20 @@
     <link>https://alemiaschi.github.io/talk/</link>
       <atom:link href="https://alemiaschi.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://alemiaschi.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Information 2023, Volume 14, Number 3</title>
+      <link>https://alemiaschi.github.io/talk/information/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/talk/information/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LangLearn (Shared task at EVALITA 2023)</title>

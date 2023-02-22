@@ -5,12 +5,20 @@
     <link>https://alemiaschi.github.io/authors/admin/</link>
       <atom:link href="https://alemiaschi.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Alessio Miaschi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
       <title>Alessio Miaschi</title>
       <link>https://alemiaschi.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Testing the Effectiveness of the Diagnostic Probing Paradigm on Italian Treebanks</title>
+      <link>https://alemiaschi.github.io/publication/journal-article/information/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/publication/journal-article/information/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On Robustness and Sensitivity of a Neural Language Model: A Case Study on Italian L1 Learner Errors</title>
