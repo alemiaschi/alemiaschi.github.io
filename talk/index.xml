@@ -5,12 +5,20 @@
     <link>https://alemiaschi.github.io/talk/</link>
       <atom:link href="https://alemiaschi.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://alemiaschi.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Talk at DCP23</title>
+      <link>https://alemiaschi.github.io/talk/dcp_2023/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/talk/dcp_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lab @ Lectures on Computational Linguistics 2023</title>
