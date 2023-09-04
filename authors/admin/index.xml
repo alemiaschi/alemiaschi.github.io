@@ -5,12 +5,20 @@
     <link>https://alemiaschi.github.io/authors/admin/</link>
       <atom:link href="https://alemiaschi.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Alessio Miaschi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Sep 2023 00:00:01 +0000</lastBuildDate>
     <image>
       <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
       <title>Alessio Miaschi</title>
       <link>https://alemiaschi.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>LangLearn at EVALITA 2023: Overview of the Language Learning Development Task</title>
+      <link>https://alemiaschi.github.io/publication/conference-paper/evalita_2023/</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:01 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/publication/conference-paper/evalita_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tell me how you write and I&#39;ll tell you what you read: a study on the writing style of book reviews</title>
