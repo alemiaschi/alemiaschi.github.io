@@ -5,12 +5,28 @@
     <link>https://alemiaschi.github.io/authors/felice-dellorletta/</link>
       <atom:link href="https://alemiaschi.github.io/authors/felice-dellorletta/index.xml" rel="self" type="application/rss+xml" />
     <description>Felice Dell&#39;Orletta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Sep 2023 00:00:01 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Oct 2023 00:00:02 +0000</lastBuildDate>
     <image>
       <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
       <title>Felice Dell&#39;Orletta</title>
       <link>https://alemiaschi.github.io/authors/felice-dellorletta/</link>
     </image>
+    
+    <item>
+      <title>Lost in Labels: An Ongoing Quest to Optimize Text-to-Text Label Selection for Classification (to appear)</title>
+      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2023_2/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:02 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2023_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmasking the Wordsmith: Revealing Author Identity through Reader Reviews (to appear)</title>
+      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2023/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:02 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LangLearn at EVALITA 2023: Overview of the Language Learning Development Task</title>
