@@ -2,8 +2,8 @@
   "name": "Alessio Miaschi",
   "short_name": "Alessio Miaschi",
   "lang": "en-us",
-  "theme_color": "rgb(0, 136, 204)",
-  "background_color": "rgb(0, 136, 204)",
+  "theme_color": "#bd972d",
+  "background_color": "#bd972d",
   "icons": [{
     "src": "/images/icon_hu17af01e179191f389923d1b802f60b03_242678_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
