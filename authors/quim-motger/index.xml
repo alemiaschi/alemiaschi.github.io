@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quim Motger | Alessio Miaschi</title>
+    <link>https://alemiaschi.github.io/authors/quim-motger/</link>
+      <atom:link href="https://alemiaschi.github.io/authors/quim-motger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quim Motger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jan 2024 00:00:02 +0000</lastBuildDate>
+    <image>
+      <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
+      <title>Quim Motger</title>
+      <link>https://alemiaschi.github.io/authors/quim-motger/</link>
+    </image>
+    
+    <item>
+      <title>T-FREX: A Transformer-based Feature Extraction Method for Mobile App Reviews</title>
+      <link>https://alemiaschi.github.io/publication/conference-paper/saner_2024/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:02 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/publication/conference-paper/saner_2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
