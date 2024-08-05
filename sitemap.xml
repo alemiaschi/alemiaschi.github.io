@@ -2,8 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alemiaschi.github.io/publication_types/2/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://alemiaschi.github.io/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/admin/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/felice-dellorletta/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/jordi-marco/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/publication/journal-article/empirical_software/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/publication_types/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/publication/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/quim-motger/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/tags/source-themes/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/tags/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/xavier-franch/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/talk/rtda_fair/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
@@ -12,15 +48,6 @@
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/publication_types/1/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/admin/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/felice-dellorletta/</loc>
     <lastmod>2024-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/authors/giulia-venturi/</loc>
@@ -32,31 +59,10 @@
     <loc>https://alemiaschi.github.io/talk/coling_2024/</loc>
     <lastmod>2024-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication_types/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/tags/source-themes/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/tags/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://alemiaschi.github.io/talk/buzzetti_prize_aiucd_2024/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/jordi-marco/</loc>
-    <lastmod>2024-01-12T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/quim-motger/</loc>
-    <lastmod>2024-01-12T00:00:02+00:00</lastmod>
-  </url><url>
     <loc>https://alemiaschi.github.io/publication/conference-paper/saner_2024/</loc>
-    <lastmod>2024-01-12T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/xavier-franch/</loc>
     <lastmod>2024-01-12T00:00:02+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/talk/saner2024/</loc>
@@ -94,9 +100,6 @@
   </url><url>
     <loc>https://alemiaschi.github.io/publication/conference-paper/evalita_2023/</loc>
     <lastmod>2023-09-04T00:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication_types/2/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/authors/elena-prat/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
