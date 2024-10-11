@@ -5,12 +5,28 @@
     <link>https://alemiaschi.github.io/</link>
       <atom:link href="https://alemiaschi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alessio Miaschi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
       <title>Alessio Miaschi</title>
       <link>https://alemiaschi.github.io/</link>
     </image>
+    
+    <item>
+      <title>CLiC-it 2024 Paper</title>
+      <link>https://alemiaschi.github.io/talk/clic_2024/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/talk/clic_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NL4AI 2024 Paper</title>
+      <link>https://alemiaschi.github.io/talk/nl4ai_2024/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/talk/nl4ai_2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EMNLP 2024 Paper</title>
