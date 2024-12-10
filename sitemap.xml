@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alemiaschi.github.io/publication_types/1/</loc>
-    <lastmod>2024-10-29T00:00:02+00:00</lastmod>
-  </url><url>
     <loc>https://alemiaschi.github.io/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/talk/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/talk/phd_genova/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/publication_types/1/</loc>
     <lastmod>2024-10-29T00:00:02+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/authors/admin/</loc>
@@ -51,9 +57,6 @@
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/talk/nl4ai_2024/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talk/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/talk/emnlp2024/</loc>
