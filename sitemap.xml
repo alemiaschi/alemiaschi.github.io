@@ -2,8 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alemiaschi.github.io/publication_types/1/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/alessandro-bondielli/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/alessandro-lenci/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://alemiaschi.github.io/</loc>
-    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/admin/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/publication/conference-paper/maia_2025/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/bernardo-magnini/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/davide-testa/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/giovanni-bonetta/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/lucia-passaro/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/publication_types/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/publication/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/raffaella-bernardi/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/tags/source-themes/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/tags/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/talk/</loc>
     <lastmod>2025-02-19T00:00:00+00:00</lastmod>
@@ -11,16 +56,7 @@
     <loc>https://alemiaschi.github.io/talk/fair_workshop/</loc>
     <lastmod>2025-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication_types/1/</loc>
-    <lastmod>2025-01-23T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/admin/</loc>
-    <lastmod>2025-01-23T00:00:02+00:00</lastmod>
-  </url><url>
     <loc>https://alemiaschi.github.io/authors/amaury-trujillo/</loc>
-    <lastmod>2025-01-23T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/</loc>
     <lastmod>2025-01-23T00:00:02+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/publication/conference-paper/www_2024/</loc>
@@ -35,19 +71,7 @@
     <loc>https://alemiaschi.github.io/authors/marco-avvenuti/</loc>
     <lastmod>2025-01-23T00:00:02+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication_types/</loc>
-    <lastmod>2025-01-23T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/</loc>
-    <lastmod>2025-01-23T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/tags/source-themes/</loc>
-    <lastmod>2025-01-23T00:00:02+00:00</lastmod>
-  </url><url>
     <loc>https://alemiaschi.github.io/authors/stefano-cresci/</loc>
-    <lastmod>2025-01-23T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/tags/</loc>
     <lastmod>2025-01-23T00:00:02+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/authors/andrea-esuli/</loc>
