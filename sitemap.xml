@@ -2,37 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alemiaschi.github.io/talk/acl2025/</loc>
-    <lastmod>2025-05-19T00:00:00+00:00</lastmod>
+    <loc>https://alemiaschi.github.io/publication_types/1/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/admin/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/andrea-esuli/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/andrea-pedrotti/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/publication/conference-paper/acl_2025_2/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/cristiano-ciaccio/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/publication/conference-paper/acl_2025_3/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/felice-dellorletta/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/giovanni-puccetti/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/marta-sartor/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/authors/michele-papucci/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/publication_types/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/publication/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/tags/source-themes/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/publication/conference-paper/acl_2025_1/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/tags/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alemiaschi.github.io/talk/acl2025/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/talk/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication_types/1/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/admin/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/andrea-esuli/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://alemiaschi.github.io/authors/andrei-stefan-bejgu/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://alemiaschi.github.io/authors/edoardo-barba/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/felice-dellorletta/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/giovanni-puccetti/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/authors/luca-moroni/</loc>
@@ -44,19 +77,7 @@
     <loc>https://alemiaschi.github.io/authors/pere-lluis-huguet-cabot/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication_types/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://alemiaschi.github.io/authors/roberto-navigli/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/tags/source-themes/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/tags/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/publication_types/2/</loc>
@@ -131,16 +152,10 @@
     <loc>https://alemiaschi.github.io/publication/conference-paper/clic_2024/</loc>
     <lastmod>2024-10-29T00:00:02+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/cristiano-ciaccio/</loc>
-    <lastmod>2024-10-29T00:00:02+00:00</lastmod>
-  </url><url>
     <loc>https://alemiaschi.github.io/publication/conference-paper/nl4ai_2024/</loc>
     <lastmod>2024-10-29T00:00:02+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/authors/giulia-venturi/</loc>
-    <lastmod>2024-10-29T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/michele-papucci/</loc>
     <lastmod>2024-10-29T00:00:02+00:00</lastmod>
   </url><url>
     <loc>https://alemiaschi.github.io/publication/conference-paper/emnlp_2024/</loc>

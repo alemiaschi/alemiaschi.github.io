@@ -5,12 +5,20 @@
     <link>https://alemiaschi.github.io/authors/michele-papucci/</link>
       <atom:link href="https://alemiaschi.github.io/authors/michele-papucci/index.xml" rel="self" type="application/rss+xml" />
     <description>Michele Papucci</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Oct 2024 00:00:02 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
       <title>Michele Papucci</title>
       <link>https://alemiaschi.github.io/authors/michele-papucci/</link>
     </image>
+    
+    <item>
+      <title>Stress-testing Machine Generated Text Detection: Shifting Language Models Writing Style to Fool Detectors</title>
+      <link>https://alemiaschi.github.io/publication/conference-paper/acl_2025_1/</link>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/publication/conference-paper/acl_2025_1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fantastic Labels and Where to Find Them: Attention-Based Label Selection for Text-to-Text Classification</title>
