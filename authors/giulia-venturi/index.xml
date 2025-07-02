@@ -5,12 +5,20 @@
     <link>https://alemiaschi.github.io/authors/giulia-venturi/</link>
       <atom:link href="https://alemiaschi.github.io/authors/giulia-venturi/index.xml" rel="self" type="application/rss+xml" />
     <description>Giulia Venturi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Oct 2024 00:00:02 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
       <title>Giulia Venturi</title>
       <link>https://alemiaschi.github.io/authors/giulia-venturi/</link>
     </image>
+    
+    <item>
+      <title>Parallel Trees: a novel resource with aligned dependency and constituency syntactic representations</title>
+      <link>https://alemiaschi.github.io/publication/journal-article/lre/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/publication/journal-article/lre/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Controllable Text Generation To Evaluate Linguistic Abilities of Italian LLMs</title>
