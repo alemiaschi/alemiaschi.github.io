@@ -5,12 +5,20 @@
     <link>https://alemiaschi.github.io/tags/source-themes/</link>
       <atom:link href="https://alemiaschi.github.io/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
       <title>Source Themes</title>
       <link>https://alemiaschi.github.io/tags/source-themes/</link>
     </image>
+    
+    <item>
+      <title>All-in-one: Understanding and Generation in Multimodal Reasoning with the MAIA Benchmark</title>
+      <link>https://alemiaschi.github.io/publication/conference-paper/emnlp_2025/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/publication/conference-paper/emnlp_2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Beyond the Spelling Miracle: Investigating Substring Awareness in Character-Blind Language Models</title>
@@ -65,14 +73,6 @@
       <link>https://alemiaschi.github.io/publication/conference-paper/www_2025/</link>
       <pubDate>Tue, 22 Apr 2025 00:00:02 +0000</pubDate>
       <guid>https://alemiaschi.github.io/publication/conference-paper/www_2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>All-in-one: Understanding and Generation in Multimodal Reasoning with the MAIA Benchmark</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/maia_2025/</link>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/maia_2025/</guid>
       <description></description>
     </item>
     
