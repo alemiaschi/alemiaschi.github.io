@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>language models | Alessio Miaschi</title>
+    <link>https://alemiaschi.github.io/tags/language-models/</link>
+      <atom:link href="https://alemiaschi.github.io/tags/language-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>language models</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
+      <title>language models</title>
+      <link>https://alemiaschi.github.io/tags/language-models/</link>
+    </image>
+    
+    <item>
+      <title>LLM Profiling Data</title>
+      <link>https://alemiaschi.github.io/project/llm_profiling/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/project/llm_profiling/</guid>
+      <description>&lt;p&gt;This repository contains data associated with the EMNLP 2024 paper &lt;a href=&#39;https://aclanthology.org/2024.emnlp-main.166.pdf&#39;&gt;Evaluating Large Language Models via Linguistic Profiling&lt;/a&gt;.
+&lt;br&gt;
+&lt;b&gt;Abstract&lt;/b&gt;: Large Language Models (LLMs) undergo extensive evaluation against various benchmarks collected in established leaderboards to assess their performance across multiple tasks. However, to the best of our knowledge, there is a lack of comprehensive studies evaluating these models&#39; linguistic abilities independent of specific tasks. In this paper, we introduce a novel evaluation methodology designed to test LLMs&#39; sentence generation abilities under specific linguistic constraints. Drawing on the `linguistic profiling&#39; approach, we rigorously investigate the extent to which five LLMs of varying sizes, tested in both zero- and few-shot scenarios, effectively adhere to (morpho)syntactic constraints. Our findings shed light on the linguistic proficiency of LLMs, revealing both their capabilities and limitations in generating linguistically-constrained sentences.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

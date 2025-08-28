@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python | Alessio Miaschi</title>
+    <link>https://alemiaschi.github.io/tags/python/</link>
+      <atom:link href="https://alemiaschi.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>python</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
+      <title>python</title>
+      <link>https://alemiaschi.github.io/tags/python/</link>
+    </image>
+    
+    <item>
+      <title>Python for Beginners</title>
+      <link>https://alemiaschi.github.io/project/python_classes/</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/project/python_classes/</guid>
+      <description>&lt;p&gt;This repository contains the slides and the materials for the &amp;ldquo;Python for Beginners&amp;rdquo; course (Corsi Hands on: strumenti digitali per le DH). All materials are in Italian 🇮🇹.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

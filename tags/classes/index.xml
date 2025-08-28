@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>classes | Alessio Miaschi</title>
+    <link>https://alemiaschi.github.io/tags/classes/</link>
+      <atom:link href="https://alemiaschi.github.io/tags/classes/index.xml" rel="self" type="application/rss+xml" />
+    <description>classes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
+      <title>classes</title>
+      <link>https://alemiaschi.github.io/tags/classes/</link>
+    </image>
+    
+    <item>
+      <title>LLMs Anatomy Course</title>
+      <link>https://alemiaschi.github.io/project/llm_anatomy/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/project/llm_anatomy/</guid>
+      <description>&lt;p&gt;This is the repository for the LLMs Anatomy Course held by me and my colleague &lt;a href=&#39;https://michelepapucci.github.io/&#39;&gt;Michele Papucci&lt;/a&gt; and organized for the students of the Department of Ingegneria Civile e Industriale (University of Pisa).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python for Beginners</title>
+      <link>https://alemiaschi.github.io/project/python_classes/</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/project/python_classes/</guid>
+      <description>&lt;p&gt;This repository contains the slides and the materials for the &amp;ldquo;Python for Beginners&amp;rdquo; course (Corsi Hands on: strumenti digitali per le DH). All materials are in Italian 🇮🇹.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

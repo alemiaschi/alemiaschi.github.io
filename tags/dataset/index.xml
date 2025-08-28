@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dataset | Alessio Miaschi</title>
+    <link>https://alemiaschi.github.io/tags/dataset/</link>
+      <atom:link href="https://alemiaschi.github.io/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
+    <description>dataset</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 1970 01:33:39 +0100</lastBuildDate>
+    <image>
+      <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
+      <title>dataset</title>
+      <link>https://alemiaschi.github.io/tags/dataset/</link>
+    </image>
+    
+    <item>
+      <title>ITA-PREREQ</title>
+      <link>https://alemiaschi.github.io/project/ita-prereq/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate>
+      <guid>https://alemiaschi.github.io/project/ita-prereq/</guid>
+      <description>&lt;p&gt;The ITA-PREREQ dataset is the first Italian dataset of concepts extracted from Wikipedia and annotated with prerequisite relations. Specifically, ITA-PREREQ is a conversion of the English AL-CPL dataset and contains a total of 455 concepts and 1,495 prerequisite relations extracted from four Wikipedia macro-domains: Data Mining, Geometry, Physics, and Numerical Analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
