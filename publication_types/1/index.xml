@@ -5,7 +5,7 @@
     <link>https://alemiaschi.github.io/publication_types/1/</link>
       <atom:link href="https://alemiaschi.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -15,8 +15,32 @@
     <item>
       <title>All-in-one: Understanding and Generation in Multimodal Reasoning with the MAIA Benchmark</title>
       <link>https://alemiaschi.github.io/publication/conference-paper/emnlp_2025/</link>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://alemiaschi.github.io/publication/conference-paper/emnlp_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crossword Space: Latent Manifold Learning for Italian Crosswords and Beyond</title>
+      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2025_1/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:02 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2025_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAIA: a Benchmark for Multimodal AI Assessment</title>
+      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2025_3/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:02 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2025_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The OuLiBench Benchmark: Formal Constraints as a Lens into LLM Linguistic Competence </title>
+      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2025_2/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:02 +0000</pubDate>
+      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2025_2/</guid>
       <description></description>
     </item>
     
