@@ -2,627 +2,431 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alemiaschi.github.io/publication_types/1/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/alessandro-bondielli/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/emnlp_2025/</loc>
+    <lastmod>2025-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/alessandro-lenci/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/courses/</loc>
+    <lastmod>2025-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/location/</loc>
+    <lastmod>2025-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/admin/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/</loc>
+    <lastmod>2025-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/emnlp_2025/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/talks/</loc>
+    <lastmod>2025-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/bernardo-magnini/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/davide-testa/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/giovanni-bonetta/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/lucia-passaro/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication_types/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/raffaella-bernardi/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/tags/source-themes/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/tags/</loc>
-    <lastmod>2025-11-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talk/best_student_paper_clic2025/</loc>
+    <loc>http://localhost:1313/news/best_student_paper_clic2025/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/</loc>
+    <loc>http://localhost:1313/news/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/lm4dh_2025/</loc>
+    <loc>http://localhost:1313/papers/clic_2025_1/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/clic_2025_3/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/clic_2025_2/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/lm4dh_2025/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/cruciverbit_evalita_2026/</loc>
+    <loc>http://localhost:1313/news/cruciverbit_evalita_2026/</loc>
     <lastmod>2025-09-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/alessio-miaschi/</loc>
-    <lastmod>2025-09-01T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/cristiano-ciaccio/</loc>
-    <lastmod>2025-09-01T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/clic_2025_1/</loc>
-    <lastmod>2025-09-01T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/felice-dellorletta/</loc>
-    <lastmod>2025-09-01T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/gabriele-sarti/</loc>
-    <lastmod>2025-09-01T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/clic_2025_3/</loc>
-    <lastmod>2025-09-01T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/silvio-calderaro/</loc>
-    <lastmod>2025-09-01T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/clic_2025_2/</loc>
-    <lastmod>2025-09-01T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talk/clicit_2025/</loc>
+    <loc>http://localhost:1313/news/clicit_2025/</loc>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/crossword-solving/</loc>
+    <loc>http://localhost:1313/tags/crossword-solving/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/project/cruciverbit/</loc>
+    <loc>http://localhost:1313/projects/cruciverbit/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/evalita/</loc>
+    <loc>http://localhost:1313/tags/evalita/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/project/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/shared-task/</loc>
+    <loc>http://localhost:1313/tags/shared-task/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/emnlp2025/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/emnlp2025/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/andrea-esuli/</loc>
+    <loc>http://localhost:1313/papers/acl_2025_2/</loc>
     <lastmod>2025-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/andrea-pedrotti/</loc>
+    <loc>http://localhost:1313/papers/acl_2025_3/</loc>
     <lastmod>2025-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/acl_2025_2/</loc>
+    <loc>http://localhost:1313/papers/acl_2025_1/</loc>
     <lastmod>2025-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/acl_2025_3/</loc>
-    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/giovanni-puccetti/</loc>
-    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/marta-sartor/</loc>
-    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/michele-papucci/</loc>
-    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/acl_2025_1/</loc>
-    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talk/evalita_2026/</loc>
+    <loc>http://localhost:1313/news/evalita_2026/</loc>
     <lastmod>2025-07-23T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication_types/2/</loc>
-    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/lre/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/chiara-alzetta/</loc>
-    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/giulia-venturi/</loc>
-    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/journal-article/lre/</loc>
-    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/simonetta-montemagni/</loc>
-    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/tags/classes/</loc>
+    <loc>http://localhost:1313/tags/classes/</loc>
     <lastmod>2025-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/fine-tuning/</loc>
+    <loc>http://localhost:1313/tags/fine-tuning/</loc>
     <lastmod>2025-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/interpretability/</loc>
+    <loc>http://localhost:1313/tags/interpretability/</loc>
     <lastmod>2025-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/llm/</loc>
+    <loc>http://localhost:1313/tags/llm/</loc>
     <lastmod>2025-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/project/llm_anatomy/</loc>
+    <loc>http://localhost:1313/projects/llm_anatomy/</loc>
     <lastmod>2025-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/acl2025/</loc>
+    <loc>http://localhost:1313/news/acl2025/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/andrei-stefan-bejgu/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/naacl_2025/</loc>
+    <lastmod>2025-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/edoardo-barba/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/ese/</loc>
+    <lastmod>2025-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/luca-moroni/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/naacl_2025/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/pere-lluis-huguet-cabot/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/roberto-navigli/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/jordi-marco/</loc>
-    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/journal-article/empirical_software/</loc>
-    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/quim-motger/</loc>
-    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/xavier-franch/</loc>
-    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/amaury-trujillo/</loc>
-    <lastmod>2025-04-22T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/www_2025/</loc>
-    <lastmod>2025-04-22T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/lorenzo-cima/</loc>
-    <lastmod>2025-04-22T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/marco-avvenuti/</loc>
-    <lastmod>2025-04-22T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/stefano-cresci/</loc>
-    <lastmod>2025-04-22T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talk/nlp4re_2025/</loc>
+    <loc>http://localhost:1313/news/nlp4re_2025/</loc>
     <lastmod>2025-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/fair_workshop/</loc>
+    <loc>http://localhost:1313/papers/www_2025/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/fair_workshop/</loc>
     <lastmod>2025-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/naacl2025/</loc>
+    <loc>http://localhost:1313/news/naacl2025/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/www2025/</loc>
+    <loc>http://localhost:1313/news/www2025/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/phd_genova/</loc>
+    <loc>http://localhost:1313/papers/clic_2024/</loc>
+    <lastmod>2024-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/phd_genova/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/language-models/</loc>
+    <loc>http://localhost:1313/papers/nl4ai_2024/</loc>
+    <lastmod>2024-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/emnlp_2024/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/project/llm_profiling/</loc>
+    <loc>http://localhost:1313/tags/language-models/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/llms/</loc>
+    <loc>http://localhost:1313/projects/llm_profiling/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/clic_2024/</loc>
-    <lastmod>2024-10-29T00:00:02+00:00</lastmod>
+    <loc>http://localhost:1313/tags/llms/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/nl4ai_2024/</loc>
-    <lastmod>2024-10-29T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/emnlp_2024/</loc>
-    <lastmod>2024-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talk/clic_2024/</loc>
+    <loc>http://localhost:1313/news/clic_2024/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/nl4ai_2024/</loc>
+    <loc>http://localhost:1313/news/nl4ai_2024/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/emnlp2024/</loc>
+    <loc>http://localhost:1313/news/emnlp2024/</loc>
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/rtda_fair/</loc>
+    <loc>http://localhost:1313/news/rtda_fair/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/language-model/</loc>
+    <loc>http://localhost:1313/tags/language-model/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/project/lit5/</loc>
+    <loc>http://localhost:1313/papers/lrec_coling_2024/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/t5/</loc>
+    <loc>http://localhost:1313/projects/lit5/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/coling2024/</loc>
+    <loc>http://localhost:1313/tags/t5/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/officehours/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/saner_2024/</loc>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/coling_2024/</loc>
     <lastmod>2024-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/coling_2024/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talk/buzzetti_prize_aiucd_2024/</loc>
+    <loc>http://localhost:1313/news/buzzetti_prize_aiucd_2024/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/saner_2024/</loc>
-    <lastmod>2024-01-12T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talk/saner2024/</loc>
+    <loc>http://localhost:1313/news/saner2024/</loc>
     <lastmod>2023-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/chiara-fazzone/</loc>
-    <lastmod>2023-10-17T00:00:02+00:00</lastmod>
+    <loc>http://localhost:1313/papers/clic_2023_2/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/clic_2023_2/</loc>
-    <lastmod>2023-10-17T00:00:02+00:00</lastmod>
+    <loc>http://localhost:1313/papers/clic_2023_1/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/clic_2023/</loc>
-    <lastmod>2023-10-17T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talk/bright_2023/</loc>
+    <loc>http://localhost:1313/news/bright_2023/</loc>
     <lastmod>2023-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/clic-it_2023/</loc>
+    <loc>http://localhost:1313/news/clic-it_2023/</loc>
     <lastmod>2023-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/project/langlearn/</loc>
+    <loc>http://localhost:1313/projects/langlearn/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/language-learning/</loc>
+    <loc>http://localhost:1313/papers/evalita_2023/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/claudia-h.-sanchez-gutierrez/</loc>
-    <lastmod>2023-09-04T00:00:01+00:00</lastmod>
+    <loc>http://localhost:1313/tags/language-learning/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/dominique-brunato/</loc>
-    <lastmod>2023-09-04T00:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/kenji-sagae/</loc>
-    <lastmod>2023-09-04T00:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/evalita_2023/</loc>
-    <lastmod>2023-09-04T00:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/elena-prat/</loc>
+    <loc>http://localhost:1313/news/documentation/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/documentation/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/documentation/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/journal-article/documentation/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talk/dcp_2023/</loc>
+    <loc>http://localhost:1313/news/dcp_2023/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/laboratory/</loc>
+    <loc>http://localhost:1313/tags/laboratory/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/project/xnlm_lab/</loc>
+    <loc>http://localhost:1313/projects/xnlm_lab/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/lectures_2023/</loc>
+    <loc>http://localhost:1313/news/lectures_2023/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/information/</loc>
+    <loc>http://localhost:1313/news/information/</loc>
     <lastmod>2023-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/journal-article/information/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/information/</loc>
+    <lastmod>2023-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/evalita_2022/</loc>
+    <loc>http://localhost:1313/news/evalita_2022/</loc>
     <lastmod>2022-12-14T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/taslp/</loc>
+    <loc>http://localhost:1313/news/taslp/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/journal-article/taslp/</loc>
+    <loc>http://localhost:1313/papers/taslp/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/nl4ai_2022/</loc>
+    <loc>http://localhost:1313/news/nl4ai_2022/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/chiara-de-nigris/</loc>
-    <lastmod>2022-11-24T00:00:02+00:00</lastmod>
+    <loc>http://localhost:1313/papers/nl4ai_2022/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/nl4ai_2022/</loc>
-    <lastmod>2022-11-24T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talk/pi_school_2022/</loc>
+    <loc>http://localhost:1313/news/pi_school_2022/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/summer_school_ai/</loc>
+    <loc>http://localhost:1313/news/summer_school_ai/</loc>
     <lastmod>2022-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/journal-article/ijcol_2022/</loc>
-    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/ijcol_2022/</loc>
+    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/andrea-amelio-ravelli/</loc>
-    <lastmod>2022-07-19T00:00:02+00:00</lastmod>
+    <loc>http://localhost:1313/papers/lecture_notes/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/advance_ai_2022/</loc>
-    <lastmod>2022-07-19T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication_types/7/</loc>
+    <loc>http://localhost:1313/news/phd_thesis/</loc>
     <lastmod>2022-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/phd_thesis/</loc>
-    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/phd_thesis/</loc>
+    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/thesis/phd_thesis/</loc>
-    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/clic_2021_2/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/giorgia-albertin/</loc>
-    <lastmod>2021-12-01T00:00:02+00:00</lastmod>
+    <loc>http://localhost:1313/papers/clic_2021_1/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/clic_2021_2/</loc>
-    <lastmod>2021-12-01T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/clic_2021/</loc>
-    <lastmod>2021-12-01T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/nl4ai_2021/</loc>
-    <lastmod>2021-11-12T00:00:02+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talk/nl4ai_2021/</loc>
+    <loc>http://localhost:1313/news/nl4ai_2021/</loc>
     <lastmod>2021-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/computational-lingusitics/</loc>
+    <loc>http://localhost:1313/papers/nl4ai_2021/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/computational-lingusitics/</loc>
     <lastmod>2021-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/gpt/</loc>
+    <loc>http://localhost:1313/tags/gpt/</loc>
     <lastmod>2021-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/project/dante-gpt/</loc>
+    <loc>http://localhost:1313/projects/dante-gpt/</loc>
     <lastmod>2021-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/outreach/</loc>
+    <loc>http://localhost:1313/tags/outreach/</loc>
     <lastmod>2021-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/web-interface/</loc>
+    <loc>http://localhost:1313/tags/web-interface/</loc>
     <lastmod>2021-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/clic-it_2021/</loc>
+    <loc>http://localhost:1313/news/clic-it_2021/</loc>
     <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/deelio2021_2/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/deelio2021_1/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2021-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/project/python_classes/</loc>
+    <loc>http://localhost:1313/projects/python_classes/</loc>
     <lastmod>2021-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/teachingnlp2021_1/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/teachinnlp_2021_2/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/claudia-roberta-combei/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/deelio_2021_2/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/lucia-busso/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/teachinnlp_2021_1/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/lucio-messina/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/deelio_2021_1/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/ludovica-pannitto/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/malvina-nissim/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/teachingnlp2021_2/</loc>
-    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talks/</loc>
+    <loc>http://localhost:1313/news/science_web_festival_2021/</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/science_web_festival_2021/</loc>
-    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talks/science_web_festival_2021/</loc>
-    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talk/workshops_naacl_2021/</loc>
+    <loc>http://localhost:1313/news/workshops_naacl_2021/</loc>
     <lastmod>2021-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talks/workshops_naacl_2021/</loc>
-    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/journal-article/jowr/</loc>
+    <loc>http://localhost:1313/news/jowr_paper/</loc>
     <lastmod>2021-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/jowr_paper/</loc>
-    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/writing_research/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/clic_2020_2/</loc>
-    <lastmod>2020-12-15T00:00:02+00:00</lastmod>
+    <loc>http://localhost:1313/papers/evalita_2020_2/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/clic_2020/</loc>
-    <lastmod>2020-12-15T00:00:02+00:00</lastmod>
+    <loc>http://localhost:1313/papers/clic_2020_2/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/frosina-koceva/</loc>
-    <lastmod>2020-12-15T00:00:01+00:00</lastmod>
+    <loc>http://localhost:1313/papers/clic_2020_1/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/ilaria-torre/</loc>
-    <lastmod>2020-12-15T00:00:01+00:00</lastmod>
+    <loc>http://localhost:1313/papers/evalita_2020_1/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/evalita_2020_2/</loc>
-    <lastmod>2020-12-15T00:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/andrea-iovine/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/evalita_2020/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/giulia-rambelli/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/graziella-de-martino/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/lorenzo-de-mattei/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/marco-polignano/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talk/coling_outstanding_2020/</loc>
+    <loc>http://localhost:1313/news/coling_outstanding_2020/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/clic-it_2020/</loc>
+    <loc>http://localhost:1313/news/clic-it_2020/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/coling2020/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talk/coling_2020/</loc>
+    <loc>http://localhost:1313/news/coling_2020/</loc>
     <lastmod>2020-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/claudia-helena-sanchez-gutierrez/</loc>
-    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/coling_2020/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/repl4nlp2020/</loc>
-    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/repl4nlp_2020/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/sam-davidson/</loc>
-    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/bea_2020/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/bea2020/</loc>
-    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/talk/bea_2020/</loc>
+    <loc>http://localhost:1313/news/bea_2020/</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/repl4nlp_2020/</loc>
+    <loc>http://localhost:1313/news/repl4nlp_2020/</loc>
     <lastmod>2020-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/evalita_2020/</loc>
+    <loc>http://localhost:1313/news/evalita_2020/</loc>
     <lastmod>2020-03-16T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/talk/giveback_event/</loc>
+    <loc>http://localhost:1313/papers/clic_2019/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/giveback_event/</loc>
     <lastmod>2019-11-20T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/giovanni-adorni/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/bea_2019/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/clic_2019/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/italia_2019/</loc>
+    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/samuele-passalacqua/</loc>
-    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/clic_2015/</loc>
+    <lastmod>2017-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/franco-alberto-cardillo/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/papers/ud_2017/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/bea2019/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/data/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/andrea-cimino/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/dataset/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/italia_2019/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/french/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/valeria-quochi/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/irregular-verbs/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/chiara-di-pietro/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/italian/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/chiara-mannari/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/data/data1/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/enrica-salvatori/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/philology/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/journal-article/pelavicino/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/portuguese/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/roberto-rosselli-del-turco/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/romance-languages/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/conference-paper/clic_2015/</loc>
-    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/simulations/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/giuseppe-attardi/</loc>
-    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/spanish/</loc>
+    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/laura-gorrieri/</loc>
-    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/books/</loc>
+    <lastmod>1997-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/authors/ruggero-petrolito/</loc>
-    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/portugese/</loc>
+    <lastmod>1997-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication_types/5/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/books/book1/</loc>
+    <lastmod>1997-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/publication/book-article/pelavicino/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/emilio-riccardini/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/laura-balletto/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/authors/raffaele-masotti/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alemiaschi.github.io/project/prelearn/</loc>
+    <loc>http://localhost:1313/projects/prelearn/</loc>
     <lastmod>1970-01-01T01:33:40+01:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/prerequisite-learning/</loc>
+    <loc>http://localhost:1313/tags/prerequisite-learning/</loc>
     <lastmod>1970-01-01T01:33:40+01:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/tags/dataset/</loc>
+    <loc>http://localhost:1313/projects/ita-prereq/</loc>
     <lastmod>1970-01-01T01:33:39+01:00</lastmod>
   </url><url>
-    <loc>https://alemiaschi.github.io/project/ita-prereq/</loc>
-    <lastmod>1970-01-01T01:33:39+01:00</lastmod>
+    <loc>http://localhost:1313/talks/files/mauriana2019/</loc>
   </url><url>
-    <loc>https://alemiaschi.github.io/privacy/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://alemiaschi.github.io/terms/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://alemiaschi.github.io/categories/</loc>
+    <loc>http://localhost:1313/archive/</loc>
   </url>
 </urlset>

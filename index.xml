@@ -1,867 +1,958 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Alessio Miaschi</title>
-    <link>https://alemiaschi.github.io/</link>
-      <atom:link href="https://alemiaschi.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Alessio Miaschi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
-      <title>Alessio Miaschi</title>
-      <link>https://alemiaschi.github.io/</link>
-    </image>
-    
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Alessio Miaschi</description>
+    <generator>Hugo -- 0.150.1</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All-in-one: Understanding and Generation in Multimodal Reasoning with the MAIA Benchmark</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/emnlp_2025/</link>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/emnlp_2025/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/emnlp_2025/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/emnlp_2025/</guid>
+      <description>We introduce MAIA (Multimodal AI Assessment), a native-Italian benchmark designed for fine-grained investigation of the reasoning abilities of visual language models on videos. MAIA differs from other available video benchmarks for its design, its reasoning categories, the metric it uses and the language and culture of the videos. It evaluates Vision Language Models (VLMs) on two aligned tasks: a visual statement verification task, and an open-ended visual question-answering task, both on the same set of video-related questions. It considers twelve reasoning categories that aim to disentangle language and vision relations by highlight when one of two alone encodes sufficient information to solve the tasks, when they are both needed and when the full richness of the short video is essential instead of just a part of it. Thanks to its carefully taught design, it evaluates VLMs&amp;rsquo; consistency and visually grounded natural language comprehension and generation simultaneously through an aggregated metric. Last but not least, the video collection has been carefully selected to reflect the Italian culture and the language data are produced by native-speakers.</description>
     </item>
-    
+    <item>
+      <title>Courses &amp; Theses</title>
+      <link>http://localhost:1313/courses/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/</guid>
+      <description>Courses and Thesis supervised/co-supervised</description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>http://localhost:1313/location/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/location/</guid>
+      <description>Alessio Miaschi &amp;#39;s mailing and office address.</description>
+    </item>
+    <item>
+      <title>Talks and Seminars</title>
+      <link>http://localhost:1313/talks/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/</guid>
+      <description>Invited Talks</description>
+    </item>
     <item>
       <title>Best Student Paper Award @ CLiC-it 2025</title>
-      <link>https://alemiaschi.github.io/talk/best_student_paper_clic2025/</link>
+      <link>http://localhost:1313/news/best_student_paper_clic2025/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/best_student_paper_clic2025/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/best_student_paper_clic2025/</guid>
+      <description>&lt;p&gt;Our paper &amp;lsquo;Crossword Space: Latent Manifold Learning for Italian Crosswords and beyond&amp;rsquo;, lead by the PhD student Cristiano Ciaccio, won the CLiC-it 2025 Best Student Paper Award!
+&lt;br/&gt;
+You can check the paper at the following link: &lt;a href=&#39;https://clic2025.unica.it/wp-content/uploads/2025/09/25_main_long.pdf&#39;&gt;&lt;a href=&#34;https://clic2025.unica.it/wp-content/uploads/2025/09/25_main_long.pdf&#34; target=&#34;_blank&#34;&gt;https://clic2025.unica.it/wp-content/uploads/2025/09/25_main_long.pdf&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>LM4DH @ RANLP 2025 Invited Talk</title>
-      <link>https://alemiaschi.github.io/talk/lm4dh_2025/</link>
-      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/lm4dh_2025/</guid>
-      <description></description>
+      <title>Crossword Space: Latent Manifold Learning for Italian Crosswords and Beyond [🏆 Best Student Paper Award 🏆]</title>
+      <link>http://localhost:1313/papers/clic_2025_1/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/clic_2025_1/</guid>
+      <description>Answering crossword puzzle clues presents a challenging retrieval task that requires matching linguistically rich and often ambiguous clues with appropriate solutions. While traditional retrieval-based strategies can commonly be used to address this issue, wordplays and other lateral thinking strategies limit the effectiveness of conventional lexical and semantic approaches. In this work, we address the clue answering task as an information retrieval problem exploiting the potential of encoder-based Transformer models to learn a shared latent space between clues and solutions. In particular, we propose for the first time a collection of siamese and asymmetric dual encoder architectures trained to capture the complex properties and relation characterizing crossword clues and their solutions for the Italian language. After comparing various architectures for this task, we show that the strong retrieval capabilities of these systems extend to neologisms and dictionary terms, suggesting their potential use in linguistic analyses beyond the scope of language games.</description>
     </item>
-    
-    <item>
-      <title>Cruciverb-IT (Shared task at EVALITA 2026)</title>
-      <link>https://alemiaschi.github.io/talk/cruciverbit_evalita_2026/</link>
-      <pubDate>Mon, 01 Sep 2025 13:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/cruciverbit_evalita_2026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crossword Space: Latent Manifold Learning for Italian Crosswords and Beyond</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2025_1/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:02 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2025_1/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>MAIA: a Benchmark for Multimodal AI Assessment</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2025_3/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:02 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2025_3/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/clic_2025_3/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/clic_2025_3/</guid>
+      <description>We introduce MAIA (Multimodal AI Assessment), a multimodal dataset developed as a core component of a competence-oriented benchmark designed for fine-grained investigation of the reasoning abilities of Visual Language Models (VLMs) on videos. The MAIA benchmark is characterized by several distinctive features. To the best of our knowledge, MAIA is the first Italian-native benchmark addressing video understanding: videos were carefully selected to reflect Italian culture, and the language data (i.e., questions and reference answers) were produced by native-Italian speakers. Second, MAIA explicitly includes twelve reasoning categories that are specifically designed to assess the reasoning abilities of VLMs on videos. Third, we structured the dataset to support two aligned tasks (i.e., a statement verification and an open-ended visual question answering) built on the same datapoints, this way allowing to assess VLM coherence across task formats. Finally MAIA integrates, by design, state-of-the-art LLMs in the development process of the benchmark, taking advantage of their linguistic and reasoning capabilities both for data augmentation and for assessing and improving the overall quality of the data. In the paper we focus on the design principles and the data collection methodology, highlighting how MAIA provides a significant advancement with respect to other available dataset for VLM benchmarking.</description>
     </item>
-    
     <item>
-      <title>The OuLiBench Benchmark: Formal Constraints as a Lens into LLM Linguistic Competence </title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2025_2/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:02 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2025_2/</guid>
-      <description></description>
+      <title>The OuLiBench Benchmark: Formal Constraints as a Lens into LLM Linguistic Competence</title>
+      <link>http://localhost:1313/papers/clic_2025_2/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/clic_2025_2/</guid>
+      <description>Recent progress in Large Language Models (LLMs) has led to impressive capabilities in Natural Language Generation (NLG). However, standard evaluation benchmarks often focus on surface-level performance and are predominantly English-centric, limiting insights into models’ deeper linguistic competences, especially in other languages. In this paper, we introduce OuLiBench, a novel benchmark inspired by the literary movement OuLiPo, designed to evaluate LLMs&amp;rsquo; ability to generate Italian text under explicit linguistic constraints, ranging from morpho-syntactic requirements to creative and structural challenges. Our goal is to assess the extent to which LLMs can understand and manipulate language when guided by specific, sometimes artificial constraints. We evaluate a range of state-of-the-art models in both zero- and few-shot settings, comparing performance across constraint types and difficulty levels. Our results highlight significant variability across models and tasks, shedding light on the limits of controllable text generation and offering a new lens for probing LLMs’ generative and linguistic competence beyond traditional benchmarks.</description>
     </item>
-    
+    <item>
+      <title>LM4DH @ RANLP 2025 Invited Talk</title>
+      <link>http://localhost:1313/news/lm4dh_2025/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/lm4dh_2025/</guid>
+      <description>&lt;p&gt;Last week I had the pleasure to be invited as speaker at the LM4DH Workshop co-located with RANLP 2025. You can find the slides of my talk here: &lt;a href=&#39;Talk_LM4DH_2025.pdf&#39;&gt;Slides&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cruciverb-IT (Shared task at EVALITA 2026)</title>
+      <link>http://localhost:1313/news/cruciverbit_evalita_2026/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/cruciverbit_evalita_2026/</guid>
+      <description>&lt;p&gt;I am happy to announce that I will be co-organizing a shared task at EVALITA 2026, the evaluation campaign of NLP and Speech Tools for Italian, that will have place in Bari on February 26-27 2026. &lt;br/&gt;
+For more information please visit the shared task web page:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&#39;https://sites.google.com/view/cruciverbit2026&#39;&gt;Cruciverb-IT&lt;/a&gt;: Crossword Solving at EVALITA 2026&lt;/li&gt;
+	&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>CLiC-it 2025 Papers</title>
-      <link>https://alemiaschi.github.io/talk/clicit_2025/</link>
+      <link>http://localhost:1313/news/clicit_2025/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/clicit_2025/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/clicit_2025/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m happy to share that I got three papers acceted at CLiC-it 2025:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;b&gt;Crossword Space: Latent Manifold Learning for Italian Crosswords and Beyond&lt;/b&gt; (Ciaccio C., Sarti G., Miaschi A., Dell&#39;Orletta F.)&lt;/li&gt;
+	&lt;li&gt;&lt;b&gt;The OuLiBench Benchmark: Formal Constraints as a Lens into LLM Linguistic Competence&lt;/b&gt; (Calderaro S., Miaschi A., Dell&#39;Orletta F.)&lt;/li&gt;
+	&lt;li&gt;&lt;b&gt;MAIA: a Benchmark for Multimodal AI Assessment&lt;/b&gt; (Testa D., Bonetta G., Bernardi R., Bondielli A., Lenci A., Miaschi A., Passaro L., Magnini B.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More info coming soon!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cruciverb-IT @ EVALITA 2026</title>
-      <link>https://alemiaschi.github.io/project/cruciverbit/</link>
+      <link>http://localhost:1313/projects/cruciverbit/</link>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/project/cruciverbit/</guid>
-      <description>&lt;p&gt;This is the official webpage of the Cruciverb-IT - Crossword Solving Shared Task organized at EVALITA 2023. Cruciverb-IT is the first shared task proposed at EVALITA 2026 on crossword puzzle solving. We propose two tasks: i) answering clues extracted from Italian crosswords; ii) autonomously solving Italian crossword grids.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/projects/cruciverbit/</guid>
+      <description>Webpage of the Cruciverb-IT Shared Task at EVALITA 2026</description>
     </item>
-    
     <item>
       <title>EMNLP 2025 Findings Paper</title>
-      <link>https://alemiaschi.github.io/talk/emnlp2025/</link>
+      <link>http://localhost:1313/news/emnlp2025/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/emnlp2025/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/emnlp2025/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m happy to share that I got a paper accepted at the Findings of EMNLP 2025! The paper, entitled &amp;lsquo;All-in-one: Understanding and Generation in Multimodal Reasoning with the MAIA Benchmark&amp;rsquo; (with Testa D., Bonetta G., Bernardi R., Bondielli A., Lenci A., Passaro L. and Magnini B.) introduces MAIA (Multimodal AI Assessment), a native-Italian benchmark designed for fine-grained investigation of the reasoning abilities of visual language models on videos. MAIA differs from other available video benchmarks for its design, its reasoning categories, the metric it uses and the language and culture of the videos. It evaluates Vision Language Models (VLMs) on two aligned tasks: a visual statement verification task, and an open-ended visual question-answering task, both on the same set of video-related questions. It considers twelve reasoning categories that aim to disentangle language and vision relations by highlight when one of two alone encodes sufficient information to solve the tasks, when they are both needed and when the full richness of the short video is essential instead of just a part of it. Thanks to its carefully taught design, it evaluates VLMs&amp;rsquo; consistency and visually grounded natural language comprehension and generation simultaneously through an aggregated metric. Last but not least, the video collection has been carefully selected to reflect the Italian culture and the language data are produced by native-speakers. &lt;br/&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Beyond the Spelling Miracle: Investigating Substring Awareness in Character-Blind Language Models</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/acl_2025_2/</link>
+      <link>http://localhost:1313/papers/acl_2025_2/</link>
       <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/acl_2025_2/</guid>
-      <description></description>
+      <guid>http://localhost:1313/papers/acl_2025_2/</guid>
+      <description>Correctly identifying characters and substrings of words should be a basic but essential ability of any Language Model that aims to proficiently understand and produce language. Despite so, the majority of Pre-trained Language Models (PLMs) are &amp;lsquo;character-blind&amp;rsquo; and struggle in spelling tasks, although they still seem to acquire some character knowledge during pre-training, a phenomenon dubbed Spelling Miracle. To shed light on this phenomenon, we systematically evaluate a range of PLMs with different parameter sizes using a controlled binary substring identification task. Through a series of experiments, we propose the first comprehensive investigation on where, when, and how a PLMs develop awareness of characters and substrings, with a particular linguistic focus on morphemic units such as prefixes, suffixes, and roots.</description>
     </item>
-    
     <item>
       <title>Evaluating Lexical Proficiency in Neural Language Models</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/acl_2025_3/</link>
+      <link>http://localhost:1313/papers/acl_2025_3/</link>
       <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/acl_2025_3/</guid>
-      <description></description>
+      <guid>http://localhost:1313/papers/acl_2025_3/</guid>
+      <description>We present a novel evaluation framework designed to assess the lexical proficiency and linguistic creativity of Transformer-based Language Models (LMs). We validate the framework by analyzing the performance of a set of LMs of different sizes, in both mono- and multilingual configuration, across tasks involving the generation, definition, and contextual usage of lexicalized words, neologisms, and nonce words. To support these evaluations, we developed a novel dataset of lexical entries for the Italian language, including curated definitions and usage examples sourced from various online platforms. The results highlight the robustness and effectiveness of our framework in evaluating multiple dimensions of LMs’ linguistic understanding and offer an insight, through the assessment of their linguistic creativity, on the lexical generalization abilities of LMs.</description>
     </item>
-    
     <item>
       <title>Stress-testing Machine Generated Text Detection: Shifting Language Models Writing Style to Fool Detectors</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/acl_2025_1/</link>
+      <link>http://localhost:1313/papers/acl_2025_1/</link>
       <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/acl_2025_1/</guid>
-      <description></description>
+      <guid>http://localhost:1313/papers/acl_2025_1/</guid>
+      <description>Recent advancements in Generative AI and Large Language Models (LLMs) have enabled the creation of highly realistic synthetic content, raising concerns about the potential for malicious use, such as misinformation and manipulation. Moreover, detecting Machine-Generated Text (MGT) remains challenging due to the lack of robust benchmarks that assess generalization to real-world scenarios. In this work, we evaluate the resilience of state-of-the-art MGT detectors (e.g., Mage, Radar, LLM-DetectAIve) to linguistically informed adversarial attacks. We develop a pipeline that fine-tunes language models using Direct Preference Optimization (DPO) to shift the MGT style toward human-written text (HWT), obtaining generations more challenging to detect by current models. Additionally, we analyze the linguistic shifts induced by the alignment and how detectors rely on “linguistic shortcuts” to detect texts. Our results show that detectors can be easily fooled with relatively few examples, resulting in a significant drop in detecting performances. This highlights the importance of improving detection methods and making them robust to unseen in-domain texts. We release code, models, and data to support future research on more robust MGT detection benchmarks.</description>
     </item>
-    
     <item>
       <title>Co-organizing EVALITA 2026</title>
-      <link>https://alemiaschi.github.io/talk/evalita_2026/</link>
-      <pubDate>Wed, 23 Jul 2025 13:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/evalita_2026/</guid>
-      <description></description>
+      <link>http://localhost:1313/news/evalita_2026/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/evalita_2026/</guid>
+      <description>&lt;p&gt;I am happy to announce that I will be co-organizing the 2026 edition of EVALITA. EVALITA is a periodic evaluation campaign of Natural Language Processing (NLP) and speech tools for the Italian language. The deadline for submitting your task proposal is &lt;b&gt;July 28th 2026&lt;/b&gt;.&lt;br&gt;
+For more information please visit the EVALITA call for tasks webpage:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&#39;https://www.evalita.it/campaigns/evalita-2026/evalita-2026-second-call-for-tasks/&#39;&gt;EVALITA 2026 Call for Tasks&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Parallel Trees: a novel resource with aligned dependency and constituency syntactic representations</title>
-      <link>https://alemiaschi.github.io/publication/journal-article/lre/</link>
-      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/journal-article/lre/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/lre/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/lre/</guid>
+      <description>The paper introduces Parallel Trees, a novel multilingual treebank collection that includes 20 treebanks for 10 languages. The distinguishing property of this resource is that the sentences of each language are annotated using two syntactic representation paradigms (SRPs), respectively based on the notions of dependency and constituency. By aligning the annotations of existing resources, Parallel Trees represents an example of exploiting pre-existing treebanks to adapt them to novel applications. To illustrate its potential, we present a case study where the resource is employed as a benchmark to investigate whether and how BERT, one of the first prominent neural language models (NLMs), is sensitive to the dependency- and constituency-based approaches for representing the syntactic structure of a sentence. The case study results indicate that the model’s sensitivity fluctuates across languages and experimental settings. The unique nature of the Parallel Trees resource creates the prerequisites for innovative studies comparing dependency and phrase-structure trees, allowing for more focused investigations without the interference of lexical variation.</description>
     </item>
-    
     <item>
       <title>LLMs Anatomy Course</title>
-      <link>https://alemiaschi.github.io/project/llm_anatomy/</link>
+      <link>http://localhost:1313/projects/llm_anatomy/</link>
       <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/project/llm_anatomy/</guid>
-      <description>&lt;p&gt;This is the repository for the LLMs Anatomy Course held by me and my colleague &lt;a href=&#39;https://michelepapucci.github.io/&#39;&gt;Michele Papucci&lt;/a&gt; and organized for the students of the Department of Ingegneria Civile e Industriale (University of Pisa).&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/projects/llm_anatomy/</guid>
+      <description>Materials for the &amp;lsquo;LLMs Anatomy Course&amp;rsquo; course</description>
     </item>
-    
     <item>
       <title>ACL 2025 Papers</title>
-      <link>https://alemiaschi.github.io/talk/acl2025/</link>
+      <link>http://localhost:1313/news/acl2025/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/acl2025/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/acl2025/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m happy to share that I got three papers acceted at ACL 2025: one at the main conference and two in the Findings!&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;b&gt;Main Conference&lt;/b&gt;: Evaluating Lexical Proficiency in Neural Language Models (with Ciaccio C. and Dell&#39;Orletta F.)&lt;/li&gt;
+	&lt;li&gt;&lt;b&gt;Findings&lt;/b&gt;: Beyond the Spelling Miracle: Investigating Substring Awareness in Character-Blind Language Models (with Ciaccio C., Sartor M. and Dell&#39;Orletta F.)&lt;/li&gt;
+	&lt;li&gt;&lt;b&gt;Findings&lt;/b&gt;: Stress-testing Machine Generated Text Detection: Shifting Language Models Writing Style to Fool Detectors (with Pedrotti A., Papucci M., Ciaccio C., Puccetti G., Dell&#39;Orletta F. and Esuli A.)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More info coming soon!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Optimizing LLMs for Italian: Reducing Token Fertility and Enhancing Efficiency Through Vocabulary Adaptation</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/naacl_2025/</link>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/naacl_2025/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/naacl_2025/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/naacl_2025/</guid>
+      <description>An increasing number of pretrained Large Language Models (LLMs) are being released, though the majority are predominantly designed for English. While they can often handle other languages due to contamination or some degree of multilingual pretraining data, English-centric LLMs are not optimized for non-English languages. This leads to inefficient encoding (high token ‘fertility’) and slower inference times for those languages. In this work, we explore various vocabulary adaptation techniques to tailor English LLMs for the Italian language. We introduce Semantic Alignment Vocabulary Adaptation (SAVA), a novel method that learns neural mapping to accomplish vocabulary substitution, which achieve state-of-the-art performances on several downstream tasks. We adapted two LLMs: Mistral-7b-v0.1, reducing token fertility by 25%, and Llama-3.1-8b, optimizing the vocabulary and reducing the number of parameters by 1 billion. We show that, after the adaptation of the vocabulary, these models can recover their performances with a relatively limited stage of continual training on the target language. Finally, we test the adapted models&amp;rsquo; capabilities on several multi-choice and generative tasks.</description>
     </item>
-    
     <item>
       <title>Leveraging encoder-only large language models for mobile app review feature extraction</title>
-      <link>https://alemiaschi.github.io/publication/journal-article/empirical_software/</link>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/journal-article/empirical_software/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/ese/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/ese/</guid>
+      <description>Mobile app review analysis presents unique challenges due to the low quality, subjective bias, and noisy content of user-generated documents. Extracting features from these reviews is essential for tasks such as feature prioritization and sentiment analysis, but it remains a challenging task. Meanwhile, encoder-only models based on the Transformer architecture have shown promising results for classification and information extraction tasks for multiple software engineering processes. This study explores the hypothesis that encoder-only large language models can enhance feature extraction from mobile app reviews. By leveraging crowdsourced annotations from an industrial context, we redefine feature extraction as a supervised token classification task. Our approach includes extending the pre-training of these models with a large corpus of user reviews to improve contextual understanding and employing instance selection techniques to optimize model fine-tuning. Empirical evaluations demonstrate that these methods improve the precision and recall of extracted features and enhance performance efficiency. Key contributions include a novel approach to feature extraction, annotated datasets, extended pre-trained models, and an instance selection mechanism for cost-effective fine-tuning. This research provides practical methods and empirical evidence in applying large language models to natural language processing tasks within mobile app reviews, offering improved performance in feature extraction.</description>
     </item>
-    
-    <item>
-      <title>Contextualized Counterspeech: Strategies for Adaptation, Personalization, and Evaluation</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/www_2025/</link>
-      <pubDate>Tue, 22 Apr 2025 00:00:02 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/www_2025/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Invited Talk at NLP4RE @ REFSQ 2025 (Barcelona, Spain)</title>
-      <link>https://alemiaschi.github.io/talk/nlp4re_2025/</link>
+      <link>http://localhost:1313/news/nlp4re_2025/</link>
       <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/nlp4re_2025/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/nlp4re_2025/</guid>
+      <description>&lt;p&gt;On April 7 I will give an invated talk during the REFSQ 2025 Workshop NLP4RE.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Title&lt;/b&gt;: Evaluating Linguistic Abilities of Neural Language Models&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: The field of Natural Language Processing (NLP) has witnessed remarkable advancements in recent years, driven largely by the shift from traditional approaches to state-of-the-art neural network-based algorithms. Among these, Large-scale Language Models (LLMs) have shown remarkable performance across a wide range of tasks and in generating coherent and contextually relevant texts. This improvement, however, comes at the cost of interpretability, since deep neural models offer little transparency about their inner workings and their abilities. In response, a growing body of research is dedicated to evaluating and interpreting LLMs, aiming to shed light on the inner workings and linguistic abilities encoded by these systems. This talk explores recent studies that shed light on these abilities, highlighting how such insights enhance our understanding of model behaviour across various applications.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Contextualized Counterspeech: Strategies for Adaptation, Personalization, and Evaluation</title>
+      <link>http://localhost:1313/papers/www_2025/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/www_2025/</guid>
+      <description>AI-generated counterspeech offers a promising and scalable strategy to curb online toxicity through direct replies that promote civil discourse. However, current counterspeech is one-size-fits-all, lacking adaptation to the moderation context and the users involved. We propose and evaluate multiple strategies for generating tailored counterspeech that is adapted to the moderation context and personalized for the moderated user. We instruct an LLaMA2-13B model to generate counterspeech, experimenting with various configurations based on different contextual information and fine-tuning strategies. We identify the configurations that generate persuasive counterspeech through a combination of quantitative indicators and human evaluations collected via a pre-registered mixed-design crowdsourcing experiment. Results show that contextualized counterspeech can significantly outperform state-of-the-art generic counterspeech in adequacy and persuasiveness, without compromising other characteristics. Our findings also reveal a poor correlation between quantitative indicators and human evaluations, suggesting that these methods assess different aspects and highlighting the need for nuanced evaluation methodologies. The effectiveness of contextualized AI-generated counterspeech and the divergence between human and algorithmic evaluations underscore the importance of increased human-AI collaboration in content moderation.</description>
+    </item>
     <item>
       <title>Talk at FAIR Spoke Workshop 2025</title>
-      <link>https://alemiaschi.github.io/talk/fair_workshop/</link>
+      <link>http://localhost:1313/news/fair_workshop/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/fair_workshop/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/fair_workshop/</guid>
+      <description>&lt;p&gt;On February 20 I will give a talk during the FAIR Spoke Workshop 2025 at Sapienza Università di Roma.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Title&lt;/b&gt;: Controllable Text Generation for Evaluating LLMs&#39; Linguistic Competence&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: In this talk, I will provide an overview of the results obtained in the context of the FAIR project (Spoke 5) focused on the evaluation of the linguistic abilities of Large Language Models (LLMs). Specifically, I will highlight results from research on Controllable Text Generation (CTG), with a specific focus on the assessment of LLMs&amp;rsquo; abilities to generate text while adhering to specific linguistic constraints.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>NAACL 2025 Findings Paper</title>
-      <link>https://alemiaschi.github.io/talk/naacl2025/</link>
+      <link>http://localhost:1313/news/naacl2025/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/naacl2025/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/naacl2025/</guid>
+      <description>&lt;p&gt;Our paper &amp;lsquo;Optimizing LLMs for Italian: Reducing Token Fertility and Enhancing Efficiency Through Vocabulary Adaptation&amp;rsquo; (with Luca Moroni, Giovanni Puccetti, Pere-Lluís Huguet Cabot, Andrei Stefan Bejgu, Edoardo Barba, Felice Dell&amp;rsquo;Orletta, Andrea Esuli and Roberto Navigli) has been accepted at NAACL 2025 (Findings)! In this work, we explore various vocabulary adaptation techniques to tailor English LLMs for the Italian language. We introduce Semantic Alignment Vocabulary Adaptation (SAVA), a novel method that learns neural mapping to accomplish vocabulary substitution, which achieve state-of-the-art performances on several downstream tasks. We adapted two LLMs: Mistral-7b-v0.1, reducing token fertility by 25%, and Llama-3.1-8b, optimizing the vocabulary and reducing the number of parameters by 1 billion. We show that, after the adaptation of the vocabulary, these models can recover their performances with a relatively limited stage of continual training on the target language. Finally, we test the adapted models&amp;rsquo; capabilities on several multi-choice and generative tasks.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>WWW 2025 Paper</title>
-      <link>https://alemiaschi.github.io/talk/www2025/</link>
+      <link>http://localhost:1313/news/www2025/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/www2025/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/www2025/</guid>
+      <description>&lt;p&gt;Our paper &amp;lsquo;Contextualized Counterspeech: Strategies for Adaptation, Personalization, and Evaluation&amp;rsquo; (with Lorenzo Cima, Amaury Trujillo, Marco Avvenuti, Felice Dell&amp;rsquo;Orletta and Stefano Cresci) has been accepted at WWW 2025! In this paper we propose and evaluate multiple strategies for generating tailored counterspeech that is adapted to the moderation context and personalized for the moderated user. We instruct an LLaMA2-13B model to generate counterspeech, experimenting with various configurations based on different contextual information and fine-tuning strategies. We identify the configurations that generate persuasive counterspeech through a combination of quantitative indicators and human evaluations collected via a pre-registered mixed-design crowdsourcing experiment. Results show that contextualized counterspeech can significantly outperform state-of-the-art generic counterspeech in adequacy and persuasiveness, without compromising other characteristics. Our findings also reveal a poor correlation between quantitative indicators and human evaluations, suggesting that these methods assess different aspects and highlighting the need for nuanced evaluation methodologies. The effectiveness of contextualized AI-generated counterspeech and the divergence between human and algorithmic evaluations underscore the importance of increased human-AI collaboration in content moderation.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Talk at AI Seminars 2024/25</title>
-      <link>https://alemiaschi.github.io/talk/phd_genova/</link>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/phd_genova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LLM Profiling Data</title>
-      <link>https://alemiaschi.github.io/project/llm_profiling/</link>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/project/llm_profiling/</guid>
-      <description>&lt;p&gt;This repository contains data associated with the EMNLP 2024 paper &lt;a href=&#39;https://aclanthology.org/2024.emnlp-main.166.pdf&#39;&gt;Evaluating Large Language Models via Linguistic Profiling&lt;/a&gt;.
-&lt;br&gt;
-&lt;b&gt;Abstract&lt;/b&gt;: Large Language Models (LLMs) undergo extensive evaluation against various benchmarks collected in established leaderboards to assess their performance across multiple tasks. However, to the best of our knowledge, there is a lack of comprehensive studies evaluating these models&#39; linguistic abilities independent of specific tasks. In this paper, we introduce a novel evaluation methodology designed to test LLMs&#39; sentence generation abilities under specific linguistic constraints. Drawing on the `linguistic profiling&#39; approach, we rigorously investigate the extent to which five LLMs of varying sizes, tested in both zero- and few-shot scenarios, effectively adhere to (morpho)syntactic constraints. Our findings shed light on the linguistic proficiency of LLMs, revealing both their capabilities and limitations in generating linguistically-constrained sentences.&lt;/p&gt;
-</description>
-    </item>
-    
     <item>
       <title>Controllable Text Generation To Evaluate Linguistic Abilities of Italian LLMs</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2024/</link>
-      <pubDate>Tue, 29 Oct 2024 00:00:02 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2024/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/clic_2024/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/clic_2024/</guid>
+      <description>State-of-the-art Large Language Models (LLMs) demonstrate exceptional proficiency across diverse tasks, yet systematic evaluations of their linguistic abilities remain limited. This paper addresses this gap by proposing a new evaluation framework leveraging the potentialities of Controllable Text Generation. Our approach evaluates the models&amp;rsquo; capacity to generate sentences that adhere to specific linguistic constraints and their ability to recognize the linguistic properties of their own generated sentences, also in terms of consistency with the specified constraints. We tested our approach on six Italian LLMs using various linguistic constraints.</description>
     </item>
-    
+    <item>
+      <title>Talk at AI Seminars 2024/25</title>
+      <link>http://localhost:1313/news/phd_genova/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/phd_genova/</guid>
+      <description>&lt;p&gt;On December 9 I gave a talk during the AI Seminars of the PhD program in Digital Humanities of the University of Genova. The aim of the seminars is to present experiences and practices of using AI in different fields, to increase knowledge and develop awareness about the opportunities and risks of using AI in our research fields.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Title&lt;/b&gt;: Evaluating Linguistic Abilities of Neural Language Models&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: The field of Natural Language Processing (NLP) has witnessed remarkable advancements in recent years, driven largely by the shift from traditional approaches to state-of-the-art neural network-based algorithms. Among these, Large-scale Language Models (LLMs) have shown remarkable performance across a wide range of tasks and in generating coherent and contextually relevant texts. This improvement, however, comes at the cost of interpretability, since deep neural models offer little transparency about their inner workings and their abilities. In response, a growing body of research is dedicated to analyzing and interpreting LLMs, aiming to shed light on the inner workings and linguistic abilities encoded by these systems.
+This talk will be divided into two parts. The first part offers an overview of Language Models (LMs) and the recent advancements achieved by these models in the past few years. In the second part, we will focus on recent studies that examine these models’ implicit linguistic abilities, exploring how these insights can enhance our understanding of model behaviour across various tasks and applications.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Fantastic Labels and Where to Find Them: Attention-Based Label Selection for Text-to-Text Classification</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/nl4ai_2024/</link>
-      <pubDate>Tue, 29 Oct 2024 00:00:02 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/nl4ai_2024/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/nl4ai_2024/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/nl4ai_2024/</guid>
+      <description>Generative language models, particularly adopting text-to-text frameworks, have shown significant success in NLP tasks. While much research has focused on input representations via prompting techniques, less attention has been given to optimizing output representations. Previous studies found inconsistent effects of label representations on model performance in classification tasks using these models. In this work, we introduce a novel method for selecting well-performing label representations by leveraging the attention mechanisms of Transformer models. We used an Italian T5 model fine-tuned on a topic classification task, trained on posts extracted from online forums and categorized into 11 classes, to evaluate different label representation selection strategies. We’ve employed a context-mixing score called Value Zeroing to assess each token’s impact to select possible representations from the training set. Our results include a detailed qualitative analysis to identify which label choices most significantly affect classification outcomes, suggesting that using our approach to select label representations can enhance performance.</description>
     </item>
-    
     <item>
       <title>Evaluating Large Language Models via Linguistic Profiling</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/emnlp_2024/</link>
-      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/emnlp_2024/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/emnlp_2024/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/emnlp_2024/</guid>
+      <description>Large Language Models (LLMs) undergo extensive evaluation against various benchmarks collected in established leaderboards to assess their performance across multiple tasks. However, to the best of our knowledge, there is a lack of comprehensive studies evaluating these models&amp;rsquo; linguistic abilities independent of specific tasks. In this paper, we introduce a novel evaluation methodology designed to test LLMs&amp;rsquo; sentence generation abilities under specific linguistic constraints. Drawing on the `linguistic profiling&amp;rsquo; approach, we rigorously investigate the extent to which five LLMs of varying sizes, tested in both zero- and few-shot scenarios, effectively adhere to (morpho)syntactic constraints. Our findings shed light on the linguistic proficiency of LLMs, revealing both their capabilities and limitations in generating linguistically-constrained sentences.</description>
     </item>
-    
+    <item>
+      <title>LLM Profiling Data</title>
+      <link>http://localhost:1313/projects/llm_profiling/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/llm_profiling/</guid>
+      <description>Data associated with the paper &amp;lsquo;Evaluating Large Language Models via Linguistic Profiling&amp;rsquo;</description>
+    </item>
     <item>
       <title>CLiC-it 2024 Paper</title>
-      <link>https://alemiaschi.github.io/talk/clic_2024/</link>
+      <link>http://localhost:1313/news/clic_2024/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/clic_2024/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/clic_2024/</guid>
+      <description>&lt;p&gt;Our paper &amp;lsquo;Controllable Text Generation To Evaluate Linguistic Abilities of Italian LLMs&amp;rsquo; (with Cristiano Ciaccio, Felice Dell&amp;rsquo;Orletta and Giulia Venturi) has been accepted to CLiC-it 2024! In this paper we propose a new evaluation framework leveraging the potentialities of Controllable Text Generation. Our approach evaluates the models&amp;rsquo; capacity to generate sentences that adhere to specific linguistic constraints and their ability to recognize the linguistic properties of their own generated sentences, also in terms of consistency with the specified constraints. We tested our approach on six Italian LLMs using various linguistic constraints.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>NL4AI 2024 Paper</title>
-      <link>https://alemiaschi.github.io/talk/nl4ai_2024/</link>
+      <link>http://localhost:1313/news/nl4ai_2024/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/nl4ai_2024/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/nl4ai_2024/</guid>
+      <description>&lt;p&gt;Our paper &amp;lsquo;Fantastic Labels and Where to Find Them: Attention-Based Label Selection for Text-to-Text Classification&amp;rsquo; (with Michele Papucci and Felice Dell&amp;rsquo;Orletta) has been accepted to NL4AI 2024! In this work, we introduce a novel method for selecting well-performing label representations by leveraging the attention mechanisms of Transformer models. We used an Italian T5 model fine-tuned on a topic classification task, trained on posts extracted from online forums and categorized into 11 classes, to evaluate different label representation selection strategies. We&amp;rsquo;ve employed a context-mixing score called Value Zeroing to assess each token&amp;rsquo;s impact to select possible representations from the training set. Our results include a detailed qualitative analysis to identify which label choices most significantly affect classification outcomes, suggesting that using our approach to select label representations can enhance performance.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>EMNLP 2024 Paper</title>
-      <link>https://alemiaschi.github.io/talk/emnlp2024/</link>
+      <link>http://localhost:1313/news/emnlp2024/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/emnlp2024/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/emnlp2024/</guid>
+      <description>&lt;p&gt;Our paper &amp;lsquo;Evaluating Large Language Models via Linguistic Profiling&amp;rsquo; (with Felice Dell&amp;rsquo;Orletta and Giulia Venturi) has been accepted at EMNLP 2024! In this paper, we introduce a novel evaluation methodology designed to test LLMs&amp;rsquo; sentence generation abilities under specific linguistic constraints. Drawing on the `linguistic profiling&amp;rsquo; approach, we rigorously investigate the extent to which five LLMs of varying sizes, tested in both zero- and few-shot scenarios, effectively adhere to (morpho)syntactic constraints. Our findings shed light on the linguistic proficiency of LLMs, revealing both their capabilities and limitations in generating linguistically-constrained sentences.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New Position</title>
-      <link>https://alemiaschi.github.io/talk/rtda_fair/</link>
+      <link>http://localhost:1313/news/rtda_fair/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/rtda_fair/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/rtda_fair/</guid>
+      <description>&lt;p&gt;I am happy to announce that I have started a new position as a full-time researcher (RTDA) at CNR-ILC!
+&lt;br/&gt;In this role, I will be contributing to the &lt;a href=&#39;https://fondazione-fair.it/en/&#39;&gt;PNRR FAIR&lt;/a&gt; project, which focuses on addressing critical research questions, methodologies, models, and technologies in Artificial Intelligence (AI). Specifically, I am part of Spoke 5 of FAIR, which is focused on the analysis and the developemnt of high-quality AI systems.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Linguistically Informed T5</title>
-      <link>https://alemiaschi.github.io/project/lit5/</link>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/project/lit5/</guid>
-      <description>&lt;p&gt;This repository contains data and models associated to the LREC-COLING 2024 paper &lt;a href=&#39;https://aclanthology.org/2024.lrec-main.922.pdf&#39;&gt;&amp;ldquo;Linguistic Knowledge Can Enhance Encoder-Decoder Models (If You Let It)&amp;quot;&lt;/a&gt;. &lt;br&gt;
-&lt;b&gt;Abstract&lt;/b&gt;: In this paper, we explore the impact of augmenting pre-trained Encoder-Decoder models, specifically T5, with linguistic knowledge for the prediction of a target task. In particular, we investigate whether fine-tuning a T5 model on an intermediate task that predicts structural linguistic properties of sentences modifies its performance in the target task of predicting sentence-level complexity. Our study encompasses diverse experiments conducted on Italian and English datasets, employing both monolingual and multilingual T5 models at various sizes. Results obtained for both languages and in cross-lingual configurations show that linguistically motivated intermediate fine-tuning has generally a positive impact on target task performance, especially when applied to smaller models and in scenarios with limited data availability.&lt;/p&gt;
-</description>
-    </item>
-    
     <item>
       <title>Linguistic Knowledge Can Enhance Encoder-Decoder Models (If You Let It)</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/coling2024/</link>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/coling2024/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/lrec_coling_2024/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/lrec_coling_2024/</guid>
+      <description>In this paper, we explore the impact of augmenting pre-trained Encoder-Decoder models, specifically T5, with linguistic knowledge for the prediction of a target task. In particular, we investigate whether fine-tuning a T5 model on an intermediate task that predicts structural linguistic properties of sentences modifies its performance in the target task of predicting sentence-level complexity. Our study encompasses diverse experiments conducted on Italian and English datasets, employing both monolingual and multilingual T5 models at various sizes. Results obtained for both languages and in cross-lingual configurations show that linguistically motivated intermediate fine-tuning has generally a positive impact on target task performance, especially when applied to smaller models and in scenarios with limited data availability.</description>
     </item>
-    
     <item>
-      <title>LREC-COLING 2024 Paper</title>
-      <link>https://alemiaschi.github.io/talk/coling_2024/</link>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/coling_2024/</guid>
-      <description></description>
+      <title>Linguistically Informed T5</title>
+      <link>http://localhost:1313/projects/lit5/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lit5/</guid>
+      <description>Suite of linguistically-informed T5 models</description>
     </item>
-    
     <item>
-      <title>Premio di ricerca &#34;Dino Buzzetti&#34; 2023</title>
-      <link>https://alemiaschi.github.io/talk/buzzetti_prize_aiucd_2024/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/buzzetti_prize_aiucd_2024/</guid>
-      <description></description>
+      <title>Office Hours</title>
+      <link>http://localhost:1313/officehours/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/officehours/</guid>
+      <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
     </item>
-    
     <item>
       <title>T-FREX: A Transformer-based Feature Extraction Method for Mobile App Reviews</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/saner_2024/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:02 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/saner_2024/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/saner_2024/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/saner_2024/</guid>
+      <description>Mobile app reviews are a large-scale data source for software-related knowledge generation activities, including software maintenance, evolution and feedback analysis. Effective extraction of features (i.e., functionalities or characteristics) from these reviews is key to support analysis on the acceptance of these features, identification of relevant new feature requests and prioritization of feature development, among others. Traditional methods focus on syntactic pattern-based approaches, typically context-agnostic, evaluated on a closed set of apps, difficult to replicate and limited to a reduced set and domain of apps. Meanwhile, the pervasiveness of Large Language Models (LLMs) based on the Transformer architecture in software engineering tasks lays the groundwork for empirical evaluation of the performance of these models to support feature extraction. In this study, we present T-FREX, a Transformer-based, fully automatic approach for mobile app review feature extraction. First, we collect a set of ground truth features from users in a real crowdsourced software recommendation platform and transfer them automatically into a dataset of app reviews. Then, we use this newly created dataset to fine-tune multiple LLMs on a named entity recognition task under different data configurations. We assess the performance of T-FREX with respect to this ground truth, and we complement our analysis by comparing T-FREX with a baseline method from the field. Finally, we assess the quality of new features predicted by T-FREX through an external human evaluation. Results show that T-FREX outperforms on average the traditional syntactic-based method, especially when discovering new features from a domain for which the model has been fine-tuned.</description>
     </item>
-    
+    <item>
+      <title>LREC-COLING 2024 Paper</title>
+      <link>http://localhost:1313/news/coling_2024/</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/coling_2024/</guid>
+      <description>&lt;p&gt;Our paper &amp;lsquo;Linguistic Knowledge Can Enhance Encoder-Decoder Models (&lt;em&gt;If You Let It&lt;/em&gt;) (with Felice Dell&amp;rsquo;Orletta and Giulia Venturi) has been accepted at LREC-COLING 2024! &lt;br/&gt;
+In the paper, we explore the impact of augmenting pre-trained Encoder-Decoder models, specifically T5, with linguistic knowledge for the prediction of a target task. In particular, we investigate whether fine-tuning a T5 model on an intermediate task that predicts structural linguistic properties of sentences modifies its performance in the target task of predicting sentence-level complexity. Our study encompasses diverse experiments conducted on Italian and English datasets, employing both monolingual and multilingual T5 models at various sizes. Results obtained for both languages and in cross-lingual configurations show that linguistically motivated intermediate fine-tuning has generally a positive impact on target task performance, especially when applied to smaller models and in scenarios with limited data availability.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Premio di ricerca &#34;Dino Buzzetti&#34; 2023</title>
+      <link>http://localhost:1313/news/buzzetti_prize_aiucd_2024/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/buzzetti_prize_aiucd_2024/</guid>
+      <description>&lt;p&gt;I am really happy to announce that I was awarded by &lt;a href=&#39;http://www.aiucd.it/&#39;&gt;AIUCD&lt;/a&gt; with the 2023 Prize &amp;lsquo;Premio di ricerca Dino Buzzetti&amp;rsquo;! The prize will fund a small project, based on the development of a book recommender system. In particular, during the project, I will first of all collect reviews from popular Digital Social Reading platforms, such as Goodreads and Anobii. Then, I plan to conduct a comprehensive human evaluation campaign to verify whether (and how) certain reviews are likely to be of interest for future readers. Another aspect of the project involves exploring the capabilities of Language Models (LLMs) to generate fictional reviews and assessing their impact on the overall evaluation campaign. &lt;br/&gt; All the informations are available at this link: &lt;a href=&#39;http://www.aiucd.it/premio-buzzetti-2023-a-alessio-miaschi/&#39;&gt;&lt;a href=&#34;http://www.aiucd.it/premio-buzzetti-2023-a-alessio-miaschi/&#34; target=&#34;_blank&#34;&gt;http://www.aiucd.it/premio-buzzetti-2023-a-alessio-miaschi/&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>SANER 2024 Paper</title>
-      <link>https://alemiaschi.github.io/talk/saner2024/</link>
+      <link>http://localhost:1313/news/saner2024/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/saner2024/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/saner2024/</guid>
+      <description>&lt;p&gt;Our paper &amp;lsquo;T-FREX: A Transformer-based Feature Extraction Method from Mobile App Reviews&amp;rsquo; (with Quim Motger, Felice Dell&amp;rsquo;Orletta, Xavier Franch and Jordi Marco) has been accepted at the IEEE International Conference on Software Analysis, Evaluation and Reengineering (SANER) 2024. In the paper we present T-FREX, a Transformer-based, fully automatic approach for mobile app review feature extraction. First, we collect a set of ground truth features from users in a real crowdsourced software recommendation platform and transfer them automatically into a dataset of app reviews. Then, we use this newly created dataset to fine-tune multiple LLMs on a named entity recognition task under different data configurations. We assess the performance of T-FREX with respect to this ground truth, and we complement our analysis by comparing T-FREX with a baseline method from the field. Finally, we assess the quality of new features predicted by T-FREX through an external human evaluation. Results show that T-FREX outperforms on average the traditional syntactic-based method, especially when discovering new features from a domain for which the model has been fine-tuned.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lost in Labels: An Ongoing Quest to Optimize Text-to-Text Label Selection for Classification</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2023_2/</link>
-      <pubDate>Tue, 17 Oct 2023 00:00:02 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2023_2/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/clic_2023_2/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/clic_2023_2/</guid>
+      <description>In this paper, we present an evaluation of the influence of label selection on the performance of a Sequence-to-Sequence Transformer model in a classification task. Our study investigates whether the choice of words used to represent classification categories affects the model’s performance, and if there exists a relationship between the model’s performance and the selected words. To achieve this, we fine-tuned an Italian T5 model on topic classification using various labels. Our results indicate that the different label choices can significantly impact the model’s performance. That being said, we did not find a clear answer on how these choices affect the model performances, highlighting the need for further research in optimizing label selection.</description>
     </item>
-    
     <item>
       <title>Unmasking the Wordsmith: Revealing Author Identity through Reader Reviews</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2023/</link>
-      <pubDate>Tue, 17 Oct 2023 00:00:02 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2023/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/clic_2023_1/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/clic_2023_1/</guid>
+      <description>Traditional genre-based approaches for book recommendations face challenges due to the vague definition of genres. To overcome this, we propose a novel task called Book Author Prediction, where we predict the author of a book based on user-generated reviews&amp;rsquo; writing style. To this aim, we first introduce the `Literary Voices Corpus&amp;rsquo; (LVC), a dataset of Italian book reviews, and use it to train and test machine learning models. Our study contributes valuable insights for developing user-centric systems that recommend leisure readings based on individual readers&amp;rsquo; interests and writing styles.</description>
     </item>
-    
     <item>
       <title>Lab @ Bright Night 2023</title>
-      <link>https://alemiaschi.github.io/talk/bright_2023/</link>
+      <link>http://localhost:1313/news/bright_2023/</link>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/bright_2023/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/bright_2023/</guid>
+      <description>&lt;p&gt;Friday September 29 at the Bright Night, we presented the activity of our laboratory. You can find a brief interview about the lab and our activities at the following link: &lt;a href=&#39;https://www.cnrweb.tv/il-bright-del-cnr-in-centro-citta-a-pisa/&#39; target=&#39;_blank&#39;&gt;&lt;a href=&#34;https://www.cnrweb.tv/il-bright-del-cnr-in-centro-citta-a-pisa/&#34; target=&#34;_blank&#34;&gt;https://www.cnrweb.tv/il-bright-del-cnr-in-centro-citta-a-pisa/&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>CLiC-it 2023 Papers</title>
-      <link>https://alemiaschi.github.io/talk/clic-it_2023/</link>
-      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/clic-it_2023/</guid>
-      <description></description>
+      <link>http://localhost:1313/news/clic-it_2023/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/clic-it_2023/</guid>
+      <description>&lt;p&gt;Two papers accepted at CLiC-it 2023! In &amp;lsquo;Lost in Labels&amp;rsquo; (with Michele Papucci and Felice Dell&amp;rsquo;Orletta) we present an evaluation of the influence of label selection on the performance of a Sequence-to-Sequence Transformer model in a classification task. Our study investigates whether the choice of words used to represent classification categories affects the model&amp;rsquo;s performance, and if there exists a relationship between the model&amp;rsquo;s performance and the selected words. To achieve this, we fine-tuned an Italian T5 model on topic classification using various labels. Our results indicate that the different label choices can significantly impact the model&amp;rsquo;s performance. That being said, we did not find a clear answer on how these choices affect the model performances, highlighting the need for further research in optimizing label selection. &lt;br/&gt;
+In &amp;lsquo;Unmasking the Wordsmith: Revealing Author Identity through Reader Reviews&amp;rsquo; (with Chiara Alzetta, Felice Dell&amp;rsquo;Orletta, Chiara Fazzone and Giulia Venturi) we propose a novel task called Book Author Prediction, where we predict the author of a book based on user-generated reviews&amp;rsquo; writing style. To this aim, we first introduce the Literary Voices Corpus (LVC), a dataset of Italian book reviews, and use it to train and test machine learning models. Our study contributes valuable insights for developing user-centric systems that recommend leisure readings based on individual readers&amp;rsquo; interests and writing styles.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>LANGLEARN @ EVALITA 2023</title>
-      <link>https://alemiaschi.github.io/project/langlearn/</link>
+      <link>http://localhost:1313/projects/langlearn/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/project/langlearn/</guid>
-      <description>&lt;p&gt;This is the official webpage of the LANGLEARN - Language Learning Development Shared Task organized at EVALITA 2023. LANGLEARN was proposed at EVALITA as the first shared task on automatic language development assessment. The task consists of predicting the relative order of two essays written by the same student.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/projects/langlearn/</guid>
+      <description>Webpage of the LANGLEARN Shared Task at EVALITA 2023</description>
     </item>
-    
     <item>
       <title>LangLearn at EVALITA 2023: Overview of the Language Learning Development Task</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/evalita_2023/</link>
-      <pubDate>Mon, 04 Sep 2023 00:00:01 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/evalita_2023/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/evalita_2023/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/evalita_2023/</guid>
+      <description>Language Learning Development (LangLearn) is the EVALITA 2023 shared task on automatic language development assessment, which consists in predicting the evolution of the written language abilities of learners across time. LangLearn is conceived to be multilingual, relying on written productions of Italian and Spanish learners, and representative of L1 and L2 learning scenarios. A total of 9 systems were submitted by 5 teams. The results highlight the open challenges of automatic language development assessment.</description>
     </item>
-    
     <item>
       <title>Journal of Documentation 2023</title>
-      <link>https://alemiaschi.github.io/talk/documentation/</link>
+      <link>http://localhost:1313/news/documentation/</link>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/documentation/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/documentation/</guid>
+      <description>&lt;p&gt;Our paper &amp;lsquo;Tell me how you write and I&amp;rsquo;ll tell you what you read: a study on the writing style of book reviews&amp;rsquo; (with Chiara Alzetta, Felice Dell&amp;rsquo;Orletta, Elena Prat and Giulia Venturi) has been accepted for publication in the next issue of the journal of Documentation. In this work we investigate variations in the writing style of book reviews published on different social reading platforms and referring to books of different genres. In particular, we propose a corpus-based study focused on the analysis of A Good Review, a novel corpus of online book reviews written in Italian, posted on Amazon and Goodreads, and covering six literary fiction genres. We rely on stylometric analysis to explore the linguistic properties and lexicon of reviews and we conducted automatic classification experiments using multiple approaches and feature configurations to predict either the review&amp;rsquo;s platform or the literary genre.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tell me how you write and I&#39;ll tell you what you read: a study on the writing style of book reviews</title>
-      <link>https://alemiaschi.github.io/publication/journal-article/documentation/</link>
-      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/journal-article/documentation/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/documentation/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/documentation/</guid>
+      <description>The authors’ goal is to investigate variations in the writing style of book reviews published on different social reading platforms and referring to books of different genres, which enables acquiring insights into communication strategies adopted by readers to share their reading experiences. The authors propose a corpus-based study focused on the analysis of A Good Review, a novel corpus of online book reviews written in Italian, posted on Amazon and Goodreads, and covering six literary fiction genres. The authors rely on stylometric analysis to explore the linguistic properties and lexicon of reviews and the authors conducted automatic classification experiments using multiple approaches and feature configurations to predict either the review’s platform or the literary genre. The analysis of user-generated reviews demonstrates that language is a quite variable dimension across reading platforms, but not as much across book genres. The classification experiments revealed that features modelling the syntactic structure of the sentence are reliable proxies for discerning Amazon and Goodreads reviews, whereas lexical information showed a higher predictive role for automatically discriminating the genre. The high availability of cultural products makes information services necessary to help users navigate these resources and acquire information from unstructured data. This study contributes to a better understanding of the linguistic characteristics of user-generated book reviews, which can support the development of linguistically-informed recommendation services. Additionally, the authors release a novel corpus of online book reviews meant to support the reproducibility and advancements of the research.</description>
     </item>
-    
     <item>
       <title>Talk at DCP23</title>
-      <link>https://alemiaschi.github.io/talk/dcp_2023/</link>
-      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/dcp_2023/</guid>
-      <description></description>
+      <link>http://localhost:1313/news/dcp_2023/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/dcp_2023/</guid>
+      <description>&lt;p&gt;I am glad to announce that on Friday, June 9th, I will give a talk at the DCP23 Workshop in Pisa. DCP is an inter-disciplinary workshop focused on non-linear dynamics, statistical mechanics and complexity in multiple areas, from mathematics to philosophy, biology, physiology, economy and social sciences, among others.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Title&lt;/b&gt;: Opening Large Language Models&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: As language models become increasingly complex and sophisticated, the processes leading to their predictions are growing increasingly difficult to understand. Research in NLP interpretability focuses on explaining the rationales driving model predictions and is crucial for building trust and transparency in the usage of these systems in real-world scenarios. In this talk, we will first introduce state-of-the-art Neural Language Models (NLMs) and discuss their characteristics. Then we will cover the most commonly applied analysis methods for understanding the inner behaviour of NLMs based on Transformer architectures and how they implicitly encode linguistic knowledge.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>XNLM Lab</title>
-      <link>https://alemiaschi.github.io/project/xnlm_lab/</link>
+      <link>http://localhost:1313/projects/xnlm_lab/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/project/xnlm_lab/</guid>
-      <description>&lt;p&gt;This repository contains materials for the lab &amp;ldquo;Explaining Neural Language Models from Internal Representations to Model Predictions&amp;rdquo; by me and my colleague Gabriele Sarti at the AILC Lectures on Computational Linguistics 2023.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/projects/xnlm_lab/</guid>
+      <description>Materials for the XNLM Lab organized at the Lectures on Computational Linguistics 2023</description>
     </item>
-    
     <item>
       <title>Lab @ Lectures on Computational Linguistics 2023</title>
-      <link>https://alemiaschi.github.io/talk/lectures_2023/</link>
+      <link>http://localhost:1313/news/lectures_2023/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/lectures_2023/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/lectures_2023/</guid>
+      <description>&lt;p&gt;I am glad to announce that on May 31 I will be hosting with &lt;a href=&#34;https://gsarti.com/&#34;&gt;Gabriele Sarti&lt;/a&gt; a laboratory focused on the interpretability of Neural Language Models (NLMs) at the 2023 edition of the Lectures on Computational Linguistics. &lt;br/&gt;Below you can find title and abstract of the lab:
+&lt;br/&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Title&lt;/b&gt;: Explaining Neural Language Models from Internal Representations to Model Predictions&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: As language models become increasingly complex and sophisticated, the processes leading to their predictions are growing increasingly difficult to understand. Research in NLP interpretability focuses on explaining the rationales driving model predictions and is crucial for building trust and transparency in the usage of these systems in real-world scenarios.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Information 2023, Volume 14, Number 3</title>
-      <link>https://alemiaschi.github.io/talk/information/</link>
+      <link>http://localhost:1313/news/information/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/information/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/information/</guid>
+      <description>&lt;p&gt;Our paper &amp;lsquo;Testing the Effectiveness of the Diagnostic Probing Paradigm on Italian Treebankss&amp;rsquo; (with Chiara Alzetta, Dominique Brunato, Felice Dell&amp;rsquo;Orletta and Giulia Venturi) has been accepted for publication in the next issue of the Information journal. In this work we contribute to the debate on the effectiveness of the linguistic probing paradigm by presenting an approach to assessing the effectiveness of a suite of probing tasks aimed at testing the linguistic knowledge implicitly encoded by one of the most prominent NLMs, BERT. To this aim, we compared the performance of probes when predicting gold and automatically altered values of a set of linguistic features. Our experiments were performed on Italian and were evaluated across BERT’s layers and for sentences with different lengths. As a general result, we observed higher performance in the prediction of gold values, thus suggesting that the probing model is sensitive to the distortion of feature values. However, our experiments also showed that the length of a sentence is a highly influential factor that is able to confound the probing model’s predictions.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Testing the Effectiveness of the Diagnostic Probing Paradigm on Italian Treebanks</title>
-      <link>https://alemiaschi.github.io/publication/journal-article/information/</link>
-      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/journal-article/information/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/information/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/information/</guid>
+      <description>The outstanding performance recently reached by neural language models (NLMs) across many natural language processing (NLP) tasks has steered the debate towards understanding whether NLMs implicitly learn linguistic competence. Probes, i.e., supervised models trained using NLM representations to predict linguistic properties, are frequently adopted to investigate this issue. However, it is still questioned if probing classification tasks really enable such investigation or if they simply hint at surface patterns in the data. This work contributes to this debate by presenting an approach to assessing the effectiveness of a suite of probing tasks aimed at testing the linguistic knowledge implicitly encoded by one of the most prominent NLMs, BERT. To this aim, we compared the performance of probes when predicting gold and automatically altered values of a set of linguistic features. Our experiments were performed on Italian and were evaluated across BERT’s layers and for sentences with different lengths. As a general result, we observed higher performance in the prediction of gold values, thus suggesting that the probing model is sensitive to the distortion of feature values. However, our experiments also showed that the length of a sentence is a highly influential factor that is able to confound the probing model’s predictions.</description>
     </item>
-    
     <item>
       <title>LangLearn (Shared task at EVALITA 2023)</title>
-      <link>https://alemiaschi.github.io/talk/evalita_2022/</link>
-      <pubDate>Wed, 14 Dec 2022 13:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/evalita_2022/</guid>
-      <description></description>
+      <link>http://localhost:1313/news/evalita_2022/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/evalita_2022/</guid>
+      <description>&lt;p&gt;I am happy to announce that I will be co-organizing a shared task at EVALITA 2023, the evaluation campaign of NLP and Speech Tools for Italian, that will have place in Parma on September 7-8 2023. &lt;br/&gt;
+For more information please visit the shared task web page:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&#39;https://sites.google.com/view/langlearn2023&#39;&gt;LangLearn&lt;/a&gt;: Language Learning Development at EVALITA 2023&lt;/li&gt;
+	&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>IEEE/ACM Transactions on Audio, Speech and Language Processing</title>
-      <link>https://alemiaschi.github.io/talk/taslp/</link>
+      <link>http://localhost:1313/news/taslp/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/taslp/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/taslp/</guid>
+      <description>&lt;p&gt;Our paper &amp;lsquo;On Robustness and Sensitivity of a Neural Language Model: A Case Study on Italian L1 Learner Errors&amp;rsquo; (with Dominique Brunato, Felice Dell&amp;rsquo;Orletta and Giulia Venturi) has been accepted for publication in the next issue of the IEEE/ACM Transactions on Audio, Speech and Language Processing journal. In this work, we propose a comprehensive linguistic study aimed at assessing the implicit behaviour of one of the most prominent Neural Language Model (NLM) based on Transformer architectures, BERT (Devlin et al., 2019), when dealing with a particular source of noisy data, namely essays written by L1 Italian learners containing a variety of errors targeting grammar, orthography and lexicon. Differently from previous works, we focus on the pre-training stage and we devise two evaluation tasks aimed at assessing the impact of errors on sentence-level inner representations from two complementary perspectives, i.e. robustness and sensitivity. Our experiments show that BERT’s ability to compute sentence similarity and to correctly encode a set of raw and morpho-syntactic properties of a sentence are differently modulated by the category of errors and that the error hierarchies in terms of robustness and sensitivity change across layer-wise representations.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>On Robustness and Sensitivity of a Neural Language Model: A Case Study on Italian L1 Learner Errors</title>
-      <link>https://alemiaschi.github.io/publication/journal-article/taslp/</link>
+      <link>http://localhost:1313/papers/taslp/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/journal-article/taslp/</guid>
-      <description></description>
+      <guid>http://localhost:1313/papers/taslp/</guid>
+      <description>In this paper, we propose a comprehensive linguistic study aimed at assessing the implicit behaviour of one of the most prominent Neural Language Model (NLM) based on Transformer architectures, BERT (Devlin et al., 2019), when dealing with a particular source of noisy data, namely essays written by L1 Italian learners containing a variety of errors targeting grammar, orthography and lexicon. Differently from previous works, we focus on the pre-training stage and we devise two evaluation tasks aimed at assessing the impact of errors on sentence-level inner representations from two complementary perspectives, i.e. robustness and sensitivity. Our experiments show that BERT’s ability to compute sentence similarity and to correctly encode a set of raw and morpho-syntactic properties of a sentence are differently modulated by the category of errors and that the error hierarchies in terms of robustness and sensitivity change across layer-wise representations.</description>
     </item>
-    
     <item>
       <title>NL4AI 2022 (AIxIA) Paper</title>
-      <link>https://alemiaschi.github.io/talk/nl4ai_2022/</link>
-      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/nl4ai_2022/</guid>
-      <description></description>
+      <link>http://localhost:1313/news/nl4ai_2022/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nl4ai_2022/</guid>
+      <description>&lt;p&gt;Our paper &amp;lsquo;Evaluating Text-To-Text Framework for Topic and Style Classification of Italian texts&amp;rsquo; (with Michele Papucci, Chiara De Nigris and Felice Dell&amp;rsquo;Orletta) has been accepted at the NL4AI Workshop (AIxIA Conference). In this paper, we propose an extensive evaluation of the first text-to-text Italian Neural Language Model (NLM), IT5, on a classification scenario. In particular, we test the performance of IT5 on several tasks involving both the classification of the topic and the style of a set of Italian posts. We assess the model in two different configurations, single- and multi-task classification, and we compare it with a more traditional NLM based on the Transformer architecture (i.e. BERT). Moreover, we test its performance in a few-shot learning scenario. We also perform a qualitative investigation on the impact of label representations in modeling the classification of the IT5 model. Results show that IT5 could achieve good results, although generally lower than the BERT model. Nevertheless, we observe a significant performance improvement of the Text-to-text model in a multi-task classification scenario. Finally, we found that altering the representation of the labels mainly impacts the classification of the topic.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Evaluating Text-To-Text Framework for Topic and Style Classification of Italian texts</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/nl4ai_2022/</link>
-      <pubDate>Thu, 24 Nov 2022 00:00:02 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/nl4ai_2022/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/nl4ai_2022/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/nl4ai_2022/</guid>
+      <description>In this paper, we propose an extensive evaluation of the first text-to-text Italian Neural Language Model (NLM), IT5, on a classification scenario. In particular, we test the performance of IT5 on several tasks involving both the classification of the topic and the style of a set of Italian posts. We assess the model in two different configurations, single- and multi-task classification, and we compare it with a more traditional NLM based on the Transformer architecture (i.e. BERT). Moreover, we test its performance in a few-shot learning scenario. We also perform a qualitative investigation on the impact of label representations in modeling the classification of the IT5 model. Results show that IT5 could achieve good results, although generally lower than the BERT model. Nevertheless, we observe a significant performance improvement of the Text-to-text model in a multi-task classification scenario. Finally, we found that altering the representation of the labels mainly impacts the classification of the topic</description>
     </item>
-    
     <item>
       <title>Tech Talk</title>
-      <link>https://alemiaschi.github.io/talk/pi_school_2022/</link>
+      <link>http://localhost:1313/news/pi_school_2022/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/pi_school_2022/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/pi_school_2022/</guid>
+      <description>&lt;p&gt;I am glad to announce that on October 27 I will give a
+tech talk at &lt;a href=&#34;https://picampus-school.com/&#34;&gt;Pi School&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Title&lt;/b&gt;: Interpreting Neural Language Models&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: The field of Natural Language Processing (NLP) has seen an
+unprecedented progress in the last few years. Much of this progress is
+due to the replacement of traditional systems with newer and more
+powerful algorithms based on neural networks and deep learning. This
+improvement, however, comes at the cost of interpretability, since deep
+neural models offer little transparency about their inner workings and
+their abilities. Therefore, in the last few years, an increasingly large
+body of work has been devoted to the analysis and interpretation of
+these models.
+This talk will be divided into two parts. In the first part, we will
+briefly introduce Neural Language Models (NLMs) and the main techniques
+developed for interpreting their decisions and their inner linguistic
+knowledge. In the second part, we will see how to fine-tune one of the
+most popular NLM and then analyze its decisions according to two
+different interpretability methods: integrated gradients and analysis of
+attention matrices.&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Summer School - Advances in AI</title>
-      <link>https://alemiaschi.github.io/talk/summer_school_ai/</link>
-      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/summer_school_ai/</guid>
-      <description></description>
+      <link>http://localhost:1313/news/summer_school_ai/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/summer_school_ai/</guid>
+      <description>&lt;p&gt;I am glad to announce that on September 21 I will give a
+talk at the International Summer School on &amp;ldquo;Advances in Artificial
+Intelligence&amp;rdquo; (see below for the details). The main purpose of the school is to gather scholars,
+researchers and PhD students to learn and explore the main advanced
+topics offered by AI with a wide look towards new perspectives coming
+by innovative technological scenarios. &lt;br/&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;Title&lt;/b&gt;: Profiling Neural Language Models&lt;/h3&gt;&lt;br/&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: The field of Natural Language Processing (NLP) has
+seen an unprecedented progress in the last years. Much of this progress
+is due to the replacement of traditional systems with newer and more
+powerful algorithms based on neural networks and deep learning. This
+improvement, however, comes at the cost of interpretability, since deep
+neural models offer little transparency about their inner workings and their abilities. Therefore, in the last few years, an increasingly large body of work has been devoted to the analysis and interpretation of these models.&lt;br/&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Probing Linguistic Knowledge in Italian Neural Language Models across Language Varieties</title>
-      <link>https://alemiaschi.github.io/publication/journal-article/ijcol_2022/</link>
-      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/journal-article/ijcol_2022/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/ijcol_2022/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/ijcol_2022/</guid>
+      <description>In this paper, we present an in-depth investigation of the linguistic knowledge encoded by the transformer models currently available for the Italian language. In particular, we investigate how the complexity of two different architectures of probing models affects the performance of the Transformers in encoding a wide spectrum of linguistic features. Moreover, we explore how this implicit knowledge varies according to different textual genres and language varieties.</description>
     </item>
-    
     <item>
       <title>Punctuation Restoration in Spoken Italian Transcripts with Transformers</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/advance_ai_2022/</link>
-      <pubDate>Tue, 19 Jul 2022 00:00:02 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/advance_ai_2022/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/lecture_notes/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/lecture_notes/</guid>
+      <description>In this paper, we propose an evaluation of a Transformer-based punctuation restoration model for the Italian language. Experimenting with a BERT-base model, we perform several fine-tuning with different training data and sizes and tested them in an in- and cross-domain scenario. Moreover, we conducted an error analysis of the main weaknesses of the model related to specific punctuation marks. Finally, we test our system either quantitatively and qualitatively, by offering a typical task-oriented and a perception-based acceptability evaluation.</description>
     </item>
-    
     <item>
       <title>PhD Thesis Defense</title>
-      <link>https://alemiaschi.github.io/talk/phd_thesis/</link>
+      <link>http://localhost:1313/news/phd_thesis/</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/phd_thesis/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/phd_thesis/</guid>
+      <description>&lt;p&gt;I am glad to announce that on May 24 I have successfully defended my PhD thesis, &lt;i&gt;&amp;lsquo;Tracking Linguistic Abilities in Neural Language Models&amp;rsquo;&lt;/i&gt;. &lt;br/&gt; You can find the pdf of my thesis at the following link: &lt;a href=&#39;https://etd.adm.unipi.it/theses/available/etd-05062022-162420/&#39;&gt;&lt;a href=&#34;https://etd.adm.unipi.it/theses/available/etd-05062022-162420/&#34; target=&#34;_blank&#34;&gt;https://etd.adm.unipi.it/theses/available/etd-05062022-162420/&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tracking Linguistic Abilities in Neural Language Models</title>
-      <link>https://alemiaschi.github.io/publication/thesis/phd_thesis/</link>
-      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/thesis/phd_thesis/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/phd_thesis/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/phd_thesis/</guid>
+      <description>In the last few years, the analysis of the inner workings of state-of-the-art Neural Language Models (NLMs) has become one of the most addressed line of research in Natural Language Processing (NLP). Several techniques have been devised to obtain meaningful explanations and to understand how these models are able to capture semantic and linguistic knowledge. The goal of this thesis is to investigate whether exploiting NLP methods for studying human linguistic competence and, specifically, the process of written language evolution is it possible to understand the behaviour of state-of-the-art Neural Language Models (NLMs). First, we present an NLP-based stylometric approach for tracking the evolution of written language competence in L1 and L2 learners using a wide set of linguistically motivated features capturing stylistic aspects of a text. Then, relying on the same set of linguistic features, we propose different approaches aimed at investigating the linguistic knowledge implicitly learned by NLMs. Finally, we propose a study in order to investigate the robustness of one of the most prominent NLM, i.e. BERT, when dealing with different types of errors extracted from authentic texts written by L1 Italian learners.</description>
     </item>
-    
     <item>
       <title>On the role of Textual Connectives in Sentence Comprehension: a new Dataset for Italian</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2021_2/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:02 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2021_2/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/clic_2021_2/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/clic_2021_2/</guid>
+      <description>In this paper we present a new evaluation resource for Italian aimed at assessing the role of textual connectives in the comprehension of the meaning of a sentence. The resource is arranged in two sections (acceptability assessment and cloze test), each one corresponding to a distinct challenge task conceived to test how subtle modifications involving connectives in real usage sentences influence the perceived acceptability of the sentence by native speakers and Neural Language Models (NLMs). Although the main focus is the presentation of the dataset, we also provide some preliminary data comparing human judgments and NLMs performance in the two tasks.</description>
     </item>
-    
     <item>
       <title>Probing Tasks Under Pressure</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2021/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:02 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2021/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/clic_2021_1/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/clic_2021_1/</guid>
+      <description>Probing tasks are frequently used to evaluate whether the representations of Neural Language Models (NLMs) encode linguistic information. However, it is still questioned if probing classification tasks really enable such investigation or they simply hint for surface patterns in the data. We present a method to investigate this question by comparing the accuracies of a set of probing tasks on gold and automatically generated control datasets. Our results suggest that probing tasks can be used as reliable diagnostic methods to investigate the linguistic information encoded in NLMs representations.</description>
     </item>
-    
-    <item>
-      <title>Evaluating Transformer Models for Punctuation Restoration in Italian</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/nl4ai_2021/</link>
-      <pubDate>Fri, 12 Nov 2021 00:00:02 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/nl4ai_2021/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>NL4AI 2021 (AIxIA) Paper</title>
-      <link>https://alemiaschi.github.io/talk/nl4ai_2021/</link>
+      <link>http://localhost:1313/news/nl4ai_2021/</link>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/nl4ai_2021/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/nl4ai_2021/</guid>
+      <description>&lt;p&gt;Our paper &amp;lsquo;Evaluating Transformer Models for Punctuation Restoration in Italian&amp;rsquo; (with Andrea Amelio Ravelli and Felice Dell&amp;rsquo;Orletta) has been accepted at the NL4AI Workshop (AIxIA Conference). In this paper, we propose an evaluation of a Transformer-based punctuation restoration model for the Italian language. Experimenting with a BERT-base model, we perform several fine-tuning with different training data and sizes and tested them in an in- and cross-domain scenario. Moreover, we offer a comparison in a multilingual setting with the same model fine-tuned on English transcriptions. Finally, we conclude with an error analysis of the main weaknesses of the model related to specific punctuation marks.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Evaluating Transformer Models for Punctuation Restoration in Italian</title>
+      <link>http://localhost:1313/papers/nl4ai_2021/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/nl4ai_2021/</guid>
+      <description>In this paper, we propose an evaluation of a Transformer-based punctuation restoration model for the Italian language. Experimenting with a BERT-base model, we perform several fine-tuning with different training data and sizes and tested them in an in- and cross-domain scenario. Moreover, we offer a comparison in a multilingual setting with the same model fine-tuned on English transcriptions. Finally, we conclude with an error analysis of the main weaknesses of the model related to specific punctuation marks.</description>
+    </item>
     <item>
       <title>GPT-Dante</title>
-      <link>https://alemiaschi.github.io/project/dante-gpt/</link>
+      <link>http://localhost:1313/projects/dante-gpt/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/project/dante-gpt/</guid>
-      <description>&lt;p&gt;This is the official repository for the graphical interface for text generation with the GePpeTto language model, specialized in texts in Dantean rhyme.
-The interface allows the user to enter a query, to which the model responds in Dante’s writing style.
-The interface and the GPT-Dante model were developed and used for the following outreach activities:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Workshop “Computational Linguistics and Digital Philology in the Age of AI” (Bright Night, Pisa, September 29, 2023)&lt;/li&gt;
-&lt;li&gt;Workshop “Is it Dante or not Dante? That is the question” (Festival della Scienza, Genoa, October 27–29, 2021)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://localhost:1313/projects/dante-gpt/</guid>
+      <description>GPT-Dante web interface</description>
     </item>
-    
     <item>
       <title>CLiC-it 2021 Papers</title>
-      <link>https://alemiaschi.github.io/talk/clic-it_2021/</link>
+      <link>http://localhost:1313/news/clic-it_2021/</link>
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/clic-it_2021/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/clic-it_2021/</guid>
+      <description>&lt;p&gt;Two papers accepted at CLiC-it 2021! In &amp;lsquo;Probing Tasks Under Stress&amp;rsquo; (with Chiara Alzetta, Dominique Brunato, Felice Dell&amp;rsquo;Orletta and Giulia Venturi) we introduced a new approach to put increasingly under pressure the effectiveness of a suite of probing tasks to test the linguistic knowledge implicitly encoded by a BERT Italian model. To achieve this goal, we set up a number of experiments aimed at comparing the performance of a regression model trained with BERT representations to predict the values of a set of linguistic properties extracted from the Italian Universal Dependency Treebank and from a suite of control datasets we specifically built for the purpose of this study.&lt;br/&gt;
+In &amp;lsquo;On the role of Textual Connectives in Sentence Comprehension: a new Dataset for Italian&amp;rsquo; (with Giorgia Albertin, Alessio Miaschi and Dominique Brunato) we presented a new evaluation resource for Italian aimed at assessing the role of textual connectives in the comprehension of the meaning of a sentence. The resource is arranged in two sections, corresponding to a distinct challenge task conceived to test how subtle modifications involving connectives in real usage sentences influence the perceived acceptability of the sentence by native speakers and Neural Language Models (NLMs). Although the main focus is the presentation of the dataset, we also provided some preliminary data comparing human judgments and NLMs performance in the two tasks.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>How Do BERT Embeddings Organize Linguistic Knowledge?</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/deelio2021_2/</link>
-      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/deelio2021_2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What Makes My Model Perplexed? A Linguistic Investigation on Neural Language Models Perplexity</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/deelio2021_1/</link>
-      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/deelio2021_1/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Python for Beginners</title>
-      <link>https://alemiaschi.github.io/project/python_classes/</link>
+      <link>http://localhost:1313/projects/python_classes/</link>
       <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/project/python_classes/</guid>
-      <description>&lt;p&gt;This repository contains the slides and the materials for the &amp;ldquo;Python for Beginners&amp;rdquo; course (Corsi Hands on: strumenti digitali per le DH). All materials are in Italian 🇮🇹.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/projects/python_classes/</guid>
+      <description>Materials for the &amp;lsquo;Python for Beginners&amp;rsquo; course</description>
     </item>
-    
     <item>
       <title>A dissemination workshop for introducing young Italian students to NLP</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/teachingnlp2021_1/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/teachingnlp2021_1/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/teachinnlp_2021_2/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/teachinnlp_2021_2/</guid>
+      <description>We describe and make available the game-based material developed for a laboratory run at several Italian science festivals to popularize NLP among young students.</description>
     </item>
-    
+    <item>
+      <title>How Do BERT Embeddings Organize Linguistic Knowledge?</title>
+      <link>http://localhost:1313/papers/deelio_2021_2/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/deelio_2021_2/</guid>
+      <description>Several studies investigated the linguistic information implicitly encoded in Neural Language Models. Most of these works focused on quantifying the amount and type of information available within their internal representations and across their layers. In line with this scenario, we proposed a different study, based on Lasso regression, aimed at understanding how the information encoded by BERT sentence-level representations is arrange within its hidden units. Using a suite of several probing tasks, we showed the existence of a relationship between the implicit knowledge learned by the model and the number of individual units involved in the encodings of this competence. Moreover, we found that it is possible to identify groups of hidden units more relevant for specific linguistic properties.</description>
+    </item>
     <item>
       <title>Teaching NLP with Bracelets and Restaurant Menus: An Interactive Workshop for Italian Students</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/teachingnlp2021_2/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/teachingnlp2021_2/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/teachinnlp_2021_1/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/teachinnlp_2021_1/</guid>
+      <description>Although Natural Language Processing (NLP) is at the core of many tools young people use in their everyday life, high school curricula (in Italy) do not include any computational linguistics education. This lack of exposure makes the use of such tools less responsible than it could be and makes choosing computational linguistics as a university degree unlikely. To raise awareness, curiosity, and longer-term interest in young people, we have developed an interactive workshop designed to illustrate the basic principles of NLP and computational linguistics to high school Italian students aged between 13 and 18 years. The workshop takes the form of a game in which participants play the role of machines needing to solve some of the most common problems a computer faces in understanding language: from voice recognition to Markov chains to syntactic parsing. Participants are guided through the workshop with the help of instructors, who present the activities and explain core concepts from computational linguistics. The workshop was presented at numerous outlets in Italy between 2019 and 2021, both face-to-face and online.</description>
     </item>
-    
+    <item>
+      <title>What Makes My Model Perplexed? A Linguistic Investigation on Neural Language Models Perplexity</title>
+      <link>http://localhost:1313/papers/deelio_2021_1/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/deelio_2021_1/</guid>
+      <description>This paper presents an investigation aimed at studying how the linguistic structure of a sentence affects the perplexity of two of the most popular Neural Language Models (NLMs), BERT and GPT-2. We first compare the sentence-level likelihood computed with BERT and the GPT-2’s perplexity showing that the two metrics are correlated. In addition, we exploit linguistic features capturing a wide set of morpho-syntactic and syntactic phenomena showing how they contribute to predict the perplexity of the two NLMs.</description>
+    </item>
     <item>
       <title>Science Web Festival Workshop</title>
-      <link>https://alemiaschi.github.io/talk/science_web_festival_2021/</link>
+      <link>http://localhost:1313/news/science_web_festival_2021/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/science_web_festival_2021/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/science_web_festival_2021/</guid>
+      <description>&lt;p&gt;Last saturday at the &lt;a href=&#39;https://www.sciencewebfestival.it/&#39; target=&#39;_blank&#39;&gt;Science Web Festival&lt;/a&gt; we presented our educational workshop &lt;i&gt;&amp;lsquo;Ehi Siri, che cos&amp;rsquo;è la Linguistica Computazionale?&amp;rsquo;&lt;/i&gt; organized in collaboration with &lt;a href=&#39;https://www.ai-lc.it/&#39; target=&#39;_blank&#39;&gt;AILC (Associazione Italiana di Linguistica Computazionale)&lt;/a&gt;. You can find the video of the presentation (in Italian) at the following link: &lt;a href=&#39;https://www.youtube.com/watch?v=HGTpAXXRkWA&#39; target=&#39;_blank&#39;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HGTpAXXRkWA&#34; target=&#34;_blank&#34;&gt;https://www.youtube.com/watch?v=HGTpAXXRkWA&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Science Web Festival Workshop</title>
-      <link>https://alemiaschi.github.io/talks/science_web_festival_2021/</link>
-      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talks/science_web_festival_2021/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>NAACL 2021 Workshop Papers</title>
-      <link>https://alemiaschi.github.io/talk/workshops_naacl_2021/</link>
+      <link>http://localhost:1313/news/workshops_naacl_2021/</link>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/workshops_naacl_2021/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/workshops_naacl_2021/</guid>
+      <description>&lt;p&gt;4 papers accepted at NAACL 2021 workshops!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i&gt;&#39;What Makes My Model Perplexed? A Linguistic Investigation on Neural Language Models Perplexity&#39;&lt;/i&gt; (with Dominique Brunato, Felice Dell&#39;Orletta and Giulia Venturi): We studied how the linguistic structure of a sentence affects the perplexity of BERT and GPT-2 models (accepted at &lt;a href=&#39;https://sites.google.com/view/deelio-ws/&#39; target=&#39;_blank&#39;&gt;DeeLIO 2021&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;&#39;How Do BERT Embeddings Organize Linguistic Knowledge?&#39;&lt;/i&gt; (with Giovanni Puccetti e Felice Dell&#39;Orletta): We proposed a study, based on Lasso regression, to understand how the information encoded by BERT sentence-level representations is arrange within its hidden units (accepted at &lt;a href=&#39;https://sites.google.com/view/deelio-ws/&#39; target=&#39;_blank&#39;&gt;DeeLIO 2021&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;&#39;Teaching NLP with Bracelets and Restaurant Menus: An Interactive Workshop for Italian Students&#39;&lt;/i&gt; (with Ludovica Pannitto, Lucia Busso, Claudia Roberta Combei, Lucio Messina, Gabriele Sarti e Malvina Nissim): We illustrated an interactive workshop designed to delinate the basic principles of NLP and computational linguistics to high school Italian students aged between 13 and 18 years (accepted at &lt;a href=&#39;https://sites.google.com/view/teaching-nlp-workshop/home?authuser=0&#39; target=&#39;_blank&#39;&gt;Teaching NLP 2021&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;&#39;A dissemination workshop for introducing young Italian students to NLP&#39;&lt;/i&gt; (with Lucio Messina, Lucia Busso, Claudia Roberta Combei, Ludovica Pannitto, Gabriele Sarti e Malvina Nissim): We described and made  available the game-based material developed for the laboratory mentioned in &lt;i&gt;&#39;A dissemination workshop for introducing young Italian students to NLP&#39;&lt;/i&gt; (accepted at &lt;a href=&#39;https://sites.google.com/view/teaching-nlp-workshop/home?authuser=0&#39; target=&#39;_blank&#39;&gt;Teaching NLP 2021&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
-    <item>
-      <title>NAACL 2021 Workshop Papers</title>
-      <link>https://alemiaschi.github.io/talks/workshops_naacl_2021/</link>
-      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talks/workshops_naacl_2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A NLP-based stylometric approach for tracking the evolution of L1 written language compentece</title>
-      <link>https://alemiaschi.github.io/publication/journal-article/jowr/</link>
-      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/journal-article/jowr/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Journal of Writing Research (JoWR) Paper</title>
-      <link>https://alemiaschi.github.io/talk/jowr_paper/</link>
+      <link>http://localhost:1313/news/jowr_paper/</link>
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/jowr_paper/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/jowr_paper/</guid>
+      <description>&lt;p&gt;Our paper &lt;i&gt;&amp;lsquo;A NLP-based stylometric approach for tracking the evolution of L1 written language compentece&amp;rsquo;&lt;/i&gt; (with Dominique Brunato and Felice Dell&amp;rsquo;Orletta) is finally out and will feature in the next issue of JoWR! In this paper we demonstrated that linguistic features automatically extracted from text not only allow making explicit the relevant transformations occurring in L1 learners’ writing competence but can be exploited as effective predictors in the automatic classification of the chronological order of essays written by the same student, especially at more distant temporal spans. &lt;img src=&#39;1.png&#39;&gt;&lt;br/&gt; We showed that features related to the error annotation, as well as features belonging to the use of grammatical categories and to the inflectional properties of verbs, acquire much more relevance as the temporal span increase. &lt;br/&gt; Finally, we found that the student&amp;rsquo;slearning curve varies according at least to the geographical area where the school is located: when a higher temporal span is considered, the classifier is more confident about its decision for texts written by students who belong to suburban schools. &lt;img src=&#39;2.png&#39;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Is Neural Language Model Perplexity Related to Readability?</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2020_2/</link>
-      <pubDate>Tue, 15 Dec 2020 00:00:02 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2020_2/</guid>
-      <description></description>
+      <title>A NLP-based stylometric approach for tracking the evolution of L1 written language compentece</title>
+      <link>http://localhost:1313/papers/writing_research/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/writing_research/</guid>
+      <description>In this study we present a Natural Language Processing (NLP)-based stylometric approach for tracking the evolution of written language competence in Italian L1 learners. The approach relies on a wide set of linguistically motivated features capturing stylistic aspects of a text, which were extracted from students&amp;rsquo; essays contained in CItA (Corpus Italiano di Apprendenti L1), the first longitudinal corpus of texts written by Italian L1 learners enrolled in the first and second year of lower secondary school. We address the problem of modeling written language development as a supervised classification task consisting in predicting the chronological order of essays written by the same student at different temporal spans. The promising results obtained in several classification scenarios allow us to conclude that it is possible to automatically model the highly relevant changes affecting written language evolution across time, as well as identifying which features are more predictive of this process. In the last part of the article, we focus the attention on the possible influence of background variables on language learning and we present preliminary results of a pilot study aiming at understanding how the observed developmental patterns are affected by information related to the school environment of the student.</description>
     </item>
-    
-    <item>
-      <title>Italian Transformers Under the Linguistic Lens</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2020/</link>
-      <pubDate>Tue, 15 Dec 2020 00:00:02 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PRELEARN @ EVALITA 2020: Overview of the Prerequisite Relation Learning Task for Italian</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/evalita_2020_2/</link>
-      <pubDate>Tue, 15 Dec 2020 00:00:01 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/evalita_2020_2/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>ATE_ABSITA @ EVALITA2020: Overview of the Aspect Term Extraction and Aspect-based Sentiment Analysis Task</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/evalita_2020/</link>
-      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/evalita_2020/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/evalita_2020_2/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/evalita_2020_2/</guid>
+      <description>Over the last years, the rise of novel sentiment analysis techniques to assess aspect-based opinions on product reviews has become a key component for providing valuable insights to both consumers and businesses. To this extent, we propose ATE ABSITA: the EVALITA 2020 shared task on Aspect Term Extraction and Aspect-Based Sentiment Analysis. In particular, we approach the task as a cascade of three subtasks: Aspect Term Extraction (ATE), Aspect-based Sentiment Analysis (ABSA) and Sentiment Analysis (SA). Therefore, we invited participants to submit systems designed to automatically identify the ‘aspect term’ in each review and to predict the sentiment expressed for each aspect, along with the sentiment of the entire review. The task received broad interest, with 27 teams registered and more than 45 participants. However, only three teams submitted their working systems. The results obtained underline the task’s difficulty, but they also show how it is possible to deal with it using innovative approaches and models. Indeed, two of them are based on large pre-trained language models as typical in the current state of the art for the English language.</description>
     </item>
-    
+    <item>
+      <title>Is Neural Language Model Perplexity Related to Readability?</title>
+      <link>http://localhost:1313/papers/clic_2020_2/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/clic_2020_2/</guid>
+      <description>This paper explores the relationship between Neural Language Model (NLM) perplexity and sentence readability. Starting from the evidence that NLMs implicitly acquire sophisticated linguistic knowledge from a huge amount of training data, our goal is to investigate whether perplexity is affected by linguistic features used to automatically assess sentence readability and if there is a correlation between the two metrics. Our findings suggest that this correlation is actually quite weak and the two metrics are affected by different linguistic phenomena.</description>
+    </item>
+    <item>
+      <title>Italian Transformers Under the Linguistic Lens</title>
+      <link>http://localhost:1313/papers/clic_2020_1/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/clic_2020_1/</guid>
+      <description>In this paper we present an in-depth investigation of the linguistic knowledge encoded by the transformer models currently available for the Italian language. In particular, we investigate whether and how using different architectures of probing models affects the performance of Italian transformers in encoding a wide spectrum of linguistic features. Moreover, we explore how this implicit knowledge varies according to different textual genres.</description>
+    </item>
+    <item>
+      <title>PRELEARN @ EVALITA 2020: Overview of the Prerequisite Relation Learning Task for Italian</title>
+      <link>http://localhost:1313/papers/evalita_2020_1/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/evalita_2020_1/</guid>
+      <description>The Prerequisite Relation Learning (PRELEARN) task is the EVALITA 2020 shared task on concept prerequisite learning, which consists of classifying prerequisite relations between pairs of concepts distinguishing between prerequisite pairs and non-prerequisite pairs. Four sub-tasks were defined: two of them define different types of features that participants are allowed to use when training their model, while the other two define the classification scenarios where the proposed models would be tested. In total, 14 runs were submitted by 3 teams comprising 9 total individual participants.</description>
+    </item>
     <item>
       <title>COLING 2020 Outstanding Paper Award</title>
-      <link>https://alemiaschi.github.io/talk/coling_outstanding_2020/</link>
+      <link>http://localhost:1313/news/coling_outstanding_2020/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/coling_outstanding_2020/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/coling_outstanding_2020/</guid>
+      <description>&lt;p&gt;I am very proud to announce that our paper &amp;lsquo;Linguistic Profiling of a Neural Language Model&amp;rsquo; (with Dominique Brunato, Felice Dell&amp;rsquo;Orletta and Giulia Venturi) has been awarded as Outstanding Paper for COLING 2020! Here&amp;rsquo;s the official announcement: &lt;a href=&#39;https://coling2020.org/2020/11/29/outstanding-papers.html&#39;&gt;&lt;a href=&#34;https://coling2020.org/2020/11/29/outstanding-papers.html&#34; target=&#34;_blank&#34;&gt;https://coling2020.org/2020/11/29/outstanding-papers.html&lt;/a&gt;&lt;/a&gt;&lt;br/&gt;
+The paper will be presented on Tuesday 8 at 17:00 - 17:30 (CET).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>CLiC-it 2020 Papers</title>
-      <link>https://alemiaschi.github.io/talk/clic-it_2020/</link>
+      <link>http://localhost:1313/news/clic-it_2020/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/clic-it_2020/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/clic-it_2020/</guid>
+      <description>&lt;p&gt;Two papers accepted at CLiC-it 2020! In &amp;lsquo;Italian Transformers Under the Linguistic Lens&amp;rsquo; (with Gabriele Sarti, Dominique Brunato, Felice Dell&amp;rsquo;Orletta and Giulia Venturi) we present an in-depth investigation of the lingusitic knowledge encoded by the Transformer models currently available for the Italian language. In particular, we showed that Multilayer Perceptron is the best model for inferring the amount of information implicitly encoded in the Transformers representations. We also observed that BERT-base-italian achieved best scores in average, but the linguistic generalization abilities of the examined models vary according to specific groups of linguistic phenomena and according to distinct textual genres.&lt;br/&gt;
+In &amp;lsquo;Is Neural Language Model Perplexity Related to Readability?&amp;rsquo; (with Chiara Alzetta, Dominique Brunato, Felice Dell&amp;rsquo;Orletta and Giulia Venturi) we explore the relationship between Neural Language Model (NLM) perplexity and (automatically assessed) sentence readability. Starting from the evidence that NLMs implicitly acquire sophisticated linguistic knowledge from a huge amount of training data, our goal is to investigate whether perplexity is affected by linguistic features used to automatically assess sentence readability and if there is a correlation between the two metrics. Our findings highlight that no significant correlation can be found, either between the two metrics and the set of linguistic features that mostly impact their values.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Linguistic Profiling of a Neural Language Model</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/coling2020/</link>
-      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/coling2020/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>COLING 2020 Paper</title>
-      <link>https://alemiaschi.github.io/talk/coling_2020/</link>
+      <link>http://localhost:1313/news/coling_2020/</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/coling_2020/</guid>
-      <description></description>
+      <guid>http://localhost:1313/news/coling_2020/</guid>
+      <description>&lt;p&gt;Our paper &amp;lsquo;Linguistic Profiling of a Neural Language Model&amp;rsquo; (with Dominique Brunato, Felice Dell&amp;rsquo;Orletta and Giulia Venturi) has been accepted at COLING 2020! In this paper we investigate the linguistic knowledge learned by a Neural Language Model (BERT) before and after a fine-tuning process and how this knowledge affects its predictions during several classification problems. We use a wide set of probing tasks, each of which corresponds toa distinct sentence-level feature extracted from different levels of linguistic annotation. In particular, we showed that BERT encodes a wide range of linguistic properites, but the order in which they are stored in the internal representations does not necessarily reflect the traditional division with respect to the linguistic annotation levels. &lt;img src=&#39;1.png&#39;&gt;&lt;br/&gt; We also found that BERT tends to lose its precision in encoding linguistic features after a fine-tuning process (Native Language Identification), probably because it is storing more task–related information for solving the task. &lt;img src=&#39;2.png&#39;&gt;&lt;br/&gt; Finally, we showed that the implicit linguistic knowledge encoded by the NLM positively affects its ability to solve the tested downstream tasks. &lt;img src=&#39;3.png&#39;&gt;&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Linguistic Profiling of a Neural Language Model [🏆 Outstanding Paper Award 🏆]</title>
+      <link>http://localhost:1313/papers/coling_2020/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/coling_2020/</guid>
+      <description>In this paper we investigate the linguistic knowledge learned by a Neural Language Model (NLM) before and after a fine-tuning process and how this knowledge affects its predictions during several classification problems. We use a wide set of probing tasks, each of which corresponds to a distinct sentence-level feature extracted from different levels of linguistic annotation. We show that BERT is able to encode a wide range of linguistic characteristics, but it tends to lose this information when trained on specific downstream tasks. We also find that BERT’s capacity to encode different kind of linguistic properties has a positive influence on its predictions: the more it stores readable linguistic information of a sentence, the higher will be its capacity of predicting the expected label assigned to that sentence.</description>
+    </item>
     <item>
       <title>Contextual and Non-Contextual Word Embeddings: an in-depth Linguistic Investigation</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/repl4nlp2020/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/repl4nlp2020/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/repl4nlp_2020/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/repl4nlp_2020/</guid>
+      <description>In this paper we present a comparison between the linguistic knowledge encoded in the internal representations of a contextual Language Model (BERT) and a contextual-independent one (Word2vec). We use a wide set of probing tasks, each of which corresponds to a distinct sentence-level feature extracted from different levels of linguistic annotation. We show that, although BERT is capable of understanding the full context of each word in an input sequence, the implicit knowledge encoded in its aggregated sentence representations is still comparable to that of a contextual-independent model. We also find that BERT is able to encode sentence-level properties even within single-word embeddings, obtaining comparable or even superior results than those obtained with sentence representations.</description>
     </item>
-    
     <item>
       <title>Tracking the Evolution of Written Language Competence in L2 Spanish Learners</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/bea2020/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/bea2020/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/bea_2020/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/bea_2020/</guid>
+      <description>In this paper we present an NLP-based approach for tracking the evolution of written language competence in L2 Spanish learners using a wide range of linguistic features automatically extracted from students’ written productions. Beyond reporting classification results for different scenarios, we explore the connection between the most predictive features and the teaching curriculum, finding that our set of linguistic features often reflect the explicit instructions that students receive during each course.</description>
     </item>
-    
     <item>
       <title>BEA-2020 Paper</title>
-      <link>https://alemiaschi.github.io/talk/bea_2020/</link>
-      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/bea_2020/</guid>
-      <description></description>
+      <link>http://localhost:1313/news/bea_2020/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/bea_2020/</guid>
+      <description>&lt;p&gt;Our paper &lt;i&gt;&amp;lsquo;Tracking the Evolution of Written Language Competence in L2 Spanish Learners&amp;rsquo;&lt;/i&gt; (with Sam Davidson, Dominique Brunato, Felice Dell&amp;rsquo;Orletta, Kenji Sagae, Claudia Helena Sanchez-Gutierrez and Giulia Venturi) has been accepted at BEA-2020! In this paper we presented an NLP-based approach for tracking the evolution of written language competence in L2 Spanish learners using a wide range of linguistic features automatically extracted from students&amp;rsquo; written productions. Beyond reporting classification results for different scenarios, we explored the connection between the most predictive features and the teaching curriculum, finding that our set of linguistic features often reflects the explicit instruction that students receive during each course.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>RepL4NLP-2020 Paper</title>
-      <link>https://alemiaschi.github.io/talk/repl4nlp_2020/</link>
-      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/repl4nlp_2020/</guid>
-      <description></description>
+      <link>http://localhost:1313/news/repl4nlp_2020/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/repl4nlp_2020/</guid>
+      <description>&lt;p&gt;Our paper &lt;i&gt;&amp;lsquo;Contextual and Non-Contextual Word Embeddings: an in-depth Linguistic Investigation&amp;rsquo;&lt;/i&gt; (with Felice Dell&amp;rsquo;Orletta) has been accepted at RepL4NLP-2020! In this paper we performed an in-depth linguistic analysis aimed at understanding the implicit knowledge encoded in a contextual and a contextual-independent Neural Language Model (NLM). In particular: we evaluated the best method for obtaining sentence-level representations out of single-word embeddings; we compared the results obtained by the two NLMs according to the different combining methods; we studied whether the contextualized model is able to encode sentence-level properties within its single word representations.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Shared tasks at EVALITA 2020</title>
-      <link>https://alemiaschi.github.io/talk/evalita_2020/</link>
-      <pubDate>Mon, 16 Mar 2020 13:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/evalita_2020/</guid>
-      <description></description>
+      <link>http://localhost:1313/news/evalita_2020/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/evalita_2020/</guid>
+      <description>&lt;p&gt;I am happy to announce that I will be co-organizing two shared tasks at EVALITA 2020, the evaluation campaign of NLP and Speech Tools for Italian, that will be held as a co-located event of the 7th Conference on Computational Linguistics - CLiC-it 2020 (Bologna, Nov 30th - Dec 3rd 2020). &lt;br/&gt;
+For more information please visit the shared tasks web pages:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&#39;https://sites.google.com/view/prelearn20/home&#39;&gt;PRELEARN&lt;/a&gt;: Prerequisite RElation LEARNing&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&#39;http://www.di.uniba.it/~swap/ate_absita/index.html&#39;&gt;ATE_ABSITA&lt;/a&gt;: Aspect Term Extraction and Aspect-based Sentiment Analysis&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
-    <item>
-      <title>PhD Giveback Event</title>
-      <link>https://alemiaschi.github.io/talk/giveback_event/</link>
-      <pubDate>Wed, 20 Nov 2019 13:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/talk/giveback_event/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Prerequisite or Not Prerequisite? That&#39;s the problem! An NLP-based Approach for Concept Prerequisite Learning</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2019/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2019/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/clic_2019/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/clic_2019/</guid>
+      <description>This paper presents a method for prerequisite learning classification between educational concepts. The proposed system was developed by adapting a classification algorithm designed for sequencing Learning Objects to the task of ordering concepts from a computer science textbook. In order to apply the system to the new task, for each concept we automatically created a learning unit from the textbook using two criteria based on concept occurrences and burst intervals. Results are promising and suggest that further improvements could highly benefit the results.</description>
     </item>
-    
+    <item>
+      <title>PhD Giveback Event</title>
+      <link>http://localhost:1313/news/giveback_event/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/giveback_event/</guid>
+      <description>&lt;p&gt;I am glad to announce the first PhD Giveback Event, which I organized together with Irene Sucameli and prof. Ferragina. It will be a great half-day event, during which former PhD students of our Department who now works for prestigious companies, will present themselves to the current PhD and MA students, talking about their post-doc experience as well as their current research activities within the respective companies. &lt;br/&gt;For more information please visit the &lt;a href=&#39;http://givebackevent.di.unipi.it&#39;&gt;website&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Linguistically-Driven Strategy for Concept Prerequisites Learning on Italian</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/bea2019/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/bea2019/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/bea_2019/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/bea_2019/</guid>
+      <description>We present a new concept prerequisite learning method for Learning Object (LO) ordering that exploits only linguistic features extracted from textual educational resources. The method was tested in a cross- and in- domain scenario both for Italian and English. Additionally, we performed experiments based on a incremental training strategy to study the impact of the training set size on the classifier performances. The paper also introduces ITA-PREREQ, to the best of our knowledge the first Italian dataset annotated with prerequisite relations between pairs of educational concepts, and describe the automatic strategy devised to build it.</description>
     </item>
-    
     <item>
       <title>Trattamento Automatico della Lingua per la creazione di percorsi didattici personalizzati</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/italia_2019/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/italia_2019/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/italia_2019/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/italia_2019/</guid>
+      <description>Il contributo illustra le attività portate avanti dal Laboratorio ItaliaNLP Lab nel contesto dell’educazione, mostrando come strumenti di Trattamento Automatico della Lingua (TAL) per la profilazione linguistica del testo e l’accesso al contenuto permettano di: i) modellare le abilità linguistiche e di valutarne l’evoluzione nel corso dell’apprendimento e ii) supportare la creazione di risorse e percorsi didattici personalizzati rispetto alle competenze degli apprendenti e alle nuove modalità di fruizione anche in contesti di e-learning.</description>
     </item>
-    
-    <item>
-      <title>Il Codice Pelavicino tra edizione digitale e Public History</title>
-      <link>https://alemiaschi.github.io/publication/journal-article/pelavicino/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/journal-article/pelavicino/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Deep learning for social sensing from tweets</title>
-      <link>https://alemiaschi.github.io/publication/conference-paper/clic_2015/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/conference-paper/clic_2015/</guid>
-      <description></description>
+      <link>http://localhost:1313/papers/clic_2015/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/clic_2015/</guid>
+      <description>Distributional Semantic Models (DSM) that represent words as vectors of weights over a high dimensional feature space have proved very effective in representing semantic or syntactic word similarity. For certain tasks however it is important to represent contrasting aspects such as polarity, opposite senses or idiomatic use of words. We present a method for computing discriminative word embeddings can be used in sentiment classification or any other task where one needs to discriminate between con-trasting semantic aspects. We present an experiment in the identification of reports on natural disasters in tweets by means of these embeddings.</description>
     </item>
-    
     <item>
-      <title>Codice Pelavicino. Edizione Digitale</title>
-      <link>https://alemiaschi.github.io/publication/book-article/pelavicino/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/publication/book-article/pelavicino/</guid>
-      <description></description>
+      <title>Il Codice Pelavicino tra edizione digitale e Public History</title>
+      <link>http://localhost:1313/papers/ud_2017/</link>
+      <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/ud_2017/</guid>
+      <description>The Codice Pelavicino Digitale Project aims to publish an online digital edition of the relevant manuscript of the XIII century. In this paper features of the edition and related issues are addressed. Secondly we explain motivations for choosing a digital edition as a medium: we address the background, and common concerns in the context of Academy and clerical and historical archives. Finally we give insights on the international standard adopted to markup the text, i.e. XML-TEI, and EVT, a tool adopted to generate the final website and display texts and images.</description>
     </item>
-    
+    <item>
+      <title>List of Irregular Verbs Across Romance Languages</title>
+      <link>http://localhost:1313/data/data1/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/data/data1/</guid>
+      <description>This dataset contains all irregular verbs in known Romance languages.</description>
+    </item>
+    <item>
+      <title>Portugese Irregular Verbs</title>
+      <link>http://localhost:1313/books/book1/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/book1/</guid>
+      <description>This book discusses Portugese irregular verbs in great details.</description>
+    </item>
     <item>
       <title>PRELEARN @ EVALITA 2020</title>
-      <link>https://alemiaschi.github.io/project/prelearn/</link>
+      <link>http://localhost:1313/projects/prelearn/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate>
-      <guid>https://alemiaschi.github.io/project/prelearn/</guid>
-      <description>&lt;p&gt;This is the official webpage of the PRELEARN - Prerequisite RElation LEARNing Shared Task organized at EVALITA 2020. PRELEARN (Prerequisite Relation Learning) is a shared task on concept prerequisite learning which consists of classifying prerequisite relations between pairs of concepts distinguishing between prerequisite pairs and non-prerequisite pairs. For the purposes of this task, prerequisite relation learning is proposed as a problem of binary classification between two distinct concepts (i.e. a concept pair).&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/projects/prelearn/</guid>
+      <description>Webpage of the PRELEARN Shared Task at EVALITA 2020</description>
     </item>
-    
     <item>
       <title>ITA-PREREQ</title>
-      <link>https://alemiaschi.github.io/project/ita-prereq/</link>
+      <link>http://localhost:1313/projects/ita-prereq/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate>
-      <guid>https://alemiaschi.github.io/project/ita-prereq/</guid>
-      <description>&lt;p&gt;The ITA-PREREQ dataset is the first Italian dataset of concepts extracted from Wikipedia and annotated with prerequisite relations. Specifically, ITA-PREREQ is a conversion of the English AL-CPL dataset and contains a total of 455 concepts and 1,495 prerequisite relations extracted from four Wikipedia macro-domains: Data Mining, Geometry, Physics, and Numerical Analysis.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/projects/ita-prereq/</guid>
+      <description>ITA-PREREQ dataset.</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://alemiaschi.github.io/privacy/</link>
+      <link>http://localhost:1313/talks/files/mauriana2019/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/privacy/</guid>
-      <description></description>
+      <guid>http://localhost:1313/talks/files/mauriana2019/</guid>
+      <description>&lt;html&gt;
+	&lt;head&gt;
+		&lt;title&gt;Mauriana Pesaresi Seminars 2019&lt;/title&gt;
+	&lt;/head&gt;
+	&lt;body&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+        &lt;a href=&#34;https://doodle.com/poll/ha2ufq35z7uizpwi&#34;&gt;Link to doodle for managing the schedule&lt;/a&gt;
+	&lt;br/&gt;
+	&lt;a href=&#34;https://doodle.com/poll/mqck6pg7qb24g5nf&#34;&gt;Link to doodle for managing the pizza orders&lt;/a&gt;
+&lt;center&gt;
+			&lt;iframe src=&#34;https://docs.google.com/spreadsheets/d/1GGb0R4g-rzWzBNM3aLl7NQhGaRMZqGBOEcCc0i41CUU/edit?usp=sharing&#34; width=&#34;1100&#34; height=&#34;350&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+			&lt;br&gt;
+			&lt;br&gt;
+		&lt;/center&gt;
+			&lt;ul&gt;
+&lt;b&gt;Mauriana Pesaresi Seminars 2019 Speaking Calendar&lt;/b&gt;&lt;br&gt;
+ This is the page for the Mauriana Pesaresi Seminar of 2019. Here there will be infos regarding the spekers and their topics.&lt;br&gt;
+
+&lt;li&gt;&lt;b&gt;13 March 2019&lt;/b&gt;&lt;br&gt;
+	Speaker: &lt;b&gt;Stefano Chessa&lt;/b&gt;&lt;br&gt;
+	Title: &lt;a href=&#34;slides/seminario_13-3-2019.pdf&#34;&gt;Scientific papers and their performances&lt;/a&gt;&lt;br&gt;
+	Abstract: The talk shares considerations and observations concerning the quality and performance of research, accrued by the speaker during his activities as researcher and in support to the activities of evaluation of the quality of research in his own department. 
+The talk introduces the main performance indicators and it discusses the reasons why some papers achieve performances higher than other papers, by presenting case studies taken from the speaker&amp;apos;s own experience. The last part of the talk discusses some bad practices and explains why they are not a good idea.
+The presentation is geared primarily to doctoral students, but it is, of course, open to everybody.&lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+	&lt;b&gt;26 March 2019&lt;/b&gt;&lt;br&gt;
+	Speaker: &lt;b&gt;Irene Sucameli&lt;/b&gt;&lt;br&gt;
+	Title: &lt;a href=&#34;Visual_Verbs.pdf&#34;&gt;Describing verbs using visual vectors&lt;/a&gt;&lt;br&gt;
+	Abstract: In the research field of NL Processing and Understanding, perhaps one of the most challenging and interesting task is describing human knowledge and understanding. With this research we will try to answer to the following question: is it possible to define the semantic similarity between verbs using images? Our approach uses visual distributional semantic models applied to verb analysis. Moreover, our research lays the groundwork for the development of future a multimodal DSM.&lt;br&gt;
+&lt;/li&gt;
+
+	&lt;li&gt;
+		&lt;b&gt;2 April 2019&lt;/b&gt;&lt;br&gt;
+		Speaker: &lt;b&gt;Alessio Miaschi&lt;/b&gt;&lt;br&gt;
+		Title: &lt;a href=&#34;slides/seminario_pesaresi.pdf&#34;&gt;Natural Language Processing in the educational environment&lt;/a&gt;&lt;br&gt;
+		Abstract: The educational environment is changing on a drastic speed,
+from traditional classroom teaching ecology from the adaptive
+individual/collaborative learning. In this scenario, the interest in
+applying Natural Language Processing to education has rapidly increased.
+The talk discusses the main challenges in applying NLP to education,
+focusing principally on two research projects: tracking the evolution of
+student&#39;s writing skills and processing text from the web to personalize
+instructional materials.
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;b&gt;16 April 2019&lt;/b&gt;&lt;br&gt;
+		Speaker: &lt;b&gt;Lorenzo Ceragioli&lt;/b&gt;&lt;br&gt;
+		Title: &lt;a href=&#34;slides/slides_16_04.pdf&#34;&gt;High Level Management of Firewall Configurations&lt;/a&gt;&lt;br&gt;
+		Abstract: Firewalls are one of the standard mechanisms for protecting computer networks, the correctness of their configuration is of critical interest.
+Unfortunately, managing firewall configurations is notoriously an hard and error prone task, mainly because firewall languages are rather complex, low level and don&#39;t have a clear semantics.
+We present a formally-ground language-based approach for generating, analysing, porting and refactoring configurations at high level; it is based on a transcompilation pipeline between firewall languages, and implemented in a tool called FireWall Synthesizer (FWS).
+We also present a function-based redefinition of this pipeline, and some ongoing works devoted to fully support tag systems, and allow high level management of networks of firewalls.
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;b&gt;30 April 2019&lt;/b&gt;&lt;br&gt;
+		Speaker: &lt;b&gt;Riccardo Guidotti&lt;/b&gt;&lt;br&gt;
+		Title: Designing Clustering Algorithms For Personal Data Analytics&lt;br&gt;
+		Abstract:  Mining a large number of datasets recording human activities
+for making sense of individual data is the key enabler of a new wave of
+personalized knowledge-based services. We focus on the problems of (i)
+clustering individual transactional data and (ii) clustering stop points
+for a large mass of users. We present TOSCA and TX-Means, two
+parameter-free clustering algorithms able to efficiently partitioning
+transactional data and mobility data, respectively, in a completely
+automatic way. A deep experimentation on both real and synthetic
+datasets shows the practical effectiveness of the proposed algorithms
+and proves that they outperform existing methods in terms of quality and
+efficiency. We also present applications of them in real systems.
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;b&gt;7 May 2019&lt;/b&gt;&lt;br&gt;
+		Speaker: &lt;b&gt;Mattia Setzu&lt;/b&gt;&lt;br&gt;
+		Title: Tackling Explainability in Machine Learning&lt;br&gt;
+		Abstract: Machine learning is part and parcel of our society just as any other prominent computational field, and we expect it to grow more pervasive over time. Its impact on society is undeniably multifaceted and raises, among others, great concerns about its fairness and transparency. Among others, Explainability addresses these issues by  providing an interpretable layer on top of trained opaque machine learning models. In this talk we will introduce the aforementioned research field and ETHICA, a &#34;local-first&#34; model agnostic explanation algorithm. We will highlight its strength and weaknesses and present a plethora of empirical analysis on its performance. In conclusion, we will present some current research directions involving Latent Spaces and Counterfactual generation.
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;b&gt;14 May 2019&lt;/b&gt;&lt;br&gt;
+		Speaker: &lt;b&gt;Giorgio Vinciguerra&lt;/b&gt;&lt;br&gt;
+		Title: &lt;a href=&#34;slides/vinciguerra_pesaresi.pdf&#34;&gt;Superseding Traditional Indexes with Multicriteria Data Structures&lt;/a&gt;&lt;br&gt;
+		Abstract: The ever-growing amount of information coming from the Web, social networks and IoT severely impairs the management of data. Much research has been devoted to dealing with this issue, however, we still miss proper algorithmic solutions that work under computational constraints that vary across users, devices and time. 
+We therefore propose the concept of Multicriteria Data Structures, which add to the classic requirement of being efficient, the novel feature of dynamically adapting themselves to the constraints imposed by the application of use. 
+We show the potentiality of this concept by focusing on the paradigmatic dictionary problem. After reviewing some old and new solutions to this problem, we present the first multicriteria data structure, the PGM-index, that solves it with better (both asymptotically and experimentally) time and space than classic indexes for hierarchical memories, such as B-trees, and modern learned indexes. Finally, we show an optimisation algorithm that finds the best design setting of a PGM-index according to the input constraints (either in time or in space).
+	&lt;/li&gt;
+       &lt;li&gt;
+       		&lt;b&gt;7 June 2019&lt;/b&gt;&lt;br&gt;
+ 		Speaker: &lt;b&gt;Benedikt Bienh&amp;uuml;ls&lt;/b&gt;&lt;br/&gt;
+		Title: Service Planning and Disruption Management in Public Transport Systems&lt;br/&gt;
+		Abstract: Disruption management can be at least as challenging as the problem faced during the planning phase of a public transport system (that is, if a disruption occurs at the beginning of the service),which consist of multiple NP-hard subproblems. Solution approaches in the literature can be separated into sequential, semi-integrated and fully-integrated ones and range from heuristics to exact methods. We start with an overview of the steps involved in public transport planning and disruption management. Afterwards we explain some mathematical concepts used to tackle the problems involved. Finally, we look at methods that have been used in the literature and present different ways of approaching the problem.
+	&lt;/li&gt;
+        &lt;li&gt;
+		&lt;b&gt;11 June 2019&lt;/b&gt;&lt;br/&gt;
+		Speaker: &lt;b&gt;Giuseppe Attardi&lt;/b&gt;&lt;br/&gt;
+                Title: &lt;a href=&#34;https://drive.google.com/open?id=1B_gnTfd1DWLRXbT7XeWpFhGS0o8CA2OC&#34;&gt;The Tsunami of Deep Learning on NLP: the sequel&lt;/a&gt;&lt;br/&gt;
+		Abstract: Five years ago I gave an invited speech with this title at the Italian conference on Artificial Intelligence.
+I presented new techniques that were drastically changing the approaches to NLP.
+Recently, new advances in the field are making those approaches to be considered &amp;ldquo;old NLP&amp;rdquo;.
+It all started with the introduction of a mechanism of attention for sequence to sequence models used in neural machine translation. This was so effective to lead to suggest that &amp;ldquo;All you need is attention&amp;rdquo;, in the paper that introduced a general purpose language model, which accumulates knowledge of languages from billions of sentences.
+A single such model can be fine tuned to perform a variety of tasks, improving the SotA in all of them.
+Building such models requires significant computing resources, but they are so good that OpenAI restrained from distributing its model based on ethical considerations. The largest models require larger GPUs than one can normally afford, also just for tuning.
+The new tsunami is therefore both exciting and dangerous.
+Finally I will suggest four scientific challenges for current AI research.
+	&lt;/li&gt;
+        &lt;li&gt;
+		&lt;b&gt;25 June 2019&lt;/b&gt;&lt;br/&gt;
+		Speaker: &lt;b&gt;Fabrizio Luccio&lt;/b&gt;&lt;br/&gt;
+		Title: Simple mathematical proofs that you may not have seen in school&lt;br/&gt;
+		Abstract: The history of Mathematics is fill of intriguing results that are not always taught in school, some of which are amazing for their same nature and for relying on important proof methods. Among countless cases I will stay with seven. Pythagoras theorem and rigid trasformations. Irrational numbers and reductio ad absurdum. Fibonacci numbers and power series. Euler&amp;apos;s theorem on polyhedra and an invariant-preserving algorithm. A paradox from the school of Galileo and integral calculus. The ellipse, simmetry and a metric argument. Amazing sequences and potential functions. This talk is for recent members of the department, as it is an improved remake of one given several years ago in this same series.
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;b&gt;2 July 2019&lt;/b&gt;&lt;br/&gt;
+		Speaker: &lt;b&gt;Vahid Zolfaghari&lt;/b&gt;&lt;br/&gt;
+		Title: Security analysis of Internet of Things considering the Social relationships&lt;br/&gt;
+		Abstract: Traditionally, network traffic monitoring tools have focused merely on network-oriented metrics such as volume of data exchanged or top host talkers. Recent cybersecurity attacks instead demonstrated that social relationships have a great impact on network threats. These attacks exploit social relationships such as a shared disk between friends or people belonging to the same working group. To contrast cybersecurity  attacks of  this kind, novel analysis techniques need to be developed, which do  not focus  exclusively on packet-level analysis, but correlate traffic patterns  with the  properties of the nodes generating them (e.g., the same traffic  pattern might be  legitimate or not, depending on whether the communicating endpoints  belong to  the same user, to members of the same social community, or to complete  strangers).
+	&lt;/li&gt;
+	&lt;/ul&gt;
+		&lt;br&gt;
+	&lt;/body&gt;
+&lt;/html&gt;</description>
     </item>
-    
-    <item>
-      <title></title>
-      <link>https://alemiaschi.github.io/terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/terms/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

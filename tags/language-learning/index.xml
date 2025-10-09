@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>language learning | Alessio Miaschi</title>
-    <link>https://alemiaschi.github.io/tags/language-learning/</link>
-      <atom:link href="https://alemiaschi.github.io/tags/language-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>language learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
-      <title>language learning</title>
-      <link>https://alemiaschi.github.io/tags/language-learning/</link>
-    </image>
-    
+    <title>Language Learning on Alessio Miaschi</title>
+    <link>http://localhost:1313/tags/language-learning/</link>
+    <description>Recent content in Language Learning on Alessio Miaschi</description>
+    <generator>Hugo -- 0.150.1</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/language-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LANGLEARN @ EVALITA 2023</title>
-      <link>https://alemiaschi.github.io/project/langlearn/</link>
+      <link>http://localhost:1313/projects/langlearn/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/project/langlearn/</guid>
-      <description>&lt;p&gt;This is the official webpage of the LANGLEARN - Language Learning Development Shared Task organized at EVALITA 2023. LANGLEARN was proposed at EVALITA as the first shared task on automatic language development assessment. The task consists of predicting the relative order of two essays written by the same student.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/projects/langlearn/</guid>
+      <description>Webpage of the LANGLEARN Shared Task at EVALITA 2023</description>
     </item>
-    
   </channel>
 </rss>

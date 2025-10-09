@@ -1,26 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>t5 | Alessio Miaschi</title>
-    <link>https://alemiaschi.github.io/tags/t5/</link>
-      <atom:link href="https://alemiaschi.github.io/tags/t5/index.xml" rel="self" type="application/rss+xml" />
-    <description>t5</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://alemiaschi.github.io/images/icon_hu17af01e179191f389923d1b802f60b03_242678_512x512_fill_lanczos_center_3.png</url>
-      <title>t5</title>
-      <link>https://alemiaschi.github.io/tags/t5/</link>
-    </image>
-    
+    <title>T5 on Alessio Miaschi</title>
+    <link>http://localhost:1313/tags/t5/</link>
+    <description>Recent content in T5 on Alessio Miaschi</description>
+    <generator>Hugo -- 0.150.1</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/t5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linguistically Informed T5</title>
-      <link>https://alemiaschi.github.io/project/lit5/</link>
+      <link>http://localhost:1313/projects/lit5/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://alemiaschi.github.io/project/lit5/</guid>
-      <description>&lt;p&gt;This repository contains data and models associated to the LREC-COLING 2024 paper &lt;a href=&#39;https://aclanthology.org/2024.lrec-main.922.pdf&#39;&gt;&amp;ldquo;Linguistic Knowledge Can Enhance Encoder-Decoder Models (If You Let It)&amp;quot;&lt;/a&gt;. &lt;br&gt;
-&lt;b&gt;Abstract&lt;/b&gt;: In this paper, we explore the impact of augmenting pre-trained Encoder-Decoder models, specifically T5, with linguistic knowledge for the prediction of a target task. In particular, we investigate whether fine-tuning a T5 model on an intermediate task that predicts structural linguistic properties of sentences modifies its performance in the target task of predicting sentence-level complexity. Our study encompasses diverse experiments conducted on Italian and English datasets, employing both monolingual and multilingual T5 models at various sizes. Results obtained for both languages and in cross-lingual configurations show that linguistically motivated intermediate fine-tuning has generally a positive impact on target task performance, especially when applied to smaller models and in scenarios with limited data availability.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1313/projects/lit5/</guid>
+      <description>Suite of linguistically-informed T5 models</description>
     </item>
-    
   </channel>
 </rss>
