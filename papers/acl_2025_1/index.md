@@ -1,0 +1,54 @@
+---
+title: "Stress-testing Machine Generated Text Detection: Shifting Language Models Writing Style to Fool Detectors"
+date: 2025-07-27T00:00:00Z
+venue: Findings of ACL 2025
+author: ["Andrea Pedrotti", "Michele Papucci", "Cristiano Ciaccio", "Alessio Miaschi", "Giovanni Puccetti", "Felice Dell'Orletta", "Andrea Esuli"]
+summary: Recent advancements in Generative AI and Large Language Models (LLMs) have enabled the creation of highly realistic synthetic content, raising concerns about the potential for malicious use, such as misinformation and manipulation. Moreover, detecting Machine-Generated Text (MGT) remains challenging due to the lack of robust benchmarks that assess generalization to real-world scenarios. In this work, we evaluate the resilience of state-of-the-art MGT detectors (e.g., Mage, Radar, LLM-DetectAIve) to linguistically informed adversarial attacks. We develop a pipeline that fine-tunes language models using Direct Preference Optimization (DPO) to shift the MGT style toward human-written text (HWT), obtaining generations more challenging to detect by current models. Additionally, we analyze the linguistic shifts induced by the alignment and how detectors rely on “linguistic shortcuts” to detect texts. Our results show that detectors can be easily fooled with relatively few examples, resulting in a significant drop in detecting performances. This highlights the importance of improving detection methods and making them robust to unseen in-domain texts. We release code, models, and data to support future research on more robust MGT detection benchmarks.
+
+editPost:
+    URL: "https://2025.aclweb.org/"
+    Text: "Proceedings of the Findings of the 2025 Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2025, Vienna, Austria)"
+
+---
+
+##### Download
+
++ [Paper](https://aclanthology.org/2025.findings-acl.156.pdf)
+
+---
+
+##### Abstract
+
+Recent advancements in Generative AI and Large Language Models (LLMs) have enabled the creation of highly realistic synthetic content, raising concerns about the potential for malicious use, such as misinformation and manipulation. Moreover, detecting Machine-Generated Text (MGT) remains challenging due to the lack of robust benchmarks that assess generalization to real-world scenarios. In this work, we evaluate the resilience of state-of-the-art MGT detectors (e.g., Mage, Radar, LLM-DetectAIve) to linguistically informed adversarial attacks. We develop a pipeline that fine-tunes language models using Direct Preference Optimization (DPO) to shift the MGT style toward human-written text (HWT), obtaining generations more challenging to detect by current models. Additionally, we analyze the linguistic shifts induced by the alignment and how detectors rely on “linguistic shortcuts” to detect texts. Our results show that detectors can be easily fooled with relatively few examples, resulting in a significant drop in detecting performances. This highlights the importance of improving detection methods and making them robust to unseen in-domain texts. We release code, models, and data to support future research on more robust MGT detection benchmarks.
+
+---
+##### Citation
+
+```BibTeX
+@inproceedings{pedrotti-etal-2025-stress,
+    title = "Stress-testing Machine Generated Text Detection: Shifting Language Models Writing Style to Fool Detectors",
+    author = "Pedrotti, Andrea  and
+      Papucci, Michele  and
+      Ciaccio, Cristiano  and
+      Miaschi, Alessio  and
+      Puccetti, Giovanni  and
+      Dell{'}Orletta, Felice  and
+      Esuli, Andrea",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-acl.156/",
+    doi = "10.18653/v1/2025.findings-acl.156",
+    pages = "3010--3031",
+    ISBN = "979-8-89176-256-5",
+    abstract = "Recent advancements in Generative AI and Large Language Models (LLMs) have enabled the creation of highly realistic synthetic content, raising concerns about the potential for malicious use, such as misinformation and manipulation. Moreover, detecting Machine-Generated Text (MGT) remains challenging due to the lack of robust benchmarks that assess generalization to real-world scenarios. In this work, we evaluate the resilience of state-of-the-art MGT detectors (e.g., Mage, Radar, LLM-DetectAIve) to linguistically informed adversarial attacks. We develop a pipeline that fine-tunes language models using Direct Preference Optimization (DPO) to shift the MGT style toward human-written text (HWT), obtaining generations more challenging to detect by current models. Additionally, we analyze the linguistic shifts induced by the alignment and how detectors rely on ``linguistic shortcuts'' to detect texts. Our results show that detectors can be easily fooled with relatively few examples, resulting in a significant drop in detecting performances. This highlights the importance of improving detection methods and making them robust to unseen in-domain texts. We release code, models, and data to support future research on more robust MGT detection benchmarks."
+}
+```
+
+---
