@@ -1,0 +1,1 @@
+import{a as e,n as t}from"./jsx-runtime-Bg_NI1en.js";var n=e(t(),1);function r(e=640){let[t,r]=(0,n.useState)(()=>window.innerWidth<e);return(0,n.useEffect)(()=>{let t=()=>r(window.innerWidth<e);return window.addEventListener(`resize`,t),()=>window.removeEventListener(`resize`,t)},[e]),t}export{r as t};
