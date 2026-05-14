@@ -1,1 +1,0 @@
-function e(e,t){return e.reduce((e,n,r)=>e+n*t[r],0)}function t(e){return Math.sqrt(e.reduce((e,t)=>e+t*t,0))}function n(n,r){let i=e(n,r),a=t(n),o=t(r);return a===0||o===0?0:i/(a*o)}function r(e,t){return e.map((e,n)=>e+t[n])}function i(e,t){return e.map((e,n)=>e-t[n])}function a(e){return e<=0?1/0:-Math.log2(e)}export{i,a as n,r,n as t};
