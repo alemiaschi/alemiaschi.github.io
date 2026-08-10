@@ -1,0 +1,2781 @@
+{
+  "meta": {
+    "titolo": "Waypoints",
+    "sottotitolo": "",
+    "aggiornato": "2026-08-10"
+  },
+  "paesi": [
+    {
+      "id": 643,
+      "nome": "Russia",
+      "continente": "Europe",
+      "luoghi": [
+        {
+          "slug": "moscow",
+          "nome": "Moscow",
+          "coord": [55.752258, 37.619219],
+          "origine_coord": "exif",
+          "data": "2019-04-20",
+          "data_fine": "2019-04-27",
+          "descrizione": "Moscow is the capital and largest city of Russia, standing on the Moskva River in Central Russia. It has a population estimated at over 13 million residents within the city limits, over 19.1 million residents in the urban area, and over 21.5 million residents in its metropolitan area. The city covers an area of 2,511 square kilometers (970 mi2), while the urban area covers 5,891 square kilometers (2,275 mi2), and the metropolitan area covers over 26,000 square kilometers (10,000 mi2). Moscow is among the world's largest cities, being the most populous city entirely in Europe, the largest urban and metropolitan area in Europe, and the largest city by land area on the European continent.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Moscow"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2019-04-20T11:30:39",
+              "coord": [55.754528, 37.619319]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2019-04-20T11:41:26",
+              "coord": [55.752258, 37.623353]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2019-04-20T15:12:52",
+              "coord": [55.743989, 37.606892]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2019-04-20T15:43:23"
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2019-04-20T18:12:52",
+              "coord": [55.701667, 37.528572]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2019-04-20T22:45:26",
+              "coord": [55.754703, 37.619219]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2019-04-22T12:11:21",
+              "coord": [55.735989, 37.608394]
+            },
+            {
+              "file": "008.webp",
+              "didascalia": "",
+              "scattata": "2019-04-22T13:30:11",
+              "coord": [55.726556, 37.595139]
+            },
+            {
+              "file": "009.webp",
+              "didascalia": "",
+              "scattata": "2019-04-22T14:46:51",
+              "coord": [55.763817, 37.636242]
+            },
+            {
+              "file": "010.webp",
+              "didascalia": "",
+              "scattata": "2019-04-22T16:58:55",
+              "coord": [55.710067, 37.622067]
+            },
+            {
+              "file": "011.webp",
+              "didascalia": "",
+              "scattata": "2019-04-22T18:39:50",
+              "coord": [55.624061, 37.616817]
+            },
+            {
+              "file": "012.webp",
+              "didascalia": "",
+              "scattata": "2019-04-23T10:59:16",
+              "coord": [55.750769, 37.617856]
+            },
+            {
+              "file": "013.webp",
+              "didascalia": "",
+              "scattata": "2019-04-24T11:58:43",
+              "coord": [55.819306, 37.614442]
+            },
+            {
+              "file": "014.webp",
+              "didascalia": "",
+              "scattata": "2019-04-24T13:06:51",
+              "coord": [55.828061, 37.647156]
+            },
+            {
+              "file": "015.webp",
+              "didascalia": "",
+              "scattata": "2019-04-24T15:16:19",
+              "coord": [55.831333, 37.627881]
+            },
+            {
+              "file": "016.webp",
+              "didascalia": "",
+              "scattata": "2019-04-24T23:12:08",
+              "coord": [55.748572, 37.538897]
+            },
+            {
+              "file": "017.webp",
+              "didascalia": "",
+              "scattata": "2019-04-27T12:54:06",
+              "coord": [55.793992, 37.749642]
+            },
+            {
+              "file": "018.webp",
+              "didascalia": "",
+              "scattata": "2019-04-27T13:19:06",
+              "coord": [55.798411, 37.746175]
+            }
+          ],
+          "punti": []
+        }
+      ]
+    },
+    {
+      "id": 380,
+      "nome": "Italy",
+      "continente": "Europe",
+      "luoghi": [
+        {
+          "slug": "lipari",
+          "nome": "Lipari",
+          "coord": [38.463127, 14.956301],
+          "origine_coord": "exif",
+          "data": "2019-07-19",
+          "data_fine": "2019-07-24",
+          "descrizione": "Lipari is the largest of the seven Aeolian Islands, located in the Tyrrhenian Sea off the northern coast of Sicily, Southern Italy, and a comune (municipality) including six of them ; it is administratively part of the Metropolitan City of Messina. It has 12,793 permanent residents, but during the May to September tourist season, the total population may reach up to 20,000. It is also the name of the biggest island in the archipelago, where the main urban area of the comune is located.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Lipari"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2019-07-19T22:10:51",
+              "coord": [38.464803, 14.956442]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2019-07-20T08:10:02",
+              "coord": [38.46145, 14.956161]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2019-07-22T20:03:52",
+              "coord": [38.438789, 14.9442]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2019-07-23T17:27:04",
+              "coord": [38.405486, 14.959681]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2019-07-23T20:45:34",
+              "coord": [38.418389, 14.955156]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2019-07-24T20:24:55",
+              "coord": [38.817147, 15.253242]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "catania",
+          "nome": "Catania",
+          "coord": [37.508533, 15.084328],
+          "origine_coord": "exif",
+          "data": "2019-07-25",
+          "descrizione": "Catania is the second-largest city in the autonomous island region of Sicily in Italy, after Palermo, both by area and by population. Despite being the second largest city of the island, Catania is the centre of the most densely populated Sicilian conurbation, which is among the largest in Italy. It has important road and rail transport infrastructures, and hosts the main airport of Sicily. The city is located on Sicily's east coast, facing the Ionian Sea at the base of the active volcano Mount Etna.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Catania"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2019-07-25T14:06:50",
+              "coord": [37.507422, 15.085833]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2019-07-25T14:26:57",
+              "coord": [37.509644, 15.082822]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "la-thuile",
+          "nome": "La Thuile",
+          "coord": [45.710942, 6.975353],
+          "origine_coord": "exif",
+          "data": "2020-08-03",
+          "data_fine": "2020-08-08",
+          "descrizione": "La Thuile is a town and comune in the Aosta Valley of northwest Italy.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/La_Thuile%2C_Aosta_Valley"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2020-08-03T15:39:56",
+              "coord": [45.710942, 6.949564]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2020-08-04T11:34:44",
+              "coord": [45.778167, 6.882389]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2020-08-04T14:20:09",
+              "coord": [45.770142, 6.85475]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2020-08-05T13:08:18",
+              "coord": [45.677986, 6.975353]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2020-08-05T13:15:57",
+              "coord": [45.678531, 6.975992]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2020-08-05T13:48:31",
+              "coord": [45.679481, 6.980375]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2020-08-06T14:49:04",
+              "coord": [45.722533, 6.999786]
+            },
+            {
+              "file": "008.webp",
+              "didascalia": "",
+              "scattata": "2020-08-08T11:01:19",
+              "coord": [45.680192, 6.880939]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "cogne",
+          "nome": "Cogne",
+          "coord": [45.58015, 7.3035],
+          "origine_coord": "exif",
+          "data": "2020-08-07",
+          "descrizione": "Cogne is a town and comune (municipality) in Aosta Valley, northern Italy, with 1369 inhabitants, as of 2017.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Cogne"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2020-08-07T15:06:03",
+              "coord": [45.581786, 7.322694]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2020-08-07T16:19:42",
+              "coord": [45.579917, 7.302736]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2020-08-07T17:13:47",
+              "coord": [45.58015, 7.3035]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "rome",
+          "nome": "Rome",
+          "coord": [41.899156, 12.483367],
+          "origine_coord": "exif",
+          "data": "2021-06-16",
+          "data_fine": "2021-06-17",
+          "descrizione": "Rome is the capital city and most populated comune (municipality) of Italy. It is also the administrative centre of the Lazio region and of the Metropolitan City of Rome. A special comune named Roma Capitale with a population of 2.7 million in an area of 1,287.36 km2 (497.1 mi2), Rome is the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome Capital, with a population of 4.2 million, is the most populous metropolitan city in Italy.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Rome"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2021-06-16T23:34:04",
+              "coord": [41.891322, 12.492175]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2021-06-17T00:01:10",
+              "coord": [41.899156, 12.476872]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2021-06-17T00:21:20",
+              "coord": [41.900814, 12.483367]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "monopoli-2021",
+          "nome": "Monopoli",
+          "coord": [40.941372, 17.304181],
+          "origine_coord": "exif",
+          "data": "2021-08-10",
+          "data_fine": "2021-08-12",
+          "descrizione": "Monopoli is a town and municipality in Italy, in the Metropolitan City of Bari and region of Apulia. The town is roughly 156 square kilometres (60 sq mi) in area and lies on the Adriatic Sea about 40 kilometres southeast of Bari. It has a population of 49,246 (2014), and is important mostly as an agricultural, industrial and tourist centre.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Monopoli"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2021-08-10T16:29:12",
+              "coord": [40.996958, 17.218686]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2021-08-10T17:34:43",
+              "coord": [40.941372, 17.316964]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2021-08-10T21:51:46",
+              "coord": [40.9534, 17.304181]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2021-08-10T21:55:27",
+              "coord": [40.952769, 17.303939]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2021-08-11T12:36:06",
+              "coord": [40.782622, 17.236333]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2021-08-11T20:15:18",
+              "coord": [40.754844, 17.339494]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2021-08-12T11:46:21",
+              "coord": [40.742, 17.425494]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "ostuni",
+          "nome": "Ostuni",
+          "coord": [40.734608, 17.578131],
+          "origine_coord": "exif",
+          "data": "2021-08-12",
+          "descrizione": "Ostuni is a city and comune, located about 8 km from the coast, in the province of Brindisi, region of Apulia, Italy. The town has a population of about 30,000 during the winter, but can swell to 200,000 inhabitants during summer, being among the main towns attracting tourists in Apulia. It also has a continuous British and German immigrant community and an industrial zone. The region is a producer of high quality olive oil and wine.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Ostuni"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2021-08-12T13:54:18",
+              "coord": [40.734608, 17.578131]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "bari-2021",
+          "nome": "Bari",
+          "coord": [41.1281, 16.869889],
+          "origine_coord": "exif",
+          "data": "2021-08-13",
+          "descrizione": "Bari is the capital city of the Metropolitan City of Bari and of the region of Apulia, on the Adriatic Sea in southern Italy. It is one of the most important economic centres of mainland southern Italy. It is a port and university city as well as the city of Saint Nicholas. The city itself is the 9th-largest city in Italy with a population of 316,248, while the urban area has approximately 750,000 inhabitants.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Bari"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2021-08-13T13:55:46",
+              "coord": [41.1281, 16.869889]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "ceglie-messapica",
+          "nome": "Ceglie Messapica",
+          "coord": [40.647022, 17.515975],
+          "origine_coord": "exif",
+          "data": "2021-08-14",
+          "descrizione": "Ceglie Messapica is a town, and comune, located in the province of Brindisi and region of Apulia, in southern Italy, in the traditional area called Salento.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Ceglie_Messapica"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2021-08-14T12:16:11",
+              "coord": [40.647022, 17.515975]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "matera",
+          "nome": "Matera",
+          "coord": [40.664434, 16.61128],
+          "origine_coord": "exif",
+          "data": "2021-09-24",
+          "data_fine": "2021-09-25",
+          "descrizione": "Matera is a city and the capital of the Province of Matera in the region of Basilicata, in Southern Italy. With a history of continuous occupation dating back to prehistory, it is renowned for its rock-cut urban core, whose twin cliffside zones are known collectively as the Sassi.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Matera"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2021-09-24T09:30:32",
+              "coord": [40.664661, 16.612014]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2021-09-24T14:08:34",
+              "coord": [40.662194, 16.612269]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2021-09-24T15:54:43",
+              "coord": [40.664208, 16.612064]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2021-09-24T16:19:49",
+              "coord": [40.666703, 16.610547]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2021-09-25T10:21:22",
+              "coord": [40.668392, 16.609494]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2021-09-25T18:24:59",
+              "coord": [40.663231, 16.610297]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "naples",
+          "nome": "Naples",
+          "coord": [40.846072, 14.253233],
+          "origine_coord": "exif",
+          "data": "2022-06-08",
+          "data_fine": "2022-06-11",
+          "descrizione": "Naples is the regional capital of Campania, southern Italy. With a population of 905,050 within the city's administrative limits as of 2026, it is the largest city in southern Italy and the third-largest city in Italy after Rome and Milan, while its province-level municipality is the third most populous metropolitan city in Italy with a population of 2,954,847 residents – or the second largest according to OECD data. Its metropolitan area, the seventh most populous in the European Union, has a population of approximately 4.4 million and stretches beyond the boundaries of the city proper for approximately 30 kilometres. Naples also plays a key role in international diplomacy, being home to NATO's Allied Joint Force Command Naples and the Parliamentary Assembly of the Mediterranean.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Naples"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2022-06-08T12:05:48",
+              "coord": [40.846072, 14.253233]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2022-06-11T15:18:58",
+              "coord": [40.841442, 14.245156]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2022-06-11T15:44:29",
+              "coord": [40.836364, 14.248783]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "gorizia",
+          "nome": "Gorizia",
+          "coord": [45.942569, 13.6253],
+          "origine_coord": "exif",
+          "data": "2022-11-19",
+          "descrizione": "Gorizia is a town and municipality in the autonomous region of Friuli-Venezia Giulia of northeast Italy. It is located at the foot of the Julian Alps, bordering Slovenia. It is the capital of the Regional decentralization entity of Gorizia and is a local center of tourism, industry, and commerce. It has 33,620 inhabitants.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Gorizia"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2022-11-19T11:54:25",
+              "coord": [45.942558, 13.625314]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2022-11-19T11:54:32",
+              "coord": [45.942581, 13.625286]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "trieste",
+          "nome": "Trieste",
+          "coord": [45.6503, 13.770211],
+          "origine_coord": "exif",
+          "data": "2022-11-20",
+          "descrizione": "Trieste is a city and seaport in northeast Italy. It is the capital and largest city of the autonomous region of Friuli-Venezia Giulia, as well as of the regional decentralization entity of Trieste. As of 2025, it has a population of 198,668.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Trieste"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2022-11-20T11:37:49",
+              "coord": [45.6503, 13.770211]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2022-11-20T11:47:52",
+              "coord": [45.649836, 13.768078]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2022-11-20T12:32:38",
+              "coord": [45.652572, 13.771197]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "rome-2023",
+          "nome": "Rome",
+          "coord": [41.899047, 12.473192],
+          "origine_coord": "exif",
+          "data": "2023-05-02",
+          "descrizione": "Rome is the capital city and most populated comune (municipality) of Italy. It is also the administrative centre of the Lazio region and of the Metropolitan City of Rome. A special comune named Roma Capitale with a population of 2.7 million in an area of 1,287.36 km2 (497.1 mi2), Rome is the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome Capital, with a population of 4.2 million, is the most populous metropolitan city in Italy.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Rome"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2023-05-02T17:22:01",
+              "coord": [41.899047, 12.473192]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2023-05-02T17:47:30",
+              "coord": [41.905853, 12.482219]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2023-05-02T19:13:48",
+              "coord": [41.8358, 12.468353]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "venice",
+          "nome": "Venice",
+          "coord": [45.433355, 12.322944],
+          "origine_coord": "exif",
+          "data": "2023-11-29",
+          "data_fine": "2023-12-02",
+          "descrizione": "Venice is a city in northeastern Italy and the capital of the region of Veneto. It is built on a group of 126 islands that are separated by expanses of open water and by canals; portions of the city are linked by 472 bridges.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Venice"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2023-11-29T14:48:13",
+              "coord": [45.436967, 12.320256]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2023-11-29T16:12:58",
+              "coord": [45.429742, 12.325631]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2023-12-02T11:35:08",
+              "coord": [45.434789, 12.325972]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2023-12-02T12:39:19",
+              "coord": [45.436383, 12.337828]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2023-12-02T12:59:22",
+              "coord": [45.433781, 12.340911]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "naples-2024",
+          "nome": "Naples",
+          "coord": [40.836422, 14.248753],
+          "origine_coord": "exif",
+          "data": "2024-09-22",
+          "data_fine": "2024-09-23",
+          "descrizione": "Naples is the regional capital of Campania, southern Italy. With a population of 905,050 within the city's administrative limits as of 2026, it is the largest city in southern Italy and the third-largest city in Italy after Rome and Milan, while its province-level municipality is the third most populous metropolitan city in Italy with a population of 2,954,847 residents – or the second largest according to OECD data. Its metropolitan area, the seventh most populous in the European Union, has a population of approximately 4.4 million and stretches beyond the boundaries of the city proper for approximately 30 kilometres. Naples also plays a key role in international diplomacy, being home to NATO's Allied Joint Force Command Naples and the Parliamentary Assembly of the Mediterranean.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Naples"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2024-09-22T20:23:02",
+              "coord": [40.836522, 14.248753]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2024-09-22T20:26:57",
+              "coord": [40.835542, 14.249975]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2024-09-22T20:44:08",
+              "coord": [40.839803, 14.247706]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2024-09-22T22:42:49",
+              "coord": [40.841361, 14.246297]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2024-09-23T10:19:00",
+              "coord": [40.836422, 14.249858]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2024-09-23T10:27:51",
+              "coord": [40.831694, 14.251275]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2024-09-23T12:35:53",
+              "coord": [40.829997, 14.246964]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "cagliari",
+          "nome": "Cagliari",
+          "coord": [39.216357, 9.116405],
+          "origine_coord": "exif",
+          "data": "2025-09-24",
+          "descrizione": "Cagliari is a municipality and the capital and largest city of the island of Sardinia, an autonomous region of Italy. It has about 145,981 inhabitants, while its metropolitan city, including 69 other nearby municipalities, has about 536,245 inhabitants. According to Eurostat, the population of the functional urban area, the commuting zone of Cagliari, rises to 476,975. Cagliari is the 27th largest city in Italy.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Cagliari"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2025-09-24T13:33:16",
+              "coord": [39.222136, 9.115714]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2025-09-24T19:34:47",
+              "coord": [39.216478, 9.116308]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2025-09-24T19:35:30",
+              "coord": [39.216236, 9.116503]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2025-09-24T19:38:25",
+              "coord": [39.216122, 9.116783]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "bari",
+          "nome": "Bari",
+          "coord": [41.130356, 16.871047],
+          "origine_coord": "exif",
+          "data": "2026-02-27",
+          "descrizione": "Bari is the capital city of the Metropolitan City of Bari and of the region of Apulia, on the Adriatic Sea in southern Italy. It is one of the most important economic centres of mainland southern Italy. It is a port and university city as well as the city of Saint Nicholas. The city itself is the 9th-largest city in Italy with a population of 316,248, while the urban area has approximately 750,000 inhabitants.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Bari"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2026-02-27T17:40:12",
+              "coord": [41.130356, 16.871047]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "monopoli",
+          "nome": "Monopoli",
+          "coord": [40.9524, 17.304172],
+          "origine_coord": "exif",
+          "data": "2026-02-28",
+          "descrizione": "Monopoli is a town and municipality in Italy, in the Metropolitan City of Bari and region of Apulia. The town is roughly 156 square kilometres (60 sq mi) in area and lies on the Adriatic Sea about 40 kilometres southeast of Bari. It has a population of 49,246 (2014), and is important mostly as an agricultural, industrial and tourist centre.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Monopoli"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2026-02-28T11:46:22",
+              "coord": [40.950233, 17.304172]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2026-02-28T11:56:49",
+              "coord": [40.9524, 17.305089]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2026-02-28T12:22:40",
+              "coord": [40.953347, 17.304092]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2026-02-28T12:52:50",
+              "coord": [40.953819, 17.305672]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2026-02-28T16:52:49",
+              "coord": [40.916264, 17.021819]
+            }
+          ],
+          "punti": []
+        }
+      ]
+    },
+    {
+      "id": 620,
+      "nome": "Portugal",
+      "continente": "Europe",
+      "luoghi": [
+        {
+          "slug": "lisbon",
+          "nome": "Lisbon",
+          "coord": [38.69745, -9.203464],
+          "origine_coord": "exif",
+          "data": "2020-01-03",
+          "descrizione": "Lisbon is the capital and most populous city of Portugal, with an estimated population of 658,236 as of 2025, within its administrative limits and 3,353,000 within the metropolis, as of 2025. The city lies in the western portion of the Iberian Peninsula, on the northern shore of the River Tagus. The western portion of its metro area, the Portuguese Riviera, hosts the westernmost point of Continental Europe, culminating at Cabo da Roca.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Lisbon"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2020-01-03T10:31:04",
+              "coord": [38.716458, -9.131656]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2020-01-03T12:59:33",
+              "coord": [38.707356, -9.136681]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2020-01-03T15:29:17",
+              "coord": [38.693458, -9.2059]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2020-01-03T15:48:32",
+              "coord": [38.6918, -9.215356]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2020-01-03T17:05:12",
+              "coord": [38.69745, -9.203464]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "sintra",
+          "nome": "Sintra",
+          "coord": [38.787847, -9.390559],
+          "origine_coord": "exif",
+          "data": "2020-01-05",
+          "data_fine": "2020-01-06",
+          "descrizione": "Sintra, officially the Town of Sintra, is a town and municipality in the Greater Lisbon region of Portugal, located on the Portuguese Riviera. The population of the municipality in 2021 was 385,654, in an area of 319.23 square kilometres (123.26 sq mi). Sintra is one of the most urbanized and densely populated municipalities of Portugal. A major tourist destination famed for its picturesqueness, the municipality has several historic palaces, castles, scenic beaches, parks and gardens.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Sintra"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2020-01-05T22:12:06",
+              "coord": [38.706403, -9.145478]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2020-01-05T22:13:10",
+              "coord": [38.707425, -9.142642]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2020-01-06T12:40:42",
+              "coord": [38.798517, -9.388139]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2020-01-06T13:57:14",
+              "coord": [38.794808, -9.396486]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2020-01-06T14:31:49",
+              "coord": [38.796272, -9.395581]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2020-01-06T15:43:39",
+              "coord": [38.787983, -9.393025]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2020-01-06T16:14:04",
+              "coord": [38.787639, -9.390461]
+            },
+            {
+              "file": "008.webp",
+              "didascalia": "",
+              "scattata": "2020-01-06T16:37:26",
+              "coord": [38.787711, -9.390656]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "porto",
+          "nome": "Porto",
+          "coord": [41.142678, -8.612525],
+          "origine_coord": "exif",
+          "data": "2024-01-07",
+          "data_fine": "2024-01-08",
+          "descrizione": "Porto, also known in English as Oporto, is the second largest city in Portugal, after Lisbon. It is the capital of the Porto District and one of the Iberian Peninsula's major urban areas. Porto city proper, which is the entire municipality of Porto, is small compared to its metropolitan area, with an estimated population of 273,476 people in a municipal area of 41.42 km2 (16 sq mi). As of 2025, the Porto metropolitan area has around 1.9 million people in an area of 2,395 km2 (925 sq mi), making it the second-largest urban area in Portugal.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Porto"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2024-01-07T09:48:40",
+              "coord": [41.145364, -8.61295]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2024-01-07T09:50:21",
+              "coord": [41.145339, -8.612269]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2024-01-07T10:11:55",
+              "coord": [41.145094, -8.610814]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2024-01-07T10:14:15",
+              "coord": [41.144353, -8.610917]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2024-01-07T10:39:31",
+              "coord": [41.142678, -8.613078]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2024-01-07T10:44:27",
+              "coord": [41.1417, -8.613953]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2024-01-07T10:51:15",
+              "coord": [41.140544, -8.611675]
+            },
+            {
+              "file": "008.webp",
+              "didascalia": "",
+              "scattata": "2024-01-07T11:08:31",
+              "coord": [41.140594, -8.609883]
+            },
+            {
+              "file": "009.webp",
+              "didascalia": "",
+              "scattata": "2024-01-07T11:09:26",
+              "coord": [41.140328, -8.609461]
+            },
+            {
+              "file": "010.webp",
+              "didascalia": "",
+              "scattata": "2024-01-07T15:51:21",
+              "coord": [41.145633, -8.614581]
+            },
+            {
+              "file": "011.webp",
+              "didascalia": "",
+              "scattata": "2024-01-07T16:18:40",
+              "coord": [41.146672, -8.614947]
+            },
+            {
+              "file": "012.webp",
+              "didascalia": "",
+              "scattata": "2024-01-08T13:07:02",
+              "coord": [41.136739, -8.614925]
+            },
+            {
+              "file": "013.webp",
+              "didascalia": "",
+              "scattata": "2024-01-08T14:05:14",
+              "coord": [41.137772, -8.612525]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "aveiro",
+          "nome": "Aveiro",
+          "coord": [40.64362, -8.655784],
+          "origine_coord": "exif",
+          "data": "2024-01-09",
+          "descrizione": "Aveiro is a city and a municipality in Portugal. In 2021, the population was 80,880, in an area of 197.58 square kilometres (76.29 mi2): it is the second most populous city in the Centro Region of Portugal.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Aveiro%2C_Portugal"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2024-01-09T12:09:40",
+              "coord": [40.644142, -8.640783]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2024-01-09T12:38:42",
+              "coord": [40.641822, -8.655644]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2024-01-09T12:42:49",
+              "coord": [40.643222, -8.655925]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2024-01-09T12:45:59",
+              "coord": [40.644019, -8.656058]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "coimbra",
+          "nome": "Coimbra",
+          "coord": [40.211103, -8.427758],
+          "origine_coord": "exif",
+          "data": "2024-01-09",
+          "descrizione": "Coimbra, officially the City of Coimbra, is a city and a municipality in Portugal. The population of the municipality at the 2021 census was 140,796, in an area of 319.40 square kilometres (123.3 sq mi). It is the fourth-largest metropolitan area in Portugal after Lisbon, Porto, and Braga, and is the largest city of the district of Coimbra and the Central Region. About 460,000 people live in its intermunicipal community.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Coimbra"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2024-01-09T16:10:34",
+              "coord": [40.211103, -8.427758]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "vila-nova-de-gaia",
+          "nome": "Vila Nova de Gaia",
+          "coord": [41.104693, -8.63605],
+          "origine_coord": "exif",
+          "data": "2024-01-10",
+          "data_fine": "2024-01-11",
+          "descrizione": "Vila Nova de Gaia, or simply Gaia, is a city and a municipality in Porto District in Norte Region, Portugal. It is located south of the city of Porto on the other side of the Douro River. The city proper had a population of 178,255 in 2001. The municipality has an area of 168.46 square kilometres (65.04 mi2) and a population of 303,824 inhabitants in 2021, making it the most populous municipality in Norte Region, and the third most populous in the country, after Lisbon and Sintra.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Vila_Nova_de_Gaia"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2024-01-10T12:14:08",
+              "coord": [41.069108, -8.657789]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2024-01-11T12:52:29",
+              "coord": [41.140278, -8.614311]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "nazare",
+          "nome": "Nazaré",
+          "coord": [39.604511, -9.083636],
+          "origine_coord": "exif",
+          "data": "2024-01-10",
+          "descrizione": "Nazaré is a Portuguese resort town and municipality located in the Oeste region, in the historical province of Estremadura, and in the Leiria District. The municipality has a population of 14,889 in an area of 82.43 km2, while the town itself has around 10,000 inhabitants.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Nazar%C3%A9%2C_Portugal"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2024-01-10T15:03:10",
+              "coord": [39.604511, -9.078717]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2024-01-10T15:14:43",
+              "coord": [39.604767, -9.083636]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2024-01-10T15:16:39",
+              "coord": [39.604708, -9.084542]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2024-01-10T15:38:06",
+              "coord": [39.604503, -9.084967]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2024-01-10T16:39:55",
+              "coord": [39.601292, -9.072617]
+            }
+          ],
+          "punti": []
+        }
+      ]
+    },
+    {
+      "id": 336,
+      "nome": "Vatican City",
+      "continente": "Europe",
+      "luoghi": [
+        {
+          "slug": "vatican-city",
+          "nome": "Vatican City",
+          "coord": [41.902167, 12.457418],
+          "origine_coord": "exif",
+          "data": "2021-06-20",
+          "descrizione": "The flag of Vatican City, also referred to as the flag of the Holy See, consists of vertical bicolour of yellow and white, with the white half charged with the emblem of the Holy See. It was adopted in 1929, the year Pope Pius XI signed the Lateran Treaty with Italy, creating the new independent state of Vatican City.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Flag_of_Vatican_City"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2021-06-20T11:13:51",
+              "coord": [41.889561, 12.472717]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2021-06-20T13:57:30",
+              "coord": [41.902286, 12.459633]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2021-06-20T14:30:56",
+              "coord": [41.902192, 12.455203]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2021-06-20T15:24:07",
+              "coord": [41.902142, 12.453561]
+            }
+          ],
+          "punti": []
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "nome": "Belgium",
+      "continente": "Europe",
+      "luoghi": [
+        {
+          "slug": "brussels",
+          "nome": "Brussels",
+          "coord": [50.847212, 4.35241],
+          "origine_coord": "exif",
+          "data": "2023-06-23",
+          "data_fine": "2023-06-26",
+          "descrizione": "Brussels, officially the Brussels-Capital Region, is a region of Belgium comprising 19 municipalities, including the City of Brussels, which is the capital of Belgium. The Brussels-Capital Region is located in the central portion of the country. It is a part of both the French Community of Belgium and the Flemish Community, and is separate from the Flemish Region (Flanders), within which it forms an enclave, and the Walloon Region (Wallonia), located less than 4 km (2.5 mi) south.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Brussels"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2023-06-23T15:47:50",
+              "coord": [50.848828, 4.352622]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2023-06-23T16:29:06",
+              "coord": [50.846856, 4.352022]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2023-06-24T11:57:43",
+              "coord": [50.846128, 4.348]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2023-06-24T12:16:26",
+              "coord": [50.841431, 4.335444]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2023-06-24T18:48:04",
+              "coord": [50.847436, 4.352983]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2023-06-24T18:53:45",
+              "coord": [50.847733, 4.352736]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2023-06-24T22:27:35",
+              "coord": [50.846897, 4.351947]
+            },
+            {
+              "file": "008.webp",
+              "didascalia": "",
+              "scattata": "2023-06-25T12:28:27",
+              "coord": [50.850467, 4.357408]
+            },
+            {
+              "file": "009.webp",
+              "didascalia": "",
+              "scattata": "2023-06-25T16:36:15",
+              "coord": [50.894756, 4.342006]
+            },
+            {
+              "file": "010.webp",
+              "didascalia": "",
+              "scattata": "2023-06-25T22:11:14",
+              "coord": [50.827583, 4.366903]
+            },
+            {
+              "file": "011.webp",
+              "didascalia": "",
+              "scattata": "2023-06-25T22:43:03",
+              "coord": [50.8479, 4.359108]
+            },
+            {
+              "file": "012.webp",
+              "didascalia": "",
+              "scattata": "2023-06-26T23:18:30",
+              "coord": [50.846989, 4.352197]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "bruges",
+          "nome": "Bruges",
+          "coord": [51.20541, 3.22261],
+          "origine_coord": "exif",
+          "data": "2023-06-26",
+          "descrizione": "Bruges is the capital and largest city of the province of West Flanders, in the Flemish Region of Belgium. It is located in the northwest of the country, and is the sixth most populous city in Belgium. The predominant language is Dutch.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Bruges"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2023-06-26T12:14:41",
+              "coord": [51.200675, 3.220794]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2023-06-26T12:21:21",
+              "coord": [51.203372, 3.220839]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2023-06-26T13:19:21",
+              "coord": [51.209111, 3.224381]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2023-06-26T15:52:09",
+              "coord": [51.207447, 3.227958]
+            }
+          ],
+          "punti": []
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "nome": "Finland",
+      "continente": "Europe",
+      "luoghi": [
+        {
+          "slug": "rovaniemi",
+          "nome": "Rovaniemi",
+          "coord": [66.506843, 25.741079],
+          "origine_coord": "exif",
+          "data": "2024-03-12",
+          "data_fine": "2024-03-16",
+          "descrizione": "Rovaniemi is a city in Finland and the regional capital of Lapland. It is located near the Arctic Circle in the northern interior of the country. The population of Rovaniemi is approximately 66,000, while the sub-region has a population of approximately 70,000. It is the 17th most populous municipality in Finland, and the 11th most populous urban area in the country.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Rovaniemi"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2024-03-12T10:55:47",
+              "coord": [66.501389, 25.737769]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2024-03-12T11:20:23",
+              "coord": [66.499664, 25.744389]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2024-03-12T12:03:03",
+              "coord": [66.504172, 25.718639]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2024-03-12T14:02:20",
+              "coord": [66.509514, 25.728347]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2024-03-13T16:53:11",
+              "coord": [66.542756, 25.852428]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2024-03-13T17:10:20",
+              "coord": [66.542656, 25.853067]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2024-03-13T17:33:13",
+              "coord": [66.543564, 25.846689]
+            },
+            {
+              "file": "008.webp",
+              "didascalia": "",
+              "scattata": "2024-03-13T17:35:16",
+              "coord": [66.543578, 25.847303]
+            },
+            {
+              "file": "009.webp",
+              "didascalia": "",
+              "scattata": "2024-03-14T08:09:05",
+              "coord": [66.502511, 25.730811]
+            },
+            {
+              "file": "010.webp",
+              "didascalia": "",
+              "scattata": "2024-03-14T08:09:29",
+              "coord": [66.502594, 25.731108]
+            },
+            {
+              "file": "011.webp",
+              "didascalia": "",
+              "scattata": "2024-03-15T20:43:54",
+              "coord": [66.502425, 25.738803]
+            },
+            {
+              "file": "012.webp",
+              "didascalia": "",
+              "scattata": "2024-03-15T20:44:26",
+              "coord": [66.502678, 25.7391]
+            },
+            {
+              "file": "013.webp",
+              "didascalia": "",
+              "scattata": "2024-03-16T08:53:39",
+              "coord": [66.500739, 25.723553]
+            }
+          ],
+          "punti": []
+        }
+      ]
+    },
+    {
+      "id": 372,
+      "nome": "Ireland",
+      "continente": "Europe",
+      "luoghi": [
+        {
+          "slug": "cobh",
+          "nome": "Cobh",
+          "coord": [51.898175, -8.295736],
+          "origine_coord": "exif",
+          "data": "2024-10-03",
+          "data_fine": "2024-10-04",
+          "descrizione": "Cobh, known from 1849 until 1920 as Queenstown, is a seaport town on the south coast of County Cork, Ireland. With a population of 14,148 inhabitants at the 2022 census, Cobh is on the south side of Great Island in Cork Harbour and home to Ireland's only dedicated cruise terminal. Tourism in the area draws on the maritime and emigration legacy of the town.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Cobh"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2024-10-03T13:55:51",
+              "coord": [51.898689, -8.467656]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2024-10-03T18:57:11",
+              "coord": [51.898175, -8.469589]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2024-10-03T20:07:05",
+              "coord": [51.898633, -8.467531]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2024-10-04T12:09:44",
+              "coord": [51.849778, -8.295736]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2024-10-04T12:10:13",
+              "coord": [51.849931, -8.295583]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2024-10-04T12:42:05",
+              "coord": [51.851283, -8.294883]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2024-10-04T15:01:50",
+              "coord": [51.913617, -8.168414]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "killinane",
+          "nome": "Killinane",
+          "coord": [52.033192, -10.077653],
+          "origine_coord": "exif",
+          "data": "2024-10-05",
+          "descrizione": "William O'Grady (1801–1859) was an Anglican Archdeacon in Ireland in the middle of the nineteenth century.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/William_O'Grady_(cleric)"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2024-10-05T14:56:23",
+              "coord": [52.033344, -10.077653]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2024-10-05T14:56:58",
+              "coord": [52.033192, -10.077244]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2024-10-05T17:01:14",
+              "coord": [51.949397, -10.259317]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "ballysteen",
+          "nome": "Ballysteen",
+          "coord": [52.971072, -9.428728],
+          "origine_coord": "exif",
+          "data": "2024-10-06",
+          "descrizione": "Ballysteen is a small village and townland in County Limerick, Ireland. It is located in the civil parish of Iveruss and the historical barony of Kenry.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Ballysteen"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2024-10-06T12:49:02",
+              "coord": [52.971072, -9.428728]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2024-10-06T12:53:44",
+              "coord": [52.969689, -9.428578]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2024-10-06T13:03:16",
+              "coord": [52.971031, -9.428808]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2024-10-06T13:10:57",
+              "coord": [52.972339, -9.429533]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2024-10-06T13:42:39",
+              "coord": [52.979503, -9.426825]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "birr",
+          "nome": "Birr",
+          "coord": [53.325036, -7.987964],
+          "origine_coord": "exif",
+          "data": "2024-10-06",
+          "descrizione": "Birr is a town in County Offaly, Ireland. Between 1620 and 1899, it was called Parsonstown, after the Parsons family who were local landowners and hereditary Earls of Rosse. The town is in a civil parish of the same name.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Birr%2C_County_Offaly"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2024-10-06T17:18:04",
+              "coord": [53.325036, -7.987964]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2024-10-06T17:18:04",
+              "coord": [53.325036, -7.987964]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "dublin",
+          "nome": "Dublin",
+          "coord": [53.345478, -6.263642],
+          "origine_coord": "exif",
+          "data": "2024-10-07",
+          "data_fine": "2024-10-09",
+          "descrizione": "Dublin is the capital and largest city of Ireland. Situated on Dublin Bay at the mouth of the River Liffey, it is in the province of Leinster, and is bordered on the south by the Dublin Mountains, part of the Wicklow Mountains range. Dublin is the largest city by population on the island of Ireland; at the 2022 census, the city council area had a population of 592,713, while the city, including suburbs, had a population of 1,263,219, and County Dublin had a population of 1,501,500. Various definitions of a metropolitan Greater Dublin Area exist.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Dublin"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2024-10-07T10:57:53",
+              "coord": [53.345664, -6.261822]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2024-10-07T11:02:34",
+              "coord": [53.345478, -6.264278]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2024-10-07T11:33:52",
+              "coord": [53.344231, -6.263642]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2024-10-07T12:06:29",
+              "coord": [53.345611, -6.261975]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2024-10-07T15:13:59",
+              "coord": [53.349953, -6.299411]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2024-10-07T15:57:52",
+              "coord": [53.349669, -6.304022]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2024-10-07T18:23:25",
+              "coord": [53.340042, -6.260739]
+            },
+            {
+              "file": "008.webp",
+              "didascalia": "",
+              "scattata": "2024-10-08T15:43:54",
+              "coord": [53.342639, -6.264436]
+            },
+            {
+              "file": "009.webp",
+              "didascalia": "",
+              "scattata": "2024-10-09T13:53:14",
+              "coord": [53.339844, -6.261442]
+            }
+          ],
+          "punti": []
+        }
+      ]
+    },
+    {
+      "id": 840,
+      "nome": "United States",
+      "continente": "North America",
+      "luoghi": [
+        {
+          "slug": "miami",
+          "nome": "Miami",
+          "coord": [25.777814, -80.189903],
+          "origine_coord": "exif",
+          "data": "2024-11-10",
+          "data_fine": "2024-11-16",
+          "descrizione": "Miami is a coastal city in the southeast portion of the U.S. state of Florida. It is the second-most populous city proper in Florida, with a population of 442,241 at the 2020 census. The Miami metropolitan area in South Florida has an estimated 6.39 million residents, ranking as the fifth-largest metropolitan area in the Southeast and eighth-largest metropolitan area in the United States. Miami has the third-largest skyline in the U.S. with over 300 high-rises, 70 of which exceed 492 ft (150 m).",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Miami"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2024-11-10T19:51:42",
+              "coord": [25.767861, -80.190475]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2024-11-10T19:56:31",
+              "coord": [25.771658, -80.190217]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2024-11-10T20:17:30",
+              "coord": [25.777814, -80.186456]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2024-11-11T09:32:28",
+              "coord": [25.769847, -80.190108]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2024-11-11T09:38:21",
+              "coord": [25.770681, -80.192506]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2024-11-11T10:58:17",
+              "coord": [25.783772, -80.129906]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2024-11-11T10:58:45",
+              "coord": [25.783486, -80.129936]
+            },
+            {
+              "file": "008.webp",
+              "didascalia": "",
+              "scattata": "2024-11-11T11:12:26",
+              "coord": [25.7856, -80.127669]
+            },
+            {
+              "file": "009.webp",
+              "didascalia": "",
+              "scattata": "2024-11-11T11:19:39",
+              "coord": [25.786117, -80.129508]
+            },
+            {
+              "file": "010.webp",
+              "didascalia": "",
+              "scattata": "2024-11-11T11:21:07",
+              "coord": [25.786108, -80.129547]
+            },
+            {
+              "file": "011.webp",
+              "didascalia": "",
+              "scattata": "2024-11-11T13:07:11",
+              "coord": [25.765581, -80.220475]
+            },
+            {
+              "file": "012.webp",
+              "didascalia": "",
+              "scattata": "2024-11-11T13:46:25",
+              "coord": [25.765672, -80.217475]
+            },
+            {
+              "file": "013.webp",
+              "didascalia": "",
+              "scattata": "2024-11-11T14:09:41",
+              "coord": [25.765431, -80.219361]
+            },
+            {
+              "file": "014.webp",
+              "didascalia": "",
+              "scattata": "2024-11-11T17:50:15",
+              "coord": [25.769597, -80.189903]
+            },
+            {
+              "file": "015.webp",
+              "didascalia": "",
+              "scattata": "2024-11-11T19:27:33",
+              "coord": [25.770097, -80.191667]
+            },
+            {
+              "file": "016.webp",
+              "didascalia": "",
+              "scattata": "2024-11-12T12:09:43",
+              "coord": [25.770056, -80.191375]
+            },
+            {
+              "file": "017.webp",
+              "didascalia": "",
+              "scattata": "2024-11-13T20:10:57",
+              "coord": [25.785236, -80.188103]
+            },
+            {
+              "file": "018.webp",
+              "didascalia": "",
+              "scattata": "2024-11-13T20:12:28",
+              "coord": [25.785236, -80.188103]
+            },
+            {
+              "file": "019.webp",
+              "didascalia": "",
+              "scattata": "2024-11-14T11:24:32",
+              "coord": [25.770528, -80.190942]
+            },
+            {
+              "file": "020.webp",
+              "didascalia": "",
+              "scattata": "2024-11-15T17:25:23",
+              "coord": [25.801383, -80.199058]
+            },
+            {
+              "file": "021.webp",
+              "didascalia": "",
+              "scattata": "2024-11-15T17:26:19",
+              "coord": [25.801175, -80.199019]
+            },
+            {
+              "file": "022.webp",
+              "didascalia": "",
+              "scattata": "2024-11-15T17:34:00",
+              "coord": [25.800642, -80.201081]
+            },
+            {
+              "file": "023.webp",
+              "didascalia": "",
+              "scattata": "2024-11-15T22:52:27",
+              "coord": [25.783744, -80.130036]
+            },
+            {
+              "file": "024.webp",
+              "didascalia": "",
+              "scattata": "2024-11-15T22:53:18",
+              "coord": [25.784153, -80.129983]
+            },
+            {
+              "file": "025.webp",
+              "didascalia": "",
+              "scattata": "2024-11-15T23:17:59",
+              "coord": [25.790619, -80.130119]
+            },
+            {
+              "file": "026.webp",
+              "didascalia": "",
+              "scattata": "2024-11-16T11:30:12",
+              "coord": [25.773667, -80.185372]
+            },
+            {
+              "file": "027.webp",
+              "didascalia": "",
+              "scattata": "2024-11-16T12:18:02",
+              "coord": [25.775817, -80.1876]
+            }
+          ],
+          "punti": []
+        }
+      ]
+    },
+    {
+      "id": 724,
+      "nome": "Spain",
+      "continente": "Europe",
+      "luoghi": [
+        {
+          "slug": "barcelona",
+          "nome": "Barcelona",
+          "coord": [41.391403, 2.165203],
+          "origine_coord": "exif",
+          "data": "2025-04-06",
+          "data_fine": "2025-04-08",
+          "descrizione": "Barcelona is a city on the northeastern coast of Spain. It is the capital and largest city of the autonomous community of Catalonia, as well as the second-most populous municipality of Spain after Madrid. With a population of 1.7 million within city limits, its urban area extends to numerous neighbouring municipalities within the province of Barcelona and is home to around 5.7 million people, making it the fifth most populous urban area of the European Union after Paris, the Ruhr area, Madrid, and Milan. It is one of the largest metropolises on the Mediterranean Sea, located on the coast between the mouths of the rivers Llobregat and Besòs, and bounded to the west by the Serra de Collserola mountain range.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Barcelona"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2025-04-06T12:46:34",
+              "coord": [41.403947, 2.175081]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2025-04-06T13:15:06",
+              "coord": [41.391753, 2.165119]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2025-04-06T14:54:13",
+              "coord": [41.383114, 2.176303]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2025-04-06T14:56:50",
+              "coord": [41.384128, 2.175311]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2025-04-06T19:38:55",
+              "coord": [41.37125, 2.172158]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2025-04-06T20:39:03",
+              "coord": [41.380019, 2.175711]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2025-04-07T18:10:37",
+              "coord": [41.389369, 2.119358]
+            },
+            {
+              "file": "008.webp",
+              "didascalia": "",
+              "scattata": "2025-04-08T12:00:26",
+              "coord": [41.391839, 2.165203]
+            },
+            {
+              "file": "009.webp",
+              "didascalia": "",
+              "scattata": "2025-04-08T12:00:43",
+              "coord": [41.391814, 2.165192]
+            },
+            {
+              "file": "010.webp",
+              "didascalia": "",
+              "scattata": "2025-04-08T12:05:11",
+              "coord": [41.391403, 2.164558]
+            },
+            {
+              "file": "011.webp",
+              "didascalia": "",
+              "scattata": "2025-04-08T12:17:35",
+              "coord": [41.391483, 2.164736]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "seville",
+          "nome": "Seville",
+          "coord": [37.381586, -5.989565],
+          "origine_coord": "exif",
+          "data": "2025-11-01",
+          "data_fine": "2025-11-04",
+          "descrizione": "Seville is the capital and largest city of the Spanish autonomous community of Andalusia and the province of Seville. It is situated on the lower reaches of the River Guadalquivir, in the southwest of the Iberian Peninsula.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Seville"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2025-11-01T16:50:59",
+              "coord": [37.385781, -5.993947]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2025-11-01T17:24:20",
+              "coord": [37.379922, -5.987758]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2025-11-01T17:44:18",
+              "coord": [37.377425, -5.986392]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2025-11-01T17:51:37",
+              "coord": [37.376531, -5.986142]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2025-11-02T12:08:23",
+              "coord": [37.384892, -5.991372]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2025-11-02T12:15:35",
+              "coord": [37.384942, -5.991439]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2025-11-02T14:01:58",
+              "coord": [37.38325, -6.001442]
+            },
+            {
+              "file": "008.webp",
+              "didascalia": "",
+              "scattata": "2025-11-02T16:46:11",
+              "coord": [37.369597, -5.987531]
+            },
+            {
+              "file": "009.webp",
+              "didascalia": "",
+              "scattata": "2025-11-04T14:23:23",
+              "coord": [37.386494, -5.992547]
+            },
+            {
+              "file": "010.webp",
+              "didascalia": "",
+              "scattata": "2025-11-04T15:55:15",
+              "coord": [37.383883, -5.991619]
+            },
+            {
+              "file": "011.webp",
+              "didascalia": "",
+              "scattata": "2025-11-04T16:40:44",
+              "coord": [37.38295, -5.991342]
+            },
+            {
+              "file": "012.webp",
+              "didascalia": "",
+              "scattata": "2025-11-04T16:46:05",
+              "coord": [37.383586, -5.990303]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "cadiz",
+          "nome": "Cádiz",
+          "coord": [36.529561, -6.295064],
+          "origine_coord": "exif",
+          "data": "2025-11-03",
+          "descrizione": "Cádiz is a city in Spain and the capital of the province of Cádiz in the autonomous community of Andalusia. It is located in the southwest of the Iberian Peninsula off the Atlantic Ocean separated from neighbouring San Fernando by a narrow isthmus. One of the oldest continuously inhabited cities in Western Europe, Cádiz was founded by the Phoenicians as a trading post. In the 18th century, the port in the Bay of Cádiz consolidated itself as the main harbour of mainland Spain during the Spanish Empire, enjoying the virtual monopoly of trade with the Americas until 1778.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/C%C3%A1diz"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2025-11-03T14:08:56",
+              "coord": [36.530231, -6.292144]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2025-11-03T14:09:14",
+              "coord": [36.530128, -6.292275]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2025-11-03T14:18:16",
+              "coord": [36.529561, -6.295064]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2025-11-03T14:32:21",
+              "coord": [36.5288, -6.297803]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2025-11-03T14:40:20",
+              "coord": [36.528133, -6.300992]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2025-11-03T14:52:59",
+              "coord": [36.530636, -6.302117]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2025-11-03T16:42:55",
+              "coord": [36.529267, -6.294922]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "santander",
+          "nome": "Santander",
+          "coord": [43.469261, -3.803164],
+          "origine_coord": "exif",
+          "data": "2026-05-20",
+          "descrizione": "Santander is the capital of the autonomous community of Cantabria, Spain. It has a population of 172,000 (2017). It is a port city located in the northern coast of the Iberian Peninsula, facing the Cantabrian Sea.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Santander%2C_Spain"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2026-05-20T16:10:08",
+              "coord": [43.460817, -3.803164]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2026-05-20T16:29:52",
+              "coord": [43.469261, -3.765558]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2026-05-20T18:17:51",
+              "coord": [43.477019, -3.87725]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "llanes",
+          "nome": "Llanes",
+          "coord": [43.409775, -4.714331],
+          "origine_coord": "exif",
+          "data": "2026-05-21",
+          "data_fine": "2026-05-23",
+          "descrizione": "Llanes is a municipality of the province of Asturias, in northern Spain. Stretching for about 30 km along the coast at the extreme east of the province, Llanes is bounded to the south by the high ridge of the limestone Sierra del Cuera, which rises to over 1,100 m. The region is part of the Costa Verde of Spain, which is known for its spectacular coastal scenery, with 32 white sand beaches, and mountains covered with a deep green mantle. Llanes lies to the north of the Picos de Europa, a mountain range whose geology is almost entirely of limestone karst.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Llanes"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2026-05-21T08:34:36",
+              "coord": [43.386244, -4.39835]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2026-05-21T08:36:27",
+              "coord": [43.387072, -4.398847]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2026-05-21T08:48:06",
+              "coord": [43.389253, -4.407289]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2026-05-21T10:12:13",
+              "coord": [43.372039, -4.482975]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2026-05-21T12:44:15",
+              "coord": [43.396758, -4.527236]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2026-05-21T13:23:24",
+              "coord": [43.3884, -4.541206]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2026-05-21T15:15:20",
+              "coord": [43.396525, -4.591372]
+            },
+            {
+              "file": "008.webp",
+              "didascalia": "",
+              "scattata": "2026-05-21T15:18:32",
+              "coord": [43.396642, -4.592472]
+            },
+            {
+              "file": "009.webp",
+              "didascalia": "",
+              "scattata": "2026-05-21T15:32:00",
+              "coord": [43.3964, -4.601858]
+            },
+            {
+              "file": "010.webp",
+              "didascalia": "",
+              "scattata": "2026-05-21T16:14:25",
+              "coord": [43.395083, -4.618967]
+            },
+            {
+              "file": "011.webp",
+              "didascalia": "",
+              "scattata": "2026-05-22T09:46:08",
+              "coord": [43.407792, -4.687617]
+            },
+            {
+              "file": "012.webp",
+              "didascalia": "",
+              "scattata": "2026-05-22T11:26:02",
+              "coord": [43.409775, -4.714331]
+            },
+            {
+              "file": "013.webp",
+              "didascalia": "",
+              "scattata": "2026-05-22T13:04:18",
+              "coord": [43.418792, -4.748122]
+            },
+            {
+              "file": "014.webp",
+              "didascalia": "",
+              "scattata": "2026-05-22T13:16:48",
+              "coord": [43.419781, -4.753606]
+            },
+            {
+              "file": "015.webp",
+              "didascalia": "",
+              "scattata": "2026-05-22T13:17:06",
+              "coord": [43.419789, -4.753667]
+            },
+            {
+              "file": "016.webp",
+              "didascalia": "",
+              "scattata": "2026-05-22T14:58:24",
+              "coord": [43.420431, -4.754889]
+            },
+            {
+              "file": "017.webp",
+              "didascalia": "",
+              "scattata": "2026-05-22T15:24:03",
+              "coord": [43.42715, -4.766808]
+            },
+            {
+              "file": "018.webp",
+              "didascalia": "",
+              "scattata": "2026-05-22T16:01:17",
+              "coord": [43.429492, -4.785056]
+            },
+            {
+              "file": "019.webp",
+              "didascalia": "",
+              "scattata": "2026-05-22T17:25:26",
+              "coord": [43.4302, -4.793231]
+            },
+            {
+              "file": "020.webp",
+              "didascalia": "",
+              "scattata": "2026-05-23T09:24:32",
+              "coord": [43.433522, -4.831772]
+            },
+            {
+              "file": "021.webp",
+              "didascalia": "",
+              "scattata": "2026-05-23T10:08:03",
+              "coord": [43.440353, -4.849636]
+            },
+            {
+              "file": "022.webp",
+              "didascalia": "",
+              "scattata": "2026-05-23T10:55:55",
+              "coord": [43.437272, -4.870278]
+            },
+            {
+              "file": "023.webp",
+              "didascalia": "",
+              "scattata": "2026-05-23T11:25:33",
+              "coord": [43.447431, -4.886039]
+            }
+          ],
+          "punti": []
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "nome": "Austria",
+      "continente": "Europe",
+      "luoghi": [
+        {
+          "slug": "vienna",
+          "nome": "Vienna",
+          "coord": [48.208664, 16.372173],
+          "origine_coord": "exif",
+          "data": "2025-07-26",
+          "data_fine": "2025-07-31",
+          "descrizione": "Vienna is the capital, most populous city, and one of the nine states of Austria. It is Austria's primate city, with just over two million inhabitants. Its larger metropolitan area has a population of nearly 2.9 million, representing nearly one-third of the country's population. Vienna is the cultural, economic, and political centre of the country, the fifth-largest city by population in the European Union, and the most populous of the cities on the river Danube.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Vienna"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2025-07-26T19:51:59",
+              "coord": [48.208428, 16.372003]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2025-07-26T19:54:25",
+              "coord": [48.2089, 16.372344]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2025-07-29T20:19:44",
+              "coord": [48.235572, 16.413706]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2025-07-31T19:15:02",
+              "coord": [48.198547, 16.371289]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2025-07-31T19:16:54",
+              "coord": [48.198442, 16.371308]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2025-07-31T19:57:33",
+              "coord": [48.204011, 16.380436]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2025-07-31T19:57:48",
+              "coord": [48.204014, 16.380283]
+            }
+          ],
+          "punti": []
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "nome": "Bulgaria",
+      "continente": "Europe",
+      "luoghi": [
+        {
+          "slug": "varna",
+          "nome": "Varna",
+          "coord": [43.202717, 27.923303],
+          "origine_coord": "exif",
+          "data": "2025-09-10",
+          "data_fine": "2025-09-12",
+          "descrizione": "Varna is the third-largest city in Bulgaria and the largest city and seaside resort on the Bulgarian Black Sea Coast and in the Northern Bulgaria region. Situated strategically in the Gulf of Varna, the city has been a major economic, social, and cultural centre for almost three millennia. Historically known as Odessos, Varna developed from a Thracian seaside settlement into a major seaport on the Black Sea.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Varna%2C_Bulgaria"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2025-09-10T21:37:03",
+              "coord": [43.202717, 27.923931]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2025-09-11T18:14:49",
+              "coord": [43.201192, 27.923303]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2025-09-11T18:25:11",
+              "coord": [43.201081, 27.923811]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2025-09-11T19:05:28",
+              "coord": [43.204783, 27.919706]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2025-09-12T06:50:14",
+              "coord": [43.205697, 27.919636]
+            }
+          ],
+          "punti": []
+        }
+      ]
+    },
+    {
+      "id": 504,
+      "nome": "Morocco",
+      "continente": "Africa",
+      "luoghi": [
+        {
+          "slug": "sale",
+          "nome": "Salé",
+          "coord": [34.028796, -6.8241],
+          "origine_coord": "exif",
+          "data": "2026-08-03",
+          "data_fine": "2026-08-04",
+          "descrizione": "Salé is a city in northwestern Morocco, on the right bank of the Bou Regreg river, opposite the national capital Rabat, for which it serves as a commuter town. Along with some smaller nearby towns, Rabat and Salé together form a single metropolitan area.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Sal%C3%A9"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2026-08-03T10:43:54",
+              "coord": [34.030403, -6.836175]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2026-08-03T10:54:58",
+              "coord": [34.033058, -6.835272]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2026-08-03T11:46:52",
+              "coord": [34.028072, -6.834125]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2026-08-03T13:08:36",
+              "coord": [34.022719, -6.821892]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2026-08-03T13:17:52",
+              "coord": [34.023781, -6.822608]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2026-08-03T15:32:21",
+              "coord": [34.029519, -6.834453]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2026-08-03T19:49:27",
+              "coord": [34.026847, -6.835767]
+            },
+            {
+              "file": "008.webp",
+              "didascalia": "",
+              "scattata": "2026-08-04T12:11:58",
+              "coord": [34.006797, -6.823003]
+            },
+            {
+              "file": "009.webp",
+              "didascalia": "",
+              "scattata": "2026-08-04T12:38:03",
+              "coord": [34.006656, -6.820536]
+            },
+            {
+              "file": "010.webp",
+              "didascalia": "",
+              "scattata": "2026-08-04T12:59:41",
+              "coord": [34.007508, -6.819772]
+            },
+            {
+              "file": "011.webp",
+              "didascalia": "",
+              "scattata": "2026-08-04T15:16:55",
+              "coord": [34.038053, -6.823694]
+            },
+            {
+              "file": "012.webp",
+              "didascalia": "",
+              "scattata": "2026-08-04T15:26:36",
+              "coord": [34.038975, -6.823925]
+            },
+            {
+              "file": "013.webp",
+              "didascalia": "",
+              "scattata": "2026-08-04T15:34:08",
+              "coord": [34.039739, -6.827028]
+            },
+            {
+              "file": "014.webp",
+              "didascalia": "",
+              "scattata": "2026-08-04T16:00:29",
+              "coord": [34.038197, -6.824275]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "fez",
+          "nome": "Fez",
+          "coord": [34.06405, -4.97455],
+          "origine_coord": "exif",
+          "data": "2026-08-05",
+          "data_fine": "2026-08-06",
+          "descrizione": "Fez or Fes is a city in northern inland Morocco and the capital of the Fez-Meknes administrative region. It is one of the largest cities in Morocco, with a population of 1.256 million, according to the 2024 census. Located to the northwest of the Atlas Mountains, it is surrounded by hills and the old city is centered around the Fez River flowing from west to east.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Fez%2C_Morocco"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2026-08-05T14:19:03",
+              "coord": [34.063503, -4.97455]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2026-08-05T14:26:53",
+              "coord": [34.0643, -4.972847]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2026-08-05T14:30:52",
+              "coord": [34.06405, -4.972769]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2026-08-05T14:31:15",
+              "coord": [34.063847, -4.972728]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2026-08-05T14:45:29",
+              "coord": [34.066264, -4.970733]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2026-08-05T19:47:54",
+              "coord": [34.06265, -4.975517]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2026-08-05T20:05:10",
+              "coord": [34.062592, -4.975469]
+            },
+            {
+              "file": "008.webp",
+              "didascalia": "",
+              "scattata": "2026-08-05T20:08:22",
+              "coord": [34.062633, -4.975522]
+            },
+            {
+              "file": "009.webp",
+              "didascalia": "",
+              "scattata": "2026-08-05T20:21:44",
+              "coord": [34.062756, -4.975325]
+            },
+            {
+              "file": "010.webp",
+              "didascalia": "",
+              "scattata": "2026-08-06T10:39:28",
+              "coord": [34.064942, -4.973633]
+            },
+            {
+              "file": "011.webp",
+              "didascalia": "",
+              "scattata": "2026-08-06T10:41:36",
+              "coord": [34.065128, -4.973606]
+            },
+            {
+              "file": "012.webp",
+              "didascalia": "",
+              "scattata": "2026-08-06T11:12:16",
+              "coord": [34.065575, -4.971456]
+            },
+            {
+              "file": "013.webp",
+              "didascalia": "",
+              "scattata": "2026-08-06T11:28:46",
+              "coord": [34.065083, -4.974661]
+            },
+            {
+              "file": "014.webp",
+              "didascalia": "",
+              "scattata": "2026-08-06T12:11:03",
+              "coord": [34.065078, -4.976739]
+            },
+            {
+              "file": "015.webp",
+              "didascalia": "",
+              "scattata": "2026-08-06T12:32:47",
+              "coord": [34.061958, -4.9838]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "casablanca",
+          "nome": "Casablanca",
+          "coord": [33.606979, -7.632538],
+          "origine_coord": "exif",
+          "data": "2026-08-07",
+          "descrizione": "Casablanca is the largest city in Morocco and the country's economic and business centre. Located on the Atlantic coast of the Chaouia plain in the central-western part of Morocco, the city has a population of about 3.22 million in the urban area, and over 4.27 million in Greater Casablanca, making it the most populous city in the Maghreb region, and the ninth-largest in the Arab world.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Casablanca"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2026-08-07T12:13:55",
+              "coord": [33.598033, -7.615439]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2026-08-07T14:22:49",
+              "coord": [33.606586, -7.632358]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2026-08-07T14:24:55",
+              "coord": [33.607461, -7.632719]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2026-08-07T15:10:27",
+              "coord": [33.608131, -7.633447]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2026-08-07T16:05:05",
+              "coord": [33.607372, -7.633067]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2026-08-07T16:48:46",
+              "coord": [33.600625, -7.620678]
+            }
+          ],
+          "punti": []
+        },
+        {
+          "slug": "rabat",
+          "nome": "Rabat",
+          "coord": [34.029117, -6.834985],
+          "origine_coord": "exif",
+          "data": "2026-08-07",
+          "data_fine": "2026-08-08",
+          "descrizione": "Rabat is the capital city of Morocco, located on the northwestern coasts of the Atlantic Ocean. Rabat is the country's seventh-largest city with a population of 515,619 (2024) and the second largest metropolitan area after Casablanca, with a population of approximately 2.1 million (2025). It is also the capital city of the Rabat-Salé-Kénitra administrative region. Rabat is located on the Atlantic Ocean at the mouth of the river Bou Regreg, opposite Salé, the city's main commuter town.",
+          "fonte": {
+            "testo": "Wikipedia (en) — CC BY-SA 4.0",
+            "url": "https://en.wikipedia.org/wiki/Rabat"
+          },
+          "foto": [
+            {
+              "file": "001.webp",
+              "didascalia": "",
+              "scattata": "2026-08-07T21:34:35",
+              "coord": [34.030522, -6.835119]
+            },
+            {
+              "file": "002.webp",
+              "didascalia": "",
+              "scattata": "2026-08-08T11:17:00",
+              "coord": [34.030544, -6.835119]
+            },
+            {
+              "file": "003.webp",
+              "didascalia": "",
+              "scattata": "2026-08-08T12:22:26",
+              "coord": [34.026131, -6.833411]
+            },
+            {
+              "file": "004.webp",
+              "didascalia": "",
+              "scattata": "2026-08-08T12:33:34",
+              "coord": [34.024308, -6.836269]
+            },
+            {
+              "file": "005.webp",
+              "didascalia": "",
+              "scattata": "2026-08-08T13:48:54",
+              "coord": [34.02275, -6.838411]
+            },
+            {
+              "file": "006.webp",
+              "didascalia": "",
+              "scattata": "2026-08-08T18:35:35",
+              "coord": [34.030533, -6.83485]
+            },
+            {
+              "file": "007.webp",
+              "didascalia": "",
+              "scattata": "2026-08-08T18:47:22",
+              "coord": [34.030456, -6.834783]
+            },
+            {
+              "file": "008.webp",
+              "didascalia": "",
+              "scattata": "2026-08-08T23:54:59",
+              "coord": [34.027778, -6.834742]
+            }
+          ],
+          "punti": []
+        }
+      ]
+    }
+  ]
+}
