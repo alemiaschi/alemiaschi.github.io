@@ -1,13 +1,20 @@
 /**
  * Editor di posizionamento — gira solo in locale, con tools/editor_server.py.
  *
- * La coda a sinistra sono le foto che l'import non è riuscito a collocare.
- * Si trascina la foto sul punto della mappa; al rilascio compare un marker con
- * la miniatura e si conferma. Ogni salvataggio riscrive viaggi.json e lo stato
- * viene riletto dal file: niente stato solo-in-memoria da perdere.
+ * La coda a sinistra sono le foto che l'import non è riuscito a collocare,
+ * raggruppate per giornata. Si trascina la foto sul punto della mappa; al
+ * rilascio compare un marker con la miniatura e si conferma. Ogni salvataggio
+ * riscrive viaggi.json e lo stato viene riletto dal file: niente stato
+ * solo-in-memoria da perdere.
+ *
+ * Qui la mappa ha le strade e la ricerca per nome: senza, posizionare una foto
+ * vecchia su poligoni muti è indovinare.
  */
 
 import { slugifica } from './dati.js';
+
+const TILE = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
+const GIORNI_VICINI = 30; // quanto cercare avanti e indietro nel diario
 
 const stato = {
   viaggi: null,
@@ -21,7 +28,11 @@ const nodo = {
   coda: document.querySelector('[data-coda]'),
   contatore: document.querySelector('[data-contatore]'),
   messaggi: document.querySelector('[data-messaggi]'),
-  conferma: document.querySelector('[data-conferma]')
+  conferma: document.querySelector('[data-conferma]'),
+  cerca: document.querySelector('[data-cerca]'),
+  cercaCampo: document.querySelector('[data-cerca-campo]'),
+  cercaEsiti: document.querySelector('[data-cerca-esiti]'),
+  anteprima: document.querySelector('[data-anteprima]')
 };
 
 let mappa;
@@ -50,13 +61,21 @@ async function avvia() {
 
   mappa = L.map('mappa', {
     minZoom: 2,
-    maxZoom: 18,
+    maxZoom: 19,
     center: [30, 5],
     zoom: 3,
     worldCopyJump: true,
-    attributionControl: false
+    zoomControl: false // in alto a sinistra ci sta la ricerca
   });
+  L.control.zoom({ position: 'bottomleft' }).addTo(mappa);
 
+  // I poligoni danno il colpo d'occhio, le tile danno i nomi: servono
+  // entrambi. Le strade entrano da zoom 5, dove i confini non bastano più.
+  const strade = L.tileLayer(TILE, {
+    attribution: '&copy; OpenStreetMap',
+    className: 'strade-editor',
+    maxZoom: 19
+  });
   L.geoJSON(geo, {
     interactive: false,
     style: {
@@ -68,6 +87,14 @@ async function avvia() {
     }
   }).addTo(mappa);
 
+  function aggiornaStrade() {
+    const servono = mappa.getZoom() >= 5;
+    if (servono && !mappa.hasLayer(strade)) strade.addTo(mappa);
+    else if (!servono && mappa.hasLayer(strade)) strade.remove();
+  }
+  mappa.on('zoomend', aggiornaStrade);
+  aggiornaStrade();
+
   livelloMarker = L.layerGroup().addTo(mappa);
 
   mappa.on('click', (evento) => {
@@ -76,6 +103,8 @@ async function avvia() {
   });
 
   collegaTrascinamento();
+  collegaRicerca();
+  collegaAnteprima();
   document.addEventListener('keydown', tastiera);
   aggiorna();
 }
@@ -99,10 +128,41 @@ function giorno(voce) {
   return voce.scattata ? voce.scattata.slice(0, 10) : null;
 }
 
-function dataLeggibile(voce) {
-  if (!voce.scattata) return 'senza data';
-  const [data, ora] = voce.scattata.split('T');
-  return `${data} ${(ora ?? '').slice(0, 5)}`.trim();
+function oraLeggibile(voce) {
+  if (!voce.scattata) return '';
+  return (voce.scattata.split('T')[1] ?? '').slice(0, 5);
+}
+
+function giornoLeggibile(chiave) {
+  if (!chiave) return 'senza data';
+  const [a, m, g] = chiave.split('-').map(Number);
+  const mesi = ['January', 'February', 'March', 'April', 'May', 'June',
+    'July', 'August', 'September', 'October', 'November', 'December'];
+  return `${g} ${mesi[m - 1]} ${a}`;
+}
+
+/* --------------------------------------------- dove eri, in quei giorni */
+
+/**
+ * I luoghi già nel diario vicini nel tempo alla foto. Per uno scatto del 2013
+ * spesso non c'è niente, e va bene così: meglio niente che un suggerimento
+ * inventato. Quando c'è, è quasi sempre la risposta giusta.
+ */
+function luoghiVicini(voce) {
+  const quando = voce.scattata ? Date.parse(voce.scattata) : null;
+  if (!quando) return [];
+  const vicini = [];
+  for (const paese of stato.viaggi.paesi ?? []) {
+    for (const luogo of paese.luoghi ?? []) {
+      const da = Date.parse(`${luogo.data}T00:00:00`);
+      const a = Date.parse(`${luogo.data_fine ?? luogo.data}T23:59:59`);
+      if (Number.isNaN(da)) continue;
+      const scarto = quando < da ? da - quando : quando > a ? quando - a : 0;
+      const giorni = scarto / 86400000;
+      if (giorni <= GIORNI_VICINI) vicini.push({ luogo, paese, giorni });
+    }
+  }
+  return vicini.sort((x, y) => x.giorni - y.giorni).slice(0, 4);
 }
 
 /* ------------------------------------------------------------------- coda */
@@ -112,7 +172,7 @@ function disegnaCoda() {
   const quante = stato.coda.length;
   nodo.contatore.textContent = quante === 0
     ? 'niente da posizionare'
-    : `${quante} ${quante === 1 ? 'foto' : 'foto'} da posizionare`;
+    : `${quante} da posizionare`;
 
   if (!quante) {
     const vuoto = document.createElement('p');
@@ -122,71 +182,200 @@ function disegnaCoda() {
     return;
   }
 
+  // raggruppate per giornata: una giornata sta quasi sempre nello stesso posto,
+  // e ragionare su un giorno intero è molto più facile che su una foto sola
+  const perGiorno = new Map();
   for (const voce of stato.coda) {
-    const elemento = document.createElement('button');
-    elemento.type = 'button';
-    elemento.className = 'scheda';
-    elemento.draggable = true;
-    elemento.dataset.file = voce.file;
-    elemento.setAttribute('aria-pressed', String(stato.selezionata?.file === voce.file));
-    if (stato.selezionata?.file === voce.file) elemento.classList.add('scheda--scelta');
+    const chiave = giorno(voce);
+    if (!perGiorno.has(chiave)) perGiorno.set(chiave, []);
+    perGiorno.get(chiave).push(voce);
+  }
 
-    const immagine = document.createElement('img');
-    immagine.src = `./foto/_da-posizionare/thumb/${voce.file}`;
-    immagine.alt = voce.originale ?? voce.file;
-    immagine.width = 96;
-    immagine.height = 72;
-    immagine.loading = 'lazy';
-    immagine.draggable = false;
-    immagine.addEventListener('error', () => immagine.remove());
+  for (const [chiave, voci] of perGiorno) {
+    const gruppo = document.createElement('section');
+    gruppo.className = 'giornata';
 
-    const testo = document.createElement('span');
-    testo.className = 'scheda__testo';
-    testo.innerHTML =
-      `<b>${voce.originale ?? voce.file}</b>` +
-      `<span class="scheda__data">${dataLeggibile(voce)}</span>` +
-      (voce.coord ? '<span class="scheda__nota">ha il GPS, paese non riconosciuto</span>' : '');
+    const testa = document.createElement('h2');
+    testa.className = 'giornata__testa';
+    testa.append(
+      pezzo('span', giornoLeggibile(chiave), 'giornata__data'),
+      pezzo('span', `${voci.length}`, 'giornata__quante')
+    );
+    gruppo.append(testa);
 
-    elemento.append(immagine, testo);
-    elemento.addEventListener('click', () => scegli(voce));
-    elemento.addEventListener('dragstart', (evento) => {
-      scegli(voce);
-      evento.dataTransfer.setData('text/plain', voce.file);
-      evento.dataTransfer.effectAllowed = 'move';
-    });
-    nodo.coda.append(elemento);
+    const vicini = luoghiVicini(voci[0]);
+    if (vicini.length) {
+      const suggerimenti = document.createElement('p');
+      suggerimenti.className = 'giornata__vicini';
+      suggerimenti.append(pezzo('span', 'in quei giorni eri a:', 'giornata__vicini-etichetta'));
+      for (const { luogo, paese, giorni } of vicini) {
+        const bottone = document.createElement('button');
+        bottone.type = 'button';
+        bottone.className = 'vicino';
+        bottone.textContent = luogo.nome;
+        bottone.title = `${luogo.nome}, ${paese.nome} — ${
+          giorni === 0 ? 'proprio in quei giorni' : `a ${Math.round(giorni)} giorni di distanza`}`;
+        bottone.addEventListener('click', () => {
+          mappa.setView(luogo.coord, Math.max(mappa.getZoom(), 11));
+          annuncia(`${luogo.nome}: ${bottone.title.split('— ')[1]}. Trascina qui le foto se è il posto giusto.`);
+        });
+        suggerimenti.append(bottone);
+      }
+      gruppo.append(suggerimenti);
+    }
+
+    const griglia = document.createElement('div');
+    griglia.className = 'giornata__foto';
+    for (const voce of voci) griglia.append(schedaFoto(voce));
+    gruppo.append(griglia);
+    nodo.coda.append(gruppo);
+  }
+  evidenziaScelta();
+}
+
+function schedaFoto(voce) {
+  const elemento = document.createElement('div');
+  elemento.className = 'scheda';
+  elemento.draggable = true;
+  elemento.dataset.file = voce.file;
+  elemento.tabIndex = 0;
+  elemento.setAttribute('role', 'button');
+  elemento.title = `${voce.originale ?? voce.file} — clic per ingrandire, trascina sulla mappa`;
+
+  const immagine = document.createElement('img');
+  immagine.src = `./foto/_da-posizionare/thumb/${voce.file}`;
+  immagine.alt = voce.originale ?? voce.file;
+  immagine.loading = 'lazy';
+  immagine.draggable = false;
+  immagine.addEventListener('error', () => immagine.remove());
+
+  const ora = pezzo('span', oraLeggibile(voce), 'scheda__ora');
+  elemento.append(immagine, ora);
+  if (voce.coord) elemento.append(pezzo('span', 'GPS', 'scheda__gps'));
+
+  // clic = guardala grande (per le foto vecchie è l'unico modo di capire dove
+  // sono state scattate); la selezione la fa il trascinamento o Invio
+  elemento.addEventListener('click', () => mostraAnteprima(voce));
+
+  elemento.addEventListener('dragstart', (evento) => {
+    // NON ridisegnare la coda qui: sostituire i nodi durante il dragstart
+    // distrugge l'elemento che si sta trascinando e il browser annulla tutto.
+    stato.selezionata = voce;
+    stato.modalitaClick = false;
+    evidenziaScelta();
+    evento.dataTransfer.setData('text/plain', voce.file);
+    evento.dataTransfer.effectAllowed = 'move';
+  });
+
+  return elemento;
+}
+
+/** Aggiorna le classi senza ricostruire il DOM: il drag non sopravvive a un rebuild. */
+function evidenziaScelta() {
+  for (const scheda of nodo.coda.querySelectorAll('.scheda')) {
+    scheda.classList.toggle('scheda--scelta', scheda.dataset.file === stato.selezionata?.file);
   }
 }
 
-function scegli(voce) {
-  stato.selezionata = stato.selezionata?.file === voce.file ? null : voce;
-  stato.modalitaClick = false;
-  disegnaCoda();
-  if (stato.selezionata?.coord) {
-    mappa.setView(stato.selezionata.coord, Math.max(mappa.getZoom(), 9));
+/* -------------------------------------------------------- anteprima grande */
+
+function mostraAnteprima(voce) {
+  const immagine = nodo.anteprima.querySelector('img');
+  const didascalia = nodo.anteprima.querySelector('[data-anteprima-testo]');
+  immagine.src = `./foto/_da-posizionare/${voce.file}`;
+  immagine.alt = voce.originale ?? voce.file;
+  didascalia.textContent = `${voce.originale ?? voce.file} — ${giornoLeggibile(giorno(voce))} ${oraLeggibile(voce)}`;
+  nodo.anteprima.hidden = false;
+  nodo.anteprima.querySelector('[data-anteprima-chiudi]').focus();
+}
+
+function collegaAnteprima() {
+  const chiudi = () => { nodo.anteprima.hidden = true; };
+  nodo.anteprima.querySelector('[data-anteprima-chiudi]').addEventListener('click', chiudi);
+  nodo.anteprima.addEventListener('click', (evento) => {
+    if (evento.target === nodo.anteprima) chiudi();
+  });
+}
+
+/* ---------------------------------------------------------------- ricerca */
+
+function collegaRicerca() {
+  let ultimaRicerca = 0;
+
+  async function cerca() {
+    const testo = nodo.cercaCampo.value.trim();
+    if (!testo) return;
+    const mia = ++ultimaRicerca;
+    nodo.cercaEsiti.replaceChildren(pezzo('li', 'cerco…', 'cerca__attesa'));
+    let risposta;
+    try {
+      risposta = await (await fetch(`./cerca?q=${encodeURIComponent(testo)}`)).json();
+    } catch (errore) {
+      nodo.cercaEsiti.replaceChildren(pezzo('li', `ricerca fallita: ${errore.message}`, 'cerca__attesa'));
+      return;
+    }
+    if (mia !== ultimaRicerca) return; // è arrivata una ricerca più recente
+
+    nodo.cercaEsiti.replaceChildren();
+    const posti = risposta.posti ?? [];
+    if (!posti.length) {
+      nodo.cercaEsiti.append(pezzo('li', 'niente. Prova con più contesto ("Lisbon, Portugal").', 'cerca__attesa'));
+      return;
+    }
+    for (const posto of posti) {
+      const voce = document.createElement('li');
+      const bottone = document.createElement('button');
+      bottone.type = 'button';
+      bottone.className = 'cerca__esito';
+      bottone.append(
+        pezzo('span', posto.nome, 'cerca__nome'),
+        pezzo('span', posto.etichetta, 'cerca__dettaglio')
+      );
+      bottone.addEventListener('click', () => {
+        mappa.setView(posto.coord, 13);
+        nodo.cercaEsiti.replaceChildren();
+        nodo.cercaCampo.value = '';
+      });
+      voce.append(bottone);
+      nodo.cercaEsiti.append(voce);
+    }
   }
+
+  nodo.cercaCampo.addEventListener('keydown', (evento) => {
+    if (evento.key === 'Enter') {
+      evento.preventDefault();
+      cerca();
+    } else if (evento.key === 'Escape') {
+      nodo.cercaEsiti.replaceChildren();
+      nodo.cercaCampo.value = '';
+    }
+  });
+  nodo.cerca.querySelector('[data-cerca-vai]').addEventListener('click', cerca);
 }
 
 /* ---------------------------------------------------------------- tastiera */
 
 function tastiera(evento) {
   if (evento.key === 'Escape') {
+    if (!nodo.anteprima.hidden) {
+      nodo.anteprima.hidden = true;
+      return;
+    }
     annullaProposta();
     stato.modalitaClick = false;
     aggiornaSuggerimento();
     return;
   }
   if (evento.key !== 'Enter') return;
-  if (document.activeElement?.classList.contains('scheda')) {
-    const file = document.activeElement.dataset.file;
-    const voce = stato.coda.find((v) => v.file === file);
-    if (!voce) return;
-    evento.preventDefault();
-    stato.selezionata = voce;
-    stato.modalitaClick = true;
-    disegnaCoda();
-    aggiornaSuggerimento();
-  }
+  const attivo = document.activeElement;
+  if (!attivo?.classList.contains('scheda')) return;
+  const voce = stato.coda.find((v) => v.file === attivo.dataset.file);
+  if (!voce) return;
+  evento.preventDefault();
+  stato.selezionata = voce;
+  stato.modalitaClick = true;
+  evidenziaScelta();
+  aggiornaSuggerimento();
 }
 
 function aggiornaSuggerimento() {
@@ -246,18 +435,22 @@ function disegnaConferma() {
 
   const testo = document.createElement('p');
   testo.className = 'conferma__testo';
-  testo.innerHTML =
-    `<b>${voci.length === 1 ? (voci[0].originale ?? voci[0].file) : `${voci.length} foto`}</b>` +
-    `<span class="mono">${coord[0].toFixed(4)}, ${coord[1].toFixed(4)}</span>` +
-    `<span class="conferma__nota">Trascina il marker per correggere il punto.</span>`;
+  testo.append(
+    pezzo('b', voci.length === 1 ? (voci[0].originale ?? voci[0].file) : `${voci.length} foto`),
+    pezzo('span', `${coord[0].toFixed(4)}, ${coord[1].toFixed(4)}`, 'mono'),
+    pezzo('span', 'Trascina il marker per correggere il punto.', 'conferma__nota')
+  );
   nodo.conferma.append(testo);
 
   if (stessoGiorno.length && voci.length === 1) {
     const etichetta = document.createElement('label');
     etichetta.className = 'conferma__insieme';
-    etichetta.innerHTML =
-      `<input type="checkbox" data-insieme checked> posiziona qui anche le altre ` +
-      `${stessoGiorno.length} foto del ${giorno(voci[0])}`;
+    const spunta = document.createElement('input');
+    spunta.type = 'checkbox';
+    spunta.dataset.insieme = '';
+    spunta.checked = true;
+    etichetta.append(spunta, document.createTextNode(
+      ` posiziona qui anche le altre ${stessoGiorno.length} del ${giornoLeggibile(giorno(voci[0]))}`));
     nodo.conferma.append(etichetta);
   }
 
@@ -401,6 +594,13 @@ async function salva(operazioni) {
 function annuncia(testo, errore = false) {
   nodo.messaggi.textContent = testo;
   nodo.messaggi.classList.toggle('messaggi--errore', errore);
+}
+
+function pezzo(tag, testo, classe) {
+  const elemento = document.createElement(tag);
+  if (classe) elemento.className = classe;
+  elemento.textContent = testo;
+  return elemento;
 }
 
 avvia();
