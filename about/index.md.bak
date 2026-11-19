@@ -1,0 +1,20 @@
+---
+title: "Bio"
+date: 2025-01-01
+layout: single
+hideMeta: true
+---
+
+<p style='text-align: justify;'>I am a permanent researcher at the
+            <a href='http://www.italianlp.it/' target='_blank' style='color: #cb7e58; font-weight: bold;'>ItaliaNLP Lab</a>,
+            Institute for Computational Linguistics &ldquo;A. Zampolli&rdquo;
+            (<a href='https://www.ilc.cnr.it/' target='_blank' style='color: #cb7e58; font-weight: bold;'>CNR-ILC</a>, Pisa).
+            In 2022, I received my PhD in Computer Science at the University of Pisa with a thesis focused on tracking and understanding the linguistic abilities encoded by Neural Language Models based on the Transformer architecture (<a href='https://alemiaschi.github.io/papers/phd_thesis/' target='_blank' style='color: #cb7e58; font-weight: bold;'>PhD Thesis</a>).
+            <br/> My research revolves around the study of computational models of language, with a specific focus on Language Models (LMs). In particular, I am interested in the interpretability of large-scale LMs and in the analysis of their internal representations, with the goal of understanding how these models acquire, organize, and exhibit linguistic knowledge. Within this framework, I work on evaluating the linguistic competence of LMs and on developing methods to analyze their behavior with respect to specific language phenomena. Alongside this, I am involved in the development of NLP tools with a strong applied orientation, designed for use in concrete domains such as education, software analysis, and Digital Humanities. You can find the list of my publications here: <a href='https://alemiaschi.github.io/papers/' style='color: #cb7e58; font-weight: bold;'>Publications</a>.<br/>
+                        <br/>Alongside my research, I also teach at the University of Pisa and Padova, where I am involved in two courses of Computational Linguistics. I also quite often give talks related to my research activities, both at academic venues and in more informal settings. You can find more about my teaching activities, along with the theses I have supervised, <a href='https://alemiaschi.github.io/courses/' style='color: #cb7e58; font-weight: bold;'>here</a>, and a list of my talks <a href='https://alemiaschi.github.io/talks/' style='color: #cb7e58; font-weight: bold;'>here</a>. I am also involved in the organisation of scientific events: I was among the organisers of the 2026 edition of <a href='https://www.ilc.cnr.it/events/evalita-2026/' target='_blank' style='color: #cb7e58; font-weight: bold;'>EVALITA</a>, the evaluation campaign for Italian NLP, and from 2027 I serve as co-chair of the <a href='https://www.ieee-congress.org/cist27/conferences/7th-ieee-mnlp' target='_blank' style='color: #cb7e58; font-weight: bold;'>IEEE MNLP</a> conference, co-located with CiSt 2027.<br/>
+            <br/>In my free time, I enjoy watching
+            <a href='https://letterboxd.com/myHusky/' target='_blank' style='color: #cb7e58; font-weight: bold;'>movies</a>,
+            listening to <a href='https://rateyourmusic.com/~myHusky' target='_blank' style='color: #cb7e58; font-weight: bold;'>music</a>, <a href='https://harmonylab-beige.vercel.app/' target='_blank' style='color: #cb7e58; font-weight: bold;'>playing it</a> myself,
+            reading <a href='https://www.goodreads.com/user/show/57972132-alessio' target='_blank' style='color: #cb7e58; font-weight: bold;'>books</a>,
+            and <a href='https://alemiaschi.github.io/waypoints/' style='color: #cb7e58; font-weight: bold;'>travelling</a>.
+            I also keep a list of <a href='/reads/' style='color: #cb7e58; font-weight: bold;'>interesting reads</a> I come across — blog posts, articles, and other things worth sharing.</p>
